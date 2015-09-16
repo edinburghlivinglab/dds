@@ -4,7 +4,7 @@ baseurl: /dds
 # Site settings
 title: Data, Design and Society
 email: ewanl@inf.ed.ac.uk
-description: ""
+description: "Site for University of Edinburgh Undergraduate Course"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -15,37 +15,36 @@ color:
 # Team names, titles and social links
 people:
 - name: Ewan Klein
-  pic: 1
+  pic: ewan
   position: Course Organiser
   social:
     - title: twitter
-      url: ewanhklein
-    # - title: facebook
-    #   url: #
-    # - title: stack-overflow
-    #   url: #
+      url: https://twitter.com/ewanhklein
+    - title: linkedin
+      url: https://uk.linkedin.com/in/ewanklein
+    - title: github
+      url: https://github.com/ewan-klein
 
 - name: James Stewart
-  pic: 2
-  position: Lecturer
+  pic: james
+  position: Senior Research Fellow
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/jamesks
     - title: facebook
-      url: #
+      url: https://www.facebook.com/jameskstewart
     - title: linkedin
-      url: #
+      url: https://uk.linkedin.com/in/jamesks
 
 - name: Alyssa Alcorn
-  pic: 3
+  pic: alyssa
   position: Teaching Assistant
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/a_m_alcorn0131
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/a.m.alcorn
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
