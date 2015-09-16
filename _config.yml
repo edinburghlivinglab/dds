@@ -6,6 +6,9 @@ title: Data, Design and Society
 email: ewanl@inf.ed.ac.uk
 description: "Site for University of Edinburgh Undergraduate Course"
 
+# exclusion of _posts is temporary
+exclude: ['Gemfile', 'Gemfile.lock', 'README.md', 'THEME_LICENSE', 'mail', '_posts']
+
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: fed136
