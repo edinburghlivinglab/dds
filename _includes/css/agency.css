@@ -266,7 +266,8 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url({{ base }}/img/header-bg.jpg);
+    background-image: url(https://raw.githubusercontent.com/edinburghlivinglab/dds/gh-pages/img/header-bg.jpg);
+    /* background-image: url(../../img/header-bg.jpg); */
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
