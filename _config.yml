@@ -67,6 +67,7 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
+    - Makefile
 
 
 # The language setting is used in /includes/header.html for html-settings
@@ -102,7 +103,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: ewan     # Default author for pages
   -
     scope:
       path: ""
@@ -111,7 +112,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: ewan     # Default author for posts
 
 
 
