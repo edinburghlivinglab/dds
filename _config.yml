@@ -16,11 +16,11 @@ slogan: "Learning by Developing"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes."
+description: "Data, Design and Society is an innovative course that uses learning-by-developing."
 
 # Main author of the website
 # See > authors.yml
-author: 
+author: ewan
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -29,7 +29,8 @@ baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+# improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: 
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -41,7 +42,7 @@ urlimg: 'https://edinburghlivinglab.github.io/dds/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: 
 
 
 # Paginates all X entries
@@ -59,6 +60,7 @@ highlight: rouge
 gems: [jekyll-paginate]
 excerpt_separator: "<!--more-->"
 include: ['.htaccess']
+
 # Exclude these files from your production _site
 exclude:
     - .sass-cache
@@ -73,7 +75,6 @@ exclude:
 
 # The language setting is used in /includes/header.html for html-settings
 language: "en"
-
 
 # Used › default.html front-matter and compress.html
 # Options › http://jch.penibelst.de
