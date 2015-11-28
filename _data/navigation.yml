@@ -26,12 +26,14 @@
 #
 #   Navigation to the right › side: right
 #
-- title: "Overview"
-  url: "/overview/"
-  side: right
+
 
 - title: "Syllabus"
   url: "/syllabus/"
+  side: right
+
+- title: "Projects"
+  url: "/projects/"
   side: right
 
 - title: "Assessment"
