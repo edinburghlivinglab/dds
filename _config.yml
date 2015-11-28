@@ -42,7 +42,7 @@ urlimg: 'https://edinburghlivinglab.github.io/dds/images/'
 
 
 # Logo size is 600x80 pixels
-logo: 
+logo: dds-logo.png
 
 
 # Paginates all X entries

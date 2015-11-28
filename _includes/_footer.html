@@ -59,21 +59,27 @@
 
       <div id="subfooter">
         <nav class="row">
-          <section id="subfooter-left" class="b30 small-12 medium-6 columns credits">
-          <!--   <p> -->
-          <!--     Leave some &hearts; -->
-          <!--     for&nbsp; -->
-          <!--     <a href="http://phlow.de" alt="Theme created by Phlow">Phlow</a> -->
-          <!--   </p> -->
+          <section id="subfooter-left" class="b30 small-12 medium-5 columns credits">
+            <p>
+              Copyright &copy; <a href="http://ed.ac.uk">University of Edinburgh</a> 2015&ndash;2016              
+            </p>
           </section>
 
-          <section id="subfooter-right" class="small-12 medium-6 columns social-icons">
+          <section id="subfooter-center" class="small-12 medium-4 columns social-icons">
             <ul class="inline-list">
             {% for social_item in site.data.socialmedia %}
               <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
             {% endfor %}
             </ul>
           </section>
+
+
+          <section id="subfooter-right" class="small-12 medium-3 columns credits">
+            <p>
+              Licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>          
+            </p>
+          </section>
+
         </nav>
       </div><!-- /#subfooter -->
     </footer>
