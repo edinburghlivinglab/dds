@@ -1,19 +1,24 @@
-<!DOCTYPE html>
-<html>
+---
+layout: compress
+---
+<!doctype html>
+<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
+<head>
+	{% include _head.html %}
+</head>
+<body id="top-of-page" class="{{ layout.format }}">
+	{% unless page.skip_boilerplate %}
+	{% include _navigation.html %}
+	{% endunless %}
 
-  {% include head.html %}
+	{% include _masthead.html %}
 
-    <body id="page-top" class="index">
-    {% include base.html %}
-    {% include header.html %}
-    {% include overview.html %}
-    {% include syllabus.html %}
-    {% include assessment.html %}
-    {% include theme_grid.html %}
-    {% include team.html %}
-    {% include footer.html %}
-    {% include modals.html %}
-    {% include js.html %}
+	{{ content }}
 
-    </body>
+	{% unless page.skip_boilerplate %}
+	{% include _footer.html %}
+	{% endunless %}
+
+	{% include _footer_scripts.html %}
+</body>
 </html>

@@ -1,0 +1,46 @@
+#
+#   Navigation to the left › side: left
+#
+- title: Start
+  url: "/"
+  side: left
+
+
+# - title: Blog
+#   url: "/blog/"
+#   side: left
+#   dropdown:
+#   - title: "Blog Archive"
+#     url: "/blog/archive/"
+
+#
+#   Navigation to the right › side: right
+#
+
+
+- title: "Syllabus"
+  url: "/syllabus/"
+  side: right
+
+- title: "Projects"
+  url: "/projects/"
+  side: right
+
+- title: "Assessment"
+  url: "/assessment/"
+  side: right
+
+- title: "Resources"
+  url: "#"
+  side: right
+  dropdown:
+  - title: "Dropdown Menu 1"
+    url: "#"
+  - title: "Dropdown Menu 2"
+    url: "#"
+  - title: "Dropdown Menu 3"
+    url: "#"
+
+- title: "Team"
+  url: "/team/"
+  side: right
