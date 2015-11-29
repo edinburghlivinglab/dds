@@ -42,11 +42,11 @@ permalink: "/team/"
 			<img src="{{ site.urlimg }}alyssa.jpg" class="" alt="">
 			<h4>Alyssa Alcorn</h4>
 			<p class="text-muted">Teaching Assistant<br/>aalcorn&nbsp;[AT]&nbsp;staffmail.ed.ac.uk</p>
-		  
+		    <p>
 		    <a href="https://twitter.com/a_m_alcorn0131"><i class="icon-twitter"></i></a>
 			&nbsp;	
 			<a href="https://www.facebook.com/a.m.alcorn"><i class="icon-facebook"></i></a>
-			
+			</p>
 	</div>
 	
 
