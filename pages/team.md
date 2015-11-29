@@ -11,7 +11,7 @@ permalink: "/team/"
 	
 	<div class="small-12 medium-4 text-center columns">
 	
-			<img src="/images/ewan.jpg" class="" alt="">
+			<img src="{{ site.urlimg }}ewan.jpg" class="" alt="">
 			<h4>Ewan Klein</h4>
 			<p class="text-muted">Course Organiser<br/>ewan&nbsp;[AT]&nbsp;inf.ed.ac.uk</p>
 							
