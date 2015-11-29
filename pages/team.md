@@ -24,7 +24,7 @@ permalink: "/team/"
 	
 	<div class="small-12 medium-4 text-center columns">
 		
-			<img src="/images/james.jpg" class="" alt="">
+			<img src="{{ site.urlimg }}james.jpg" class="" alt="">
 			<h4>James Stewart</h4>
 			<p class="text-muted">Senior Research Fellow<br/>j.k.stewart&nbsp;[AT]&nbsp;ed.ac.uk</p>
 			
@@ -39,7 +39,7 @@ permalink: "/team/"
 	
 	<div class="small-12 medium-4 text-center columns">
 	
-			<img src="/images/alyssa.jpg" class="" alt="">
+			<img src="{{ site.urlimg }}alyssa.jpg" class="" alt="">
 			<h4>Alyssa Alcorn</h4>
 			<p class="text-muted">Teaching Assistant<br/>aalcorn&nbsp;[AT]&nbsp;staffmail.ed.ac.uk</p>
 		  
