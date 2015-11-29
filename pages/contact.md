@@ -1,15 +1,10 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact Us"
+title: "Team"
+meta_title: "DDS Teaching Team"
 subheadline: ""
 teaser: ""
-permalink: "/contact/"
+permalink: "/team/"
 ---
 
-- [Wufoo][1]
-- [Google Forms][2]
 
-
- [1]: http://www.wufoo.com/
- [2]: https://www.google.com/intl/de_de/forms/about/

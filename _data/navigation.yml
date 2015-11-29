@@ -5,16 +5,6 @@
   url: "/"
   side: left
 
-- title: "Dropdown Menu"
-  url: "#"
-  side: left
-  dropdown:
-  - title: "Dropdown Menu 1"
-    url: "#"
-  - title: "Dropdown Menu 2"
-    url: "#"
-  - title: "Dropdown Menu 3"
-    url: "#"
 
 # - title: Blog
 #   url: "/blog/"
@@ -40,6 +30,17 @@
   url: "/assessment/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
+- title: "Resources"
+  url: "#"
+  side: right
+  dropdown:
+  - title: "Dropdown Menu 1"
+    url: "#"
+  - title: "Dropdown Menu 2"
+    url: "#"
+  - title: "Dropdown Menu 3"
+    url: "#"
+
+- title: "Team"
+  url: "/team/"
   side: right
