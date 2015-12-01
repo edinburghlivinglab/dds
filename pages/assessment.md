@@ -64,7 +64,7 @@ permalink: /assessment/
 	</p>
 
 	<h3>Learning Outcomes</h3>
-	<p>
+	
 	<ol>
 		<li>Identify and apply relevant strategies for data collection and related
 			prototype 'interventions' which address the interests and needs of a specified
@@ -74,11 +74,10 @@ permalink: /assessment/
 		<li>Synthesize and communicate the information from two or more datasets using
 			appropriate analytic, presentation and visualisation techniques.</li>
 		<li>Demonstrate an ability to work in an interdisciplinary team and to act in a
-			professional manner<ol>
-
+			professional manner</li>
 	</ol>
 
-	</p>
+
 
 	<h3>Scholarly Good Practice</h3>
 
