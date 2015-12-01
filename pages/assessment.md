@@ -83,7 +83,7 @@ permalink: /assessment/
 	<h3>Scholarly Good Practice</h3>
 
 	<p>
-	Please remember the University requirement as regards all assessed work for credit. Details about this can be found at the following links:
+	Please remember the University requirement as regards all assessed work for credit. Details about this can be found at the following links:</p>
 
 	<ul>
       <li><a href="http://www.ed.ac.uk/academic-services/students/undergraduate/discipline/academic-misconduct">University Information on Academic Misconduct</a></li>
