@@ -70,14 +70,28 @@ permalink: /assessment/
 			prototype 'interventions' which address the interests and needs of a specified
 			community of stakeholders.</li>
 	 	<li>Interpret and evaluate data in a way that demonstrates its relevance to
-				selected communication and/or policy objectives.</li>
+			selected communication and/or policy objectives.</li>
 		<li>Synthesize and communicate the information from two or more datasets using
-					appropriate analytic, presentation and visualisation techniques.</li>
+			appropriate analytic, presentation and visualisation techniques.</li>
 		<li>Demonstrate an ability to work in an interdisciplinary team and to act in a
-						profess<ol>
+			professional manner<ol>
 
 	</ol>
 
 	</p>
+
+	<h3>Scholarly Good Practice</h3>
+
+	<p>
+	Please remember the University requirement as regards all assessed work for credit. Details about this can be found at the following links:
+
+	<ul>
+      <li><a href="http://www.ed.ac.uk/academic-services/students/undergraduate/discipline/academic-misconduct">http://www.ed.ac.uk/academic-services/students/undergraduate/discipline/academic-misconduct</a></li>
+
+      <li><a href="http://web.inf.ed.ac.uk/infweb/admin/policies/academic-misconduct">http://web.inf.ed.ac.uk/infweb/admin/policies/academic-misconduct</a> 
+      </ul>
+
+      <p>Furthermore, you are required to take reasonable measures to protect your assessed work from unauthorised access. For example, if you put any such work on a public repository then you must set access permissions appropriately (generally permitting access only to yourself, or your group in the case of group practicals). </p>
+
 </div>
 
