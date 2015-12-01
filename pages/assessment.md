@@ -86,9 +86,9 @@ permalink: /assessment/
 	Please remember the University requirement as regards all assessed work for credit. Details about this can be found at the following links:
 
 	<ul>
-      <li><a href="http://www.ed.ac.uk/academic-services/students/undergraduate/discipline/academic-misconduct">http://www.ed.ac.uk/academic-services/students/undergraduate/discipline/academic-misconduct</a></li>
+      <li><a href="http://www.ed.ac.uk/academic-services/students/undergraduate/discipline/academic-misconduct">University Information on Academic Misconduct</a></li>
 
-      <li><a href="http://web.inf.ed.ac.uk/infweb/admin/policies/academic-misconduct">http://web.inf.ed.ac.uk/infweb/admin/policies/academic-misconduct</a> 
+      <li><a href="http://web.inf.ed.ac.uk/infweb/admin/policies/academic-misconduct">School of  Information on Academic Misconduct</a> 
       </ul>
 
       <p>Furthermore, you are required to take reasonable measures to protect your assessed work from unauthorised access. For example, if you put any such work on a public repository then you must set access permissions appropriately (generally permitting access only to yourself, or your group in the case of group practicals). </p>
