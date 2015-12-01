@@ -10,12 +10,14 @@ permalink: /assessment/
 	Assessment for the course will be 100% coursework. There are
 	no exams.</p>
 	<p>
+
 	You will be assessed on two pieces of work. The main one will
 	be a personal report which will describe the team project that
 	you have carried out, what your personal contribution was to
 	the project, your goals and your conclusions. The second piece
 	of work will be a group presentation of your team's
 	project.</p>
+
 	<p>
 	There will also be two pieces of coursework earlier in the
 	semester, again consisting of a personalreport and a group
@@ -24,7 +26,7 @@ permalink: /assessment/
 	anopportunity for you to receive feedback and 'feedforward' in
 	preparation for the assessed coursework.</p>
 
-	<p class="text-center">
+	<div class="text-center">
 	<table class="table">
 		<thead>
 			<tr>
@@ -61,9 +63,11 @@ permalink: /assessment/
 			</tr>
 		</tbody>
 	</table>
-	</p>
+	</div>
 
 	<h3>Learning Outcomes</h3>
+
+	<p>Your coursework will be assessed relative to the following learning outcomes.</p>
 	
 	<ol>
 		<li>Identify and apply relevant strategies for data collection and related
