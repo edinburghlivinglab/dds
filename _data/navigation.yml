@@ -34,8 +34,8 @@
   url: "#"
   side: right
   dropdown:
-  - title: "Dropdown Menu 1"
-    url: "#"
+  - title: "Local Food Initiatives"
+    url: "/initiatives/"
   - title: "Dropdown Menu 2"
     url: "#"
   - title: "Dropdown Menu 3"
