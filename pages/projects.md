@@ -18,5 +18,18 @@ and socially responsible*.
 There is huge scope for designing, building and measuring experimental
 innovations to improve food sustainability in the University. This course will
 give you an opportunity to do just this. Projects will be scoped out in the
-first few weeks of the course, and then developed in detail from Week 5.
+first few weeks of the course, and then developed in detail from Week
+5.
+
+In order to narrow down the scope of projects, we propose the
+following four challenges:
+
+1. Reducing wastage of food served in Pollock Halls Dining Hall
+2. Reducing packaging waste at any point in the production and
+consumption of food on campus.
+3. Increasing rate at which students select healthy /
+sustainable food options, either
+    * on campus, or
+    * off campus
+
 
