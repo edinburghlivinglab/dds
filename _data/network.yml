@@ -1,9 +1,14 @@
-# - menu_name: "Dankeschön"
+ - menu_name: "Credits"
 
-# - name: "Icons by Daniel Bruce"
-#   url: "http://entypo.com/"
-#   class: "network-entypo"
-#   title: "Icons by Daniel Bruce"
+- name: "Icons from Entypo"
+  url: "http://entypo.com/"
+  class: "network-entypo"
+  title: "Icons"
+
+ - name: "Icons from Freepik"
+   url: "http://www.freepik.com"
+   class: "network-freepik"
+   title: "Icons from Freepik"
 
 # - name: "Built on Foundation"
 #   url: "http://foundation.zurb.com/"
