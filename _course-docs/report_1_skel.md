@@ -1,4 +1,7 @@
-**General instructions**: Assume you are writing this report for someone who did *not* see your Fast Hack presentation.
+**General instructions** 
+
+* Assume you are writing this report for someone who did *not* see your Fast Hack presentation.
+* Aim to produce a report of about 4 pages long, plus diagrams. If you want to write a bit more, that's OK but don't write more than 5 pages.
 
 # 1. Introduction
 
@@ -37,7 +40,7 @@ How useful is the information that you've gathered so far for understanding your
 What do you think needs to be done next in order to get a deeper understanding of your problem area? What additional evidence would you like to collect? What questions do you want to explore?
 
 
-# Reflections
+# 6. Reflections
 
 ## What has been your personal experience of working on this project to date? 
 
@@ -51,7 +54,7 @@ If you're stuck in writing this section, some of the issues you might think abou
 
 Say what your personal contribution was to the team effort during the Fast Hack.
 
-# Conclusions
+# 7. Conclusions
 
 Summarise overall what you personally, and your team, have accomplished so far. 
 This part of your report should draw together the main threads of your report. Try to emphasise four key 'take home' points for the reader.
