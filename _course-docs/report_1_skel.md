@@ -18,8 +18,8 @@ What steps have you taken so far to engage with stakeholders?
 ## Data
 
 
-* What data did you collect for the Fast Hack?
-* What other datasets, if any, did you use?
+* What data did you collect for the Fast Hack? What methods did you use to collect it, and how are you dealing with data management?
+* What other datasets, if any, did you use? How did you access them, and what are their properties (e.g., format, geographical and temporal coverage, relevance).
 
 
 # Initial Interpretation
@@ -40,6 +40,7 @@ What do you think needs to be done next in order to get a deeper understanding o
 
 # Reflections
 
+What has been your personal experience of working on this project to date? For instance, how have you dealt with challenges of engaging with people in the University community. What has been your experience of working within a team and sharing out work, responsibilities and roles? What aspects of the course have worked well for you, and what would you like to see changed?
 
 
 
