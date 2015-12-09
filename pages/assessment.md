@@ -20,10 +20,10 @@ permalink: /assessment/
 
 	<p>
 	There will also be two pieces of coursework earlier in the
-	semester, again consisting of a personalreport and a group
+	semester, again consisting of a personal report and a group
 	presentation. However, these will not contribute to the
 	overall grade for the course. Instead, they will be
-	anopportunity for you to receive feedback and 'feedforward' in
+	an opportunity for you to receive feedback and 'feedforward' in
 	preparation for the assessed coursework.</p>
 
 	<div class="text-center">
@@ -31,7 +31,7 @@ permalink: /assessment/
 		<thead>
 			<tr>
 				<th>Week</th>
-				<th>Date</th>
+				<th>Deadline</th>
 				<th>Assessment Type</th>
 				<th>Weight</th>
 			</tr>
@@ -39,48 +39,34 @@ permalink: /assessment/
 		<tbody>
 			<tr>
 				<td>3</td>
-				<td>29-Jan-2016</td>
+				<td>10:00&ndash;12:00, Friday 29 Jan 2016</td>
 				<td>Group presentation</td>
-				<td>Feedback only &mdash; not graded</td>
+				<td>0%</td>
 			</tr>
 			<tr>
-				<td>4</td>
-				<td>5-Feb-2016</td>
-				<td>Personal Report (Draft)</td>
-				<td>Feedback only &mdash; not graded</td>
-			</tr>
-			<tr>
-				<td>10</td>
-				<td>18-March-2016</td>
+				<td>8</td>
+				<td>16:00, Monday 8 Feb 2016</td>
 				<td>Personal Report</td>
-				<td>75%</td>
+				<td>0%</td>
 			</tr>
+			
 			<tr>
 				<td>11</td>
-				<td>23-March-2016</td>
+				<td>10:00&ndash;12:00, Wednesday 23 March 2016</td>
 				<td>Group Presentation</td>
 				<td>25%</td>
+			</tr>
+			<tr>
+				<td>12</td>
+				<td>16:00, Friday 1 April 2016</td>
+				<td>Personal Project Report</td>
+				<td>75%</td>
 			</tr>
 		</tbody>
 	</table>
 	</div>
 
-	<h3>Learning Outcomes</h3>
-
-	<p>Your coursework will be assessed relative to the following learning outcomes.</p>
-	
-	<ol>
-		<li>Identify and apply relevant strategies for data collection and related
-			prototype 'interventions' which address the interests and needs of a specified
-			community of stakeholders.</li>
-	 	<li>Interpret and evaluate data in a way that demonstrates its relevance to
-			selected communication and/or policy objectives.</li>
-		<li>Synthesize and communicate the information from two or more datasets using
-			appropriate analytic, presentation and visualisation techniques.</li>
-		<li>Demonstrate an ability to work in an interdisciplinary team and to act in a
-			professional manner</li>
-	</ol>
-
+    <p>Your coursework will be assessed relative to the course <a href="learning_outcomes">Learning Outcomes</a>.</p>
 
 
 	<h3>Scholarly Good Practice</h3>
