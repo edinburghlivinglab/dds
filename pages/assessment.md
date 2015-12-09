@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Assessment"
+title: "Assessment Overview"
 subheadline: ""
 teaser: ""
-permalink: /assessment/
+permalink: /overview/
 ---
 <div>
 	<p>
@@ -27,7 +27,7 @@ permalink: /assessment/
 	preparation for the assessed coursework.</p>
 
 	<div class="text-center">
-	<table class="table">
+	<table class="table" summary="Table of coursework information, specifying the week it is due, the precise deadline, whether it is a presentation or report, and the weight it contributes to the overall grade. ">
 		<thead>
 			<tr>
 				<th>Week</th>

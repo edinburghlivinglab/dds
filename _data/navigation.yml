@@ -27,8 +27,15 @@
   side: right
 
 - title: "Assessment"
-  url: "/assessment/"
+  url: "#"
   side: right
+  dropdown:
+  - title: "Overview"
+    url: "/overview/"
+  - title: "Coursework Details"
+    url: "#"
+  - title: "Learning Outcomes"
+    url: "/learning_outcomes/"
 
 - title: "Resources"
   url: "#"
@@ -36,9 +43,7 @@
   dropdown:
   - title: "Local Food Initiatives"
     url: "/initiatives/"
-  - title: "Dropdown Menu 2"
-    url: "#"
-  - title: "Dropdown Menu 3"
+  - title: "Datasets"
     url: "#"
 
 - title: "Team"
