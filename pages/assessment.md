@@ -66,7 +66,7 @@ permalink: /overview/
 	</table>
 	</div>
 
-    <p>Your coursework will be assessed relative to the course <a href="learning_outcomes">Learning Outcomes</a>.</p>
+    <p>Your coursework will be assessed relative to the course <a href="/learning_outcomes/">Learning Outcomes</a>.</p>
 
 
 	<h3>Scholarly Good Practice</h3>

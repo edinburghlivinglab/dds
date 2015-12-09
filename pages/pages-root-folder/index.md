@@ -70,15 +70,10 @@ learning out of the classroom into the University community.
 
 **Data, Design and Society**
 ([INFR08024](https://path.is.ed.ac.uk/courses/INFR08024_SV1_SEM2)) is
-a 20pt Level 8 course. There are no prerequisites, but students should
-be prepared to work with simple data analysis tools, to go out and
-talk to people, and to make things!
+a 20pt Level 8 course. There are no prerequisites, but you should
+be prepared to ask lots of questions, to go out and talk to people, 
+to work with simple data analysis tools, and to experiment with change.
+
+<div></div>
 
 
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
