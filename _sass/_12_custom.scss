@@ -1,5 +1,9 @@
 
 
-.custom-panel {
+.big-panel {
   @include panel($bg:$ci-2,	$adjust:true);  
+}
+
+.medium-panel {
+  @include panel($bg:$ci-3,	$adjust:true);  
 }

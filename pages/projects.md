@@ -8,28 +8,34 @@ permalink: /projects/
 
 ## Food and Sustainability in the University
 
-The University of Edinburgh is currently in [the process of drafting its first
-sustainable food policy](http://www.ed.ac.uk/about/sustainability/news/draft-
-food-consultation). The overall aim of this policy is to facilitate the creation
-of sustainable food systems. This can be defined as *systems where the ways in
-which food is produced, purchased, consumed and disposed of are both sustainable
-and socially responsible*.
+The **theme** of the course this year is Food and Sustainability &mdash; how can we make the production, consumption and disposal of food within the University    more sustainable?
 
-There is huge scope for designing, building and measuring experimental
-innovations to improve food sustainability in the University. This course will
-give you an opportunity to do just this. Projects will be scoped out in the
-first few weeks of the course, and then developed in detail from Week
-5.
+The University of Edinburgh is currently in the process of drafting its first
+[sustainable food policy](http://www.ed.ac.uk/about/sustainability/news/draft-
+food-consultation).  There is huge scope for designing, building and measuring experimental
+innovations that engage with this policy goal. We want you do this in your project.
 
-In order to narrow down the scope of projects, we propose the
-following four challenges:
+In order to narrow down the scope of what you do, we suggest that you focus your project on one of the
+following **sub-themes**:
 
-1. Reducing wastage of food served in Pollock Halls Dining Hall
-2. Reducing packaging waste at any point in the production and
-consumption of food on campus.
-3. Increasing rate at which students select healthy /
-sustainable food options, either
-    * on campus, or
-    * off campus
+<div>
+	<div class="medium-panel">
+		<p>Reducing wastage of food served in Pollock Halls Dining Hall</p>
+	</div>
+	<div class="medium-panel">
+		<p>Reducing packaging waste at any point in the production and
+			consumption of food on campus.</p>
+		</div>
+		<div class="medium-panel">
+			<p>Increasing the rate at which students select healthy /
+				sustainable food options, either
+			<ul> <li> on campus, or</li>
+				<li>off campus</li>
+			</ul>
+			</p>
+		</div>
+
+	</div>
+
 
 
