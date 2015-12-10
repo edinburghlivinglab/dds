@@ -1,0 +1,5 @@
+
+
+.custom-panel {
+  @include panel($bg:$ci-2,	$adjust:true);  
+}
