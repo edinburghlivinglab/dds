@@ -1,39 +1,52 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Syllabus"
 meta_title: "Syllabus"
 subheadline: ""
 teaser: ""
 permalink: "/syllabus/"
 ---
-<div markdown="0">
-    <p>
-     Class meeting times: Semester 2, <b>Wednesday 9&ndash;11</b> and <b>Friday 10&ndash;12</b>.
+<div>
+    <div class="callout secondary">
+    <h6>Class meeting times (Semester 2)</h6>
+    <p>Wednesday 9:00&ndash;11:00<br/>
+    Friday 10:00&ndash;12:00
     </p>
-    <p>Dates below are currently just for the Wednesday slot.
-    </p>
+  </div>
+  
 
-    <table class="table table-striped">
+    <table class="table">
      <thead>
       <tr>
        <th>Week</th>
+       <th>Phase</th>
        <th>Date</th>
        <th>Topic</th>
       </tr>
      </thead>
      <tbody>
       <tr>
-       <td> 1</td>
+       <td rowspan="2">1</td>
+       <td rowspan="4" valign="middle">Preparation</td>
        <td>13-Jan-2016</td>
-       <td>Course Overview. Investigating food issues</td>
+       <td>Course Overview</td>
       </tr>
       <tr>
-       <td>2</td>
+       <td>15-Jan-2016</td>
+       <td>Investigating food issues</td>
+      </tr>
+      <tr>
+       <td rowspan="2">2</td>      
        <td>20-Jan-2016</td>
-       <td>Introduction to data: Collecting, storing and processing</td>
+       <td>Design thinking; using data</td>
+      </tr>
+      <tr>   
+       <td>22-Jan-2016</td>
+       <td>Ethnography, Observing and Ethics</td>
       </tr>
       <tr>
        <td>3</td>
+       <td rowspan="1" valign="middle">Fast Hack</td>
        <td>27-Jan-2016</td>
        <td>Fieldwork: Fast hack</td>
       </tr>
@@ -80,4 +93,6 @@ permalink: "/syllabus/"
      </tbody>
     </table>
  </div>
+
+ 
 
