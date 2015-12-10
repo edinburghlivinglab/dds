@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Projects"
+title: "Project Overview"
 subheadline: ""
 teaser: ""
-permalink: /projects/
+permalink: "/project_overview/"
 ---
 
 ## Food and Sustainability in the University
@@ -28,9 +28,7 @@ following **sub-themes**:
 		</div>
 		<div class="medium-panel">
 			<p>Increasing the rate at which students select healthy /
-				sustainable food options, either
-			<ul> <li> on campus, or</li>
-				<li>off campus</li>
+				sustainable food options, either on campus, or off campus; and with either prepared food or raw ingredients.
 			</ul>
 			</p>
 		</div>

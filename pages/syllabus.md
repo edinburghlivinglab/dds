@@ -6,17 +6,27 @@ subheadline: ""
 teaser: ""
 permalink: "/syllabus/"
 ---
-<div class="row">
-<div class="small-0 large-4"></div>
-<div class="small-12 large-4">
-    <div class="panel callout secondary">
-    <h6>Class meeting times (Semester 2)</h6>
-    <p>Wednesday 9:00&ndash;11:00<br/>
-    Friday 10:00&ndash;12:00
-    </p>
-    </div>
-  </div>
-  
+<div>
+
+
+<table>
+   <thead>
+    <tr>
+     <th colspan="2">Class meeting times (Semester 2)</th>  
+   </tr>
+ </thead>
+ <tbody>
+   <tr>
+     <td>Wednesday</td><td>9:00&ndash;11:00</td>
+   </tr>
+   <tr>
+     <td>Friday</td><td>10:00&ndash;12:00</td>
+   </tr>
+ </tbody>
+</table>
+</div>
+
+<div>
 
     <table class="table">
      <thead>
@@ -30,7 +40,7 @@ permalink: "/syllabus/"
      <tbody>
       <tr>
        <td rowspan="2">1</td>
-       <td rowspan="4" valign="middle" bgcolor="#EFC94C">Preparation</td>
+       <td rowspan="4" valign="middle" bgcolor="#EFC94C"><a href="/preparation/">Preparation</a></td>
        <td>13-Jan-2016</td>
        <td>Course Overview</td>
       </tr>

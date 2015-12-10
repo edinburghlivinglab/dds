@@ -8,3 +8,8 @@
   @include panel($bg:$ci-3,	$adjust:true, $padding:rem-calc(10));
   width:75%;
 }
+
+.lite-panel {
+  @include panel($bg:$grey-1, $adjust:true, $padding:rem-calc(10));
+  border-style:none;
+}

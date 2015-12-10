@@ -14,17 +14,17 @@ permalink: /learning_outcomes/
 	</p>
 </div>
 <div>
-    <div class="custom-panel">
-        <p class="teaser">1. Identify and apply relevant strategies for data collection and related prototype 'interventions' which address the interests and needs of a specified community of stakeholders.</p>
+    <div class="big-panel">
+        <p class="teaser">Identify and apply relevant strategies for data collection and related prototype 'interventions' which address the interests and needs of a specified community of stakeholders.</p>
     </div>
-    <div class="custom-panel">
-        <p class="teaser">2. Interpret and evaluate data in a way that demonstrates its relevance to selected communication and/or policy objectives.</p>
+    <div class="big-panel">
+        <p class="teaser">Interpret and evaluate data in a way that demonstrates its relevance to selected communication and/or policy objectives.</p>
     </div>
-    <div class="custom-panel">
-        <p class="teaser">3. Synthesize and communicate the information from two or more datasets using appropriate analytic, presentation and visualisation techniques.</p>
+    <div class="big-panel">
+        <p class="teaser">Synthesize and communicate the information from two or more datasets using appropriate analytic, presentation and visualisation techniques.</p>
     </div>
-    <div class="custom-panel">
-        <p class="teaser">4. Demonstrate an ability to work in an interdisciplinary team and to act in a professional manner</p>
+    <div class="big-panel">
+        <p class="teaser">Demonstrate an ability to work in an interdisciplinary team and to act in a professional manner</p>
     </div>
 </div>
 

@@ -23,8 +23,13 @@
   side: right
 
 - title: "Projects"
-  url: "/projects/"
+  url: "#"
   side: right
+  dropdown:
+  - title: "Project Overview"
+    url: "/project_overview/"
+  - title: "Preparation"
+    url: "/preparation/"
 
 - title: "Assessment"
   url: "#"
