@@ -6,12 +6,15 @@ subheadline: ""
 teaser: ""
 permalink: "/syllabus/"
 ---
-<div>
-    <div class="callout secondary">
+<div class="row">
+<div class="small-0 large-4"></div>
+<div class="small-12 large-4">
+    <div class="panel callout secondary">
     <h6>Class meeting times (Semester 2)</h6>
     <p>Wednesday 9:00&ndash;11:00<br/>
     Friday 10:00&ndash;12:00
     </p>
+    </div>
   </div>
   
 
@@ -67,22 +70,36 @@ permalink: "/syllabus/"
       <tr>
        <td rowspan="2">5</td>
        <td>10-Feb-2016</td>
-       <td>Presenting and visualising data</td>
+       <td>Preparing for the Slow Hack</td>
+      </tr>
+       <tr>
+       <td>12-Feb-2016</td>
+       <td>Focus group findings</td>
       </tr>
       <tr>
-       <td rowspan="2">6</td>
+       <td>6</td>
+       <td></td>
        <td>19-Feb-2016</td>
        <td>Innovative Learning Week</td>
       </tr>
       <tr>
        <td rowspan="2">7</td>
-       <td>27-Jan-2016</td>
-       <td>Co-design and participatory workshops</td>
+      <td rowspan="6" valign="middle" bgcolor="#EFC94C">Slow Hack</td>
+       <td>24-Feb-2016</td>
+       <td>Participatory Design</td>
+      </tr>
+      <tr>
+       <td>26-Feb-2016</td>
+       <td>Data visualisation</td>
       </tr>
       <tr>
        <td rowspan="2">8</td>
-       <td>02-Mar-2016</td>
-       <td>Telling stories with data</td>
+       <td>2-Mar-2016</td>
+       <td>Data and narrative</td>
+      </tr>
+      <tr>
+       <td>4-Mar-2016</td>
+       <td>Tutorials / Data surgeries</td>
       </tr>
       <tr>
        <td rowspan="2">9</td>
@@ -90,14 +107,27 @@ permalink: "/syllabus/"
        <td>Data quality, lying with statistics</td>
       </tr>
       <tr>
-       <td rowspan="2">10</td>
-       <td>16-Mar-2016</td>
-       <td>Crowd sourcing and citizen science</td>
+       <td>11-Mar-2016</td>
+       <td>Tutorials / Data surgeries</td>
       </tr>
+      <tr>
+       <td rowspan="2">10</td>
+       <td rowspan="4" valign="middle" bgcolor="#FFF">Report</td>
+       <td>16-Mar-2016</td>
+       <td>Dry-run presentations, peer feedback</td>
+      </tr>
+      <tr>
+       <td>18-Mar-2016</td>
+       <td>Tutorials / Data surgeries</td>
+      </tr>       
       <tr>
        <td rowspan="2">11</td>
        <td>23-Mar-2016</td>
        <td>Team Presentations</td>
+      </tr>
+      <tr>
+       <td>25-Mar-2016</td>
+       <td>TBD</td>
       </tr>
      </tbody>
     </table>
