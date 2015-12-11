@@ -3,7 +3,7 @@ layout: page
 title: "Assessment Overview"
 subheadline: ""
 teaser: ""
-permalink: /overview/
+permalink: /assessment_overview/
 ---
 <div>
 	<p>

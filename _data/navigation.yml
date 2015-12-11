@@ -32,11 +32,11 @@
     url: "/preparation/"
 
 - title: "Assessment"
-  url: "/overview/"
+  url: "/assessment_overview/"
   side: right
   dropdown:
   - title: "Overview"
-    url: "/overview/"
+    url: "/assessment_overview/"
   - title: "Coursework Details"
     url: "#"
   - title: "Learning Outcomes"
