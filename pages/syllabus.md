@@ -40,7 +40,7 @@ permalink: "/syllabus/"
      <tbody>
       <tr>
        <td rowspan="2">1</td>
-       <td rowspan="4" valign="middle" bgcolor="#EFC94C"><p class="teaser"><a href="/preparation/">Preparation</a><p></td>
+       <td rowspan="4" valign="middle" bgcolor="#EFC94C"><p class="teaser"><a href="{{ site.baseurl }}/preparation/">Preparation</a><p></td>
        <td>13-Jan-2016</td>
        <td>Course Overview</td>
       </tr>
