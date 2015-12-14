@@ -30,6 +30,8 @@
     url: "/project_overview/"
   - title: "Preparation"
     url: "/preparation/"
+  - title: "Fast Hack"
+    url: "/fast_hack/"
 
 - title: "Assessment"
   url: "/assessment_overview/"
