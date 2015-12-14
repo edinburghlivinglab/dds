@@ -32,6 +32,8 @@
     url: "/preparation/"
   - title: "Fast Hack"
     url: "/fast_hack/"
+  - title: "Digging Deeper"
+    url: "/digging_deeper/"
 
 - title: "Assessment"
   url: "/assessment_overview/"

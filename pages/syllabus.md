@@ -59,7 +59,7 @@ permalink: "/syllabus/"
       </tr>
       <tr>
        <td rowspan="2">3</td>
-       <td rowspan="2" valign="middle">Fast Hack</td>
+       <td rowspan="2" valign="middle"><p class="teaser"><a href="{{ site.baseurl }}/fast_hack/">Fast Hack</a></p></td>
        <td>27-Jan-2016</td>
        <td>Fieldwork</td>
       </tr>
@@ -69,7 +69,7 @@ permalink: "/syllabus/"
       </tr>
       <tr>
        <td rowspan="2">4</td>
-       <td rowspan="4" valign="middle" bgcolor="#EFC94C">Digging Deeper</td>
+       <td rowspan="4" valign="middle" bgcolor="#EFC94C"><p class="teaser"><a href="{{ site.baseurl }}/digging_deeper/">Digging Deeper</a></p></td>
        <td>03-Feb-2016</td>
        <td>Data formats, data analysis</td>
       </tr>
