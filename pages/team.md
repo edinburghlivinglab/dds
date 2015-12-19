@@ -44,10 +44,10 @@ permalink: "/contacts/"
         <img src="{{ site.urlimg }}arno.jpg" class="" alt="">
         <h4>Arno Verhoeven</h4>
         <p class="text-muted">Course Contributor
-            <br/>aalcorn&nbsp;[AT]&nbsp;staffmail.ed.ac.uk</p>
+            <br/>a.verhoeven&nbsp;[AT]&nbsp;ed.ac.uk</p>
         <p>
-            <a href="https://twitter.com/a_m_alcorn0131"><i class="icon-twitter"></i></a> &nbsp;
-            <a href="https://www.facebook.com/a.m.alcorn"><i class="icon-facebook"></i></a>
+            <a href="https://twitter.com/hey_arno"><i class="icon-twitter"></i></a> &nbsp;
+            <a href="https://uk.linkedin.com/in/arno-verhoeven-732b982"><i class="icon-linkedin"></i></a>
         </p>
     </div>
 </div>

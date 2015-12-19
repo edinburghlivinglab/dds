@@ -94,7 +94,7 @@ permalink: "/syllabus/"
       </tr>
       <tr>
        <td rowspan="2">7</td>
-      <td rowspan="6" valign="middle" bgcolor="#EFC94C">Slow Hack</td>
+      <td rowspan="6" valign="middle" bgcolor="#EFC94C"><p class="teaser"><a href="{{ site.baseurl }}/slow_hack/">Slow Hack</a></p></td>
        <td>24-Feb-2016</td>
        <td>Participatory Design</td>
       </tr>

@@ -35,15 +35,15 @@ All teams are required to have at least one more participatory design session wi
 
 ## By the End of this Phase
 
-You should understand and be able to explain what your team has done in the Slow Hack and why those actions were chosen, out of the available possibilities.
+* You should understand and be able to explain what your team has done in the Slow Hack and why those actions were chosen, out of the available possibilities.
 
-Your team should have conducted an additional participatory design session with University stakeholders, abiding by the DDS and university [ethics requirements]({{ site.baseurl }}/ethics). Data analysis may still be in progress. 
+* Your team should have conducted an additional participatory design session with University stakeholders, abiding by the DDS and university [ethics requirements]({{ site.baseurl }}/ethics). Data analysis may still be in progress. 
 
-Your team should have engaged in whatever other activities are necessary to develop your initial idea into a proof-of-concept scale idea. This will definitely include discussion, reflection, and critique within the team. This may include creating sketches, maps, physical prototypes, a website, or some other representation of your idea; may include additional data collection or seeking out existing data; may include additional participatory design; other. 
+* Your team should have engaged in whatever other activities are necessary to develop your initial idea into a proof-of-concept scale idea. This will definitely include discussion, reflection, and critique within the team. It may include creating sketches, maps, physical prototypes, a website, or some other representation of your idea; it may include additional data collection or seeking out existing data; it may include additional participatory design. 
 
-Your team does **not** need to have “solved” your problem. In the next phase, you will need to show that your idea has the potential to solve or at least affect the problem.
+* **Your team does *not* need to have “solved” your problem**. In the next phase, you will need to show that your idea has the potential to solve or at least affect the problem.
 
-You and your team should have stored any newly collected data in accordance with approved DDS and university data management and privacy requirements. 
+* You and your team should have stored any newly collected data in accordance with approved DDS and university data management and privacy requirements. 
 
 ## Learning Outcomes for this Phase
 
