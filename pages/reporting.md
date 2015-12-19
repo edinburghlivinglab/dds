@@ -9,7 +9,7 @@ permalink: "/reporting/"
 
 ## Key Dates
 
-Design critique, peer feedback team mini-presentations: Class time, **Wednesday 16th March**<br/>
+Design critique, team mini-presentations: Class time, **Wednesday 16th March**<br/>
 Team Slow Hack presentations (worth 25%): Class time, **Wednesday  23rd March**<br/>
 Feedback (unclear on syllabus what this is): Class time, **Friday 25th March**<br/>
 Individual reports (Assignment 2, worth 75%): due **16:00 Friday, 1st April** (not a joke!)<br/>
