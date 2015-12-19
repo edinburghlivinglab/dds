@@ -34,6 +34,8 @@
     url: "/fast_hack/"
   - title: "Digging Deeper"
     url: "/digging_deeper/"
+  - title: "Slow Hack"
+    url: "/slow_hack/"
 
 - title: "Assessment"
   url: "/assessment_overview/"
@@ -45,6 +47,9 @@
     url: "#"
   - title: "Learning Outcomes"
     url: "/learning_outcomes/"
+  - title: "Ethics Requirements"
+    url: "/ethics/"
+
 
 - title: "Resources"
   url: "/initiatives/"
@@ -55,6 +60,6 @@
   - title: "Datasets"
     url: "#"
 
-- title: "Team"
-  url: "/team/"
+- title: "Contacts"
+  url: "/contacts/"
   side: right
