@@ -36,6 +36,8 @@
     url: "/digging_deeper/"
   - title: "Slow Hack"
     url: "/slow_hack/"
+  - title: "Reporting"
+    url: "/reporting/"
 
 - title: "Assessment"
   url: "/assessment_overview/"
