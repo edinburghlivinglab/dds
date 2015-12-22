@@ -57,10 +57,12 @@
   url: "/initiatives/"
   side: right
   dropdown:
+  - title: "Reading List"
+    url: "/reading_list/"
   - title: "Local Food Initiatives"
     url: "/initiatives/"
   - title: "Datasets"
-    url: "#"
+    url: "datasets"
 
 - title: "Contacts"
   url: "/contacts/"
