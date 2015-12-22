@@ -69,10 +69,14 @@ permalink: /assessment_overview/
     <p>Your coursework will be assessed relative to the course <a href="/learning_outcomes/">Learning Outcomes</a>.</p>
 
 
-	<h3>Scholarly Good Practice</h3>
+	<h3>Academic Good Practice</h3>
+
 
 	<p>
-	Please remember the University requirements as regards all assessed work for credit. Details about this can be found at the following links:</p>
+	The University has a useful guide on <a href="http://www.ed.ac.uk/institute-academic-development/undergraduate/good-practice">academic good practice</a>, and in particular on <a href="http://www.ed.ac.uk/institute-academic-development/undergraduate/good-practice/referencing">referencing and avoiding plagiarism</a>.
+    </p>
+    <p>
+	You should also make yourself aware of the University requirements for all assessed work for credit. Details about this can be found at the following links:</p>
 
 	<ul>
       <li><a href="http://www.ed.ac.uk/academic-services/students/undergraduate/discipline/academic-misconduct">University Information on Academic Misconduct</a></li>
