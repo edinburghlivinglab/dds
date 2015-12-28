@@ -8,12 +8,12 @@ permalink: "/project_success/"
 
 Below, we spell out what your team should achieve in order for your project to count as successful for DDS.
 
-#### Explore a subtopic of food and sustainability issues at the University and propose a design-based solution to a current question or problem
+#### Explore a sub-theme of food and sustainability issues at the University and propose a design-based solution to a current question or problem
 
 * Over the course of the project, identify a clear question or problem within one DDS 
-subtopic and propose an intervention to solve the problem or answer the question. 
+sub-theme and propose an intervention to solve the problem or answer the question. 
 
-* Using information from the world (e.g. stakeholder involvement, existing data, observation), be able to explain the current situation at the University with relation to the subtopic and 
+* Using information from the world (e.g. stakeholder involvement, existing data, observation), be able to explain the current situation at the University with relation to the sub-theme and 
 problem, and from that information identify a potential problem or question on which to focus your 
 project.
 * After considering multiple options, develop a design idea (intervention) with the 
