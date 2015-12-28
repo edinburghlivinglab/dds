@@ -38,6 +38,8 @@
     url: "/slow_hack/"
   - title: "Reporting"
     url: "/reporting/"
+  - title: "Success Criteria"
+    url: "/project_success/"
 
 - title: "Assessment"
   url: "/assessment_overview/"

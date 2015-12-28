@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Food Initiatives"
 subheadline: ""
 teaser: ""
-permalink: /initiatives/
+permalink: "/initiatives/"
 ---
 
 ## Initiatives in the University
