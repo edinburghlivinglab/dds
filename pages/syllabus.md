@@ -1,33 +1,63 @@
 ---
 layout: page-fullwidth
-title: "Syllabus"
-meta_title: "Syllabus"
+title: "Schedule and Overview"
+meta_title: "Schedule"
 subheadline: ""
 teaser: ""
 permalink: "/syllabus/"
 ---
-<div>
-    <table>
-        <thead>
+<div class="">
+<h2>Course Times and Locations</h2>
+    <p>
+        All class meetings will take place in <a href="http://www.openstreetmap.org/?mlat=55.94572&mlon=-3.18783#map=18/55.94572/-3.18783&layers=N" target="_blank">7 Bristo Square</a> (building next to Potterow). We will be based in Room 1.203. However, this room will be undergoing refurbishment in the first week of semester, so we will have to use two other rooms during that week.
+    </p>
+</div>
+
+<div class="row">
+    <div class="small-12 large-6 text-center columns">
+        <table>
+            <caption>Class meeting times</caption>
             <tr>
-                <th colspan="2">Class meeting times (Semester 2)</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Wednesday</td>
+                <td>Wednesdays</td>
                 <td>9:00&ndash;11:00</td>
             </tr>
             <tr>
-                <td>Friday</td>
+                <td>Fridays</td>
                 <td>10:00&ndash;12:00</td>
             </tr>
-        </tbody>
-    </table>
+        </table>
+    </div>
+    <div class="small-12 large-6 text-center columns">
+        <table>
+            <caption>Class Locations</caption>
+            <tr>
+                <td>Wednesday, 13th January 2016</td>
+                <td>7 Bristo Square, Lecture Theatre 5</td>
+            </tr>
+            <tr>
+                <td>Friday, 15th January 2016</td>
+                <td>7 Bristo Square, Lecture Theatre 1</td>
+            </tr>
+            <tr>
+                <td>All other class meetings</td>
+                <td>7 Bristo Square, Room 1.203</td>
+            </tr>
+        </table>
+    </div>
+
+
+
+
+<div class="t30">
+<h2>Course Schedule</h2>
+ <p>
+ Unlike many standard pre-Honours courses at the University, <i>Data, Design and Society</i> (DDS) will be organised around team-based projects. The project work will be broken down into five <b>phases</b>, which are indicated in the table below. 
+ The structure of the projects is described in more detail in the <a href="{{ site.baseurl }}/project_overview/">Project Overview</a>.
+ </p>   
+
 </div>
 
-
-<div>
+<div class="t30">
     <table class="table">
         <thead>
             <tr>

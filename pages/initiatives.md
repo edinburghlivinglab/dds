@@ -8,9 +8,7 @@ permalink: /initiatives/
 
 ## Initiatives in the University
 
-<p>
-    &nbsp;
-</p>
+<div class="t30">
 <ul class="small-block-grid-4">
     <li>
         <a href="http://www.sps.ed.ac.uk/research/research_centres/cross_school_research_clusters/food_researchers_in_edinburgh_fried"><img src="http://www.sps.ed.ac.uk/__data/assets/image/0003/164145/141112153220_69962.jpg" /></a>
@@ -76,7 +74,7 @@ permalink: /initiatives/
        
     </li>
 </ul>
-
+</div>
 
 <!-- a href="https://twitter.com/seasonedstudent?lang=en-gb%0Ahttp://theseasonedstudent.com/">Seasoned Students initiative at University of Aberdeen</a>
  — new Sociology course on food convened by Isabelle Darmon &amp; Niamh Moore
