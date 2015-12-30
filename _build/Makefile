@@ -6,7 +6,7 @@ PANDOC := /usr/local/bin/pandoc
 
 
 pdf: $(PAGES)
-	$(PANDOC) $^ -o $(PDF)
+	$(PANDOC) -s -V geometry:margin=1in --number-sections $^ -o $(PDF)
 
 
 

@@ -1,3 +1,10 @@
 _site
 .sass-cache
 .DS_Store
+
+_build/*.md
+!_build/forematter.md
+
+*.wpr
+*.wpu
+
