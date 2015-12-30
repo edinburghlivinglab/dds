@@ -6,7 +6,7 @@ PANDOC := /usr/local/bin/pandoc
 
 
 pdf: $(PAGES)
-	$(PANDOC) -s -V geometry:margin=1in --number-sections $^ -o $(PDF)
+	$(PANDOC) --latex-engine=xelatex --template=latex.template --number-sections  $^ -o $(PDF)
 
 
 
