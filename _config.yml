@@ -71,6 +71,8 @@ exclude:
     - INSTALL.md
     - Makefile
     - examples
+    - _build
+    - _scripts
 
 
 # The language setting is used in /includes/header.html for html-settings

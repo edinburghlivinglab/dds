@@ -20,3 +20,6 @@ proj.directory-list = [{'dirloc': loc('.'),
                         'recursive': True,
                         'watch_for_changes': True}]
 proj.file-type = 'shared'
+proj.launch-config = {loc('preprocess.py'): ('project',
+        (u'../pages/prep.md -outdir .',
+         ''))}
