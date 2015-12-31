@@ -1,11 +1,16 @@
 installdir := ../course_docs
 
-PAGES := prep.md fast_hack.md digging_deeper.md slow_hack.md reporting.md
-HANDBOOK := handbook.md
-PDF := $(patsubst %.md, %.pdf, $(HANDBOOK))
+INDEX := index.md
+PAGES := $(INDEX) $(MD) 
 
+HANDBOOK := handbook.md
+PDF := $(HANDBOOK:md=pdf)
+#PDF := $(patsubst %.md, %.pdf, $(HANDBOOK))
 
 PANDOC := /usr/local/bin/pandoc
+
+ci: install
+	git ci -m "updated handbook" $(installdir)/$(PDF)
 
 install: pdf
 	mv $(PDF) $(installdir)
@@ -13,7 +18,7 @@ install: pdf
 pdf: $(PDF)
 
 $(PDF): $(PAGES)
-	$(PANDOC) --latex-engine=xelatex --template=latex.template --number-sections  $^ -o $(PDF)
+	$(PANDOC) --latex-engine=xelatex --template=latex.template --number-sections $^ -o $(PDF)
 
 
 

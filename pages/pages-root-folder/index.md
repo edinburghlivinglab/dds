@@ -11,6 +11,8 @@ header:
     # caption: This is a caption for the header image with link
     # caption_url: https://unsplash.com/
 
+title: "Course Overview"
+
 # widget1:
 #   title: "Widget 1"
 #   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
@@ -74,6 +76,6 @@ a 20pt Level 8 course. There are no prerequisites, but you should
 be prepared to ask lots of questions, to go out and talk to people, 
 to work with simple data analysis tools, and to experiment with change.
 
-<div></div>
+
 
 

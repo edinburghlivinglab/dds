@@ -2,16 +2,15 @@
 layout: page
 title: "Preparation"
 subheadline: "Course Phase 0"
-teaser: ""
 permalink: "/preparation/"
 ---
 
-<!-- # Introduction and Preparation  -->
 
 ## Key Dates
 
-Course start: **Wednesday, 13th January**<br/>
-Team formation: **Wednesday, 20th January**
+**Course start**: Wednesday, 13th January
+
+**Team formation**: Wednesday, 20th January
 
 
 ## Description

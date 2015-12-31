@@ -9,7 +9,18 @@
   width:75%;
 }
 
+.bullet-panel {
+  @include panel($bg:$ci-3,	$adjust:true, $padding:rem-calc(10));
+}
+
 .lite-panel {
   @include panel($bg:$grey-1, $adjust:true, $padding:rem-calc(10));
   border-style:none;
+}
+
+$font-size-h5: 1.0 em;
+
+h5 {
+    font-family: $body-font-family;
+	@include panel($bg:$grey-1, $adjust:true, $padding:rem-calc(10));
 }

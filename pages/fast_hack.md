@@ -8,8 +8,10 @@ permalink: "/fast_hack/"
 
 ## Key Dates
 
-**Fast Hack event**: Beginning Wednesday January 27th, 2016<br/>
-**Team Presentations**: Class time, Friday January 29th, 2016<br/>
+**Fast Hack event**: Beginning Wednesday January 27th, 2016
+
+**Team Presentations**: Class time, Friday January 29th, 2016
+
 **Fast Hack individual report** (formative assignment 1): due 16:00 Monday, February 8th, 2016
 
 

@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Schedule and Overview"
+title: "Schedule"
 meta_title: "Schedule"
 subheadline: ""
 teaser: ""
