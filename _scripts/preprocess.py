@@ -22,7 +22,10 @@ def strip_header(text, verbose=False):
                 header=False
                 title = meta['title']
                 title = title[1:-1]
-                out.append('# {} \n'.format(title))
+                title_fmt = '# <a name="{}"></a>{}\n'
+                lc_title = title.lower()
+                new_title = title_fmt.format(lc_title, title)
+                out.append(new_title)
         else:
             out.append(line)
     if verbose:

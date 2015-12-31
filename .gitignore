@@ -3,6 +3,7 @@ _site
 .DS_Store
 
 _build/*.md
+_build/*.pdf
 !_build/forematter.md
 
 *.wpr
