@@ -1,9 +1,32 @@
 import argparse
 from os.path import join, basename
+import re
 
+
+def fix_url(line, verbose=False):
+    """
+    Replace Jekyll-specific URLs with document internal fragments
+    """
+    url = re.compile('(\(\{\{ site\.baseurl \}\}/)(.+?\))')
+    if line.startswith('#'):
+        return line
+    m = url.search(line)
+    if m is None:
+        return line
+    else:
+        path = m.group(2)
+        frag = '(#{}'.format(path.split('#')[-1])
+        newline = line.replace(m.group(0), frag)
+        if verbose:
+            #print(newline)
+            print('replacing {} with {}'.format(m.group(0), frag))
+        return newline
 
 
 def strip_header(text, verbose=False):
+    """
+    Strip the YAML header from Jekyll files, and fix URLs and anchors
+    """
     out = []
     header = False
     meta = {}
@@ -23,10 +46,11 @@ def strip_header(text, verbose=False):
                 title = meta['title']
                 title = title[1:-1]
                 title_fmt = '# <a name="{}"></a>{}\n'
-                lc_title = title.lower()
+                lc_title = title.lower().replace(' ', '_')
                 new_title = title_fmt.format(lc_title, title)
                 out.append(new_title)
         else:
+            line = fix_url(line, verbose=verbose)
             out.append(line)
     if verbose:
         print('copied {} lines'.format(len(out)))
@@ -36,18 +60,17 @@ def strip_header(text, verbose=False):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-#    parser.add_argument('infile', type=argparse.FileType('r', encoding='UTF-8'))
-#    parser.add_argument('outfile', type=argparse.FileType('w', encoding='UTF-8'))
-
     parser.add_argument('-outdir', required=True)
     parser.add_argument('infile', nargs='*')
     parser.add_argument('--verbose', '-v', action='store_true')
     args = parser.parse_args()
 
-
+    if args.verbose:
+        print('\n' * 2)
+        print('#' * 50)
+        print('\n' * 2)
     for infile in args.infile:
         with open(infile) as f:
-
             if args.verbose:
                 print('opening file {}'.format(infile))
 

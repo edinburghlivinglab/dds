@@ -1,7 +1,9 @@
+include Makefile.defs
+
 PAGESDIR := pages
 DOCSDIR := course_docs
 BUILDIR := _build
-export MD :=  prep.md fast_hack.md digging_deeper.md slow_hack.md reporting.md project_success.md
+#export MD :=  prep.md fast_hack.md digging_deeper.md slow_hack.md reporting.md project_success.md
 INDEX := pages-root-folder/index.md
 PAGES := $(INDEX) $(MD) 
 
@@ -17,6 +19,9 @@ local:
 	bundle exec jekyll serve --config _config.yml,_config_dev.yml
 
 ####### build pdf version of course handbook
+
+cat: headless
+	$(MAKE) cat -C $(BUILDIR)
 
 # strip YAML headers
 headless: $(headed)

@@ -70,7 +70,7 @@ will introduce four key topics in preparation for the Fast Hack phase:
 * introduction to data and information; 
 * introduction to observation, ethnography, and ethics. 
 
-We will revisit these topics in [Digging Deeper (Phase 2)]({{ site.baseurl}}/digging_deeper). 
+We will revisit these topics in [Digging Deeper (Phase 2)]({{ site.baseurl }}/digging_deeper). 
 **It is very important to attend class and keep up with
 homework in the first weeks**, as these cover information essential to
 participating in the next phases of the course. You will find it very

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Food & Sustainability Fast Hack "
+title: "Fast Hack"
 subheadline: "Course Phase 1"
 teaser: ""
 permalink: "/fast_hack/"
