@@ -23,9 +23,12 @@ local:
 cat: headless
 	$(MAKE) cat -C $(BUILDIR)
 
+ci: pdf
+	$(MAKE) pdf -C $(BUILDIR)
+
 # strip YAML headers
 headless: $(headed)
-	python $(STRIPPER) -v -outdir $(BUILDIR) $^
+	python $(STRIPPER) -outdir $(BUILDIR) $^
 
 # compile PDF in the build directory
 pdf: headless

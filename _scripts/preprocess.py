@@ -27,9 +27,11 @@ def header_id(meta):
     Add new MD title and title identifier
     """
     title = meta['title']
-    title = title[1:-1]
+    title = title[1:-1] #strip quotes from string
     title_fmt = '# {} {{#{}}}\n'
     lc_title = title.lower().replace(' ', '_')
+    if lc_title.endswith('?'):
+        lc_title = lc_title[:-1]
     new_title = title_fmt.format(title, lc_title)
     return new_title
 
