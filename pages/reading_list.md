@@ -19,3 +19,6 @@ permalink: "/reading_list/"
 ### Optional
 
 * [Thaleia Deniozou (2015) "Student Health and Lifestyle Survey", Healthy University Project, University of Edinburgh]({{ site.baseurl }}/course_docs/healthy_university_research_report.pdf) [PDF]
+
+* Information Commissioner's Office (2012) [Anonymisation Code of Practice](https://ico.org.uk/media/for-organisations/documents/1061/anonymisation-code.pdf) [PDF]
+
