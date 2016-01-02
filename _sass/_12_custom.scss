@@ -20,7 +20,7 @@
 
 $font-size-h5: 1.0 em;
 
-h5 {
+h6 {
     font-family: $body-font-family;
 	@include panel($bg:$grey-1, $adjust:true, $padding:rem-calc(10));
 }

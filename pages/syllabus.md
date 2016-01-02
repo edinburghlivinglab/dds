@@ -49,7 +49,7 @@ permalink: "/syllabus/"
 
 
 <div class="t30">
-<h2>Course Schedule</h2>
+<h2><a name="weekbyweek"></a>Course Schedule</h2>
  <p>
  Unlike many standard pre-Honours courses at the University, <i>Data, Design and Society</i> (DDS) will be organised around team-based projects. The project work will be broken down into five <b>phases</b>, which are indicated in the table below. 
  The structure of the projects is described in more detail in the <a href="{{ site.baseurl }}/project_overview/">Project Overview</a>.

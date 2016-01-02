@@ -76,6 +76,15 @@ a 20pt Level 8 course. There are no prerequisites, but you should
 be prepared to ask lots of questions, to go out and talk to people, 
 to work with simple data analysis tools, and to experiment with change.
 
+## Course Handbook
+
+The information contained in these webpages constitutes the DDS course
+handbook. However, you can also get [this information as a single PDF file]({{
+site.baseurl }}/course_docs/handbook.pdf). Note that the [week-by-week syllabus]({{
+site.baseurl }}/syllabus#weekbyweek)
+is only available online, since details may change or be added as we go
+through the semester.
+
 
 
 

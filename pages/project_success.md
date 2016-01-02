@@ -6,7 +6,7 @@ permalink: "/project_success/"
 
 Below, we spell out what your team should achieve in order for your project to count as successful for DDS.
 
-##### Explore a sub-theme of food and sustainability issues at the University and propose a design-based solution to a current question or problem
+###### Explore a sub-theme of food and sustainability issues at the University and propose a design-based solution to a current question or problem
 
 
 1. Over the course of the project, identify a clear question or problem within one DDS 
@@ -24,7 +24,7 @@ Relates to learning objectives:
 * [LO1: Interventions]({{ site.baseurl }}/learning_outcomes#interventions)
 
 
-##### Effectively communicate about design and data
+###### Effectively communicate about design and data
 
 1. Be able to expla your problem and design intervention in a way that a general (non-DDS) audience 
 would be able to understand, and convince the audience that the design may be able to answer the 
@@ -58,9 +58,7 @@ Relates to learning objectives:
 * [LO3: Communication]({{ site.baseurl }}/learning_outcomes#communication)
 
 
-
-
-##### Demonstrate consistent participation and professional working
+###### Demonstrate consistent participation and professional working
 
 1. Participate in all the phases of the course, and all whole-class or centrally planned activities 
 including lectures, workshops, participant engagement, writing activities etc.
