@@ -23,7 +23,7 @@ cat:
 	cat $(PAGES) > $(HANDBOOK)
 
 $(PDF): $(PAGES)
-	$(PANDOC) --latex-engine=xelatex --template=latex.template --number-sections $^ -o $(PDF)
+	$(PANDOC) -s --latex-engine=xelatex --template=latex.template --number-sections $^ -o $(PDF)
 
 
 

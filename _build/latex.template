@@ -178,6 +178,8 @@ $if(tables)$
 
 $endif$
 
+\usepackage{longtable, booktabs}
+
 
 % Subscripts:
 % Pandoc remembers whether you used subscripts, assigning True to 

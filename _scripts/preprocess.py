@@ -22,6 +22,17 @@ def fix_url(line, verbose=False):
             print('replacing {} with {}'.format(m.group(0), frag))
         return newline
 
+def header_id(meta):
+    """
+    Add new MD title and title identifier
+    """
+    title = meta['title']
+    title = title[1:-1]
+    title_fmt = '# {} {{#{}}}\n'
+    lc_title = title.lower().replace(' ', '_')
+    new_title = title_fmt.format(title, lc_title)
+    return new_title
+
 
 def strip_header(text, verbose=False):
     """
@@ -43,11 +54,7 @@ def strip_header(text, verbose=False):
                 pass
             if line.startswith("---"):
                 header=False
-                title = meta['title']
-                title = title[1:-1]
-                title_fmt = '# <a name="{}"></a>{}\n'
-                lc_title = title.lower().replace(' ', '_')
-                new_title = title_fmt.format(lc_title, title)
+                new_title = header_id(meta)
                 out.append(new_title)
         else:
             line = fix_url(line, verbose=verbose)
