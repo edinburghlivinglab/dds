@@ -4,6 +4,26 @@ title: "What Counts as Success?"
 permalink: "/project_success/"
 ---
 
+Success in DDS is not about making a certain type of "thing", using
+a certain amount of  technology, or getting certain results. It is almost
+entirely about your team participating in and reflecting on different parts of
+a design process, as you develop a potential solution to a problem.  Food and
+sustainability is a large and complex issue that doesn't admit easy solutions,
+let alone in one semester. Although much of our education encourages us to
+find the right answer, making the transition to a more sustainable food system
+isn't that kind of problem&mdash;there is no right answer. Instead, we are
+asking you do develop a design that could *potentially* make a difference on
+your chosen problem.
+
+Suppose you experiment with an intervention, and it doesn't do what you
+expected. One way of thinking about this is that your design "failed". Another
+way of thinking about it is that you have learned something, namely that
+some of your predictions and assumptions turn out to be incorrect. It is not
+so important whether your project succeeds or fails to do what you intended.
+What does matter is that you can show what you have learned from the outcomes
+and that you can show that you have thought carefully about the methods that
+you adopted.
+
 Below, we spell out what your team should achieve in order for your project to count as successful for DDS.
 
 ###### Explore a sub-theme of food and sustainability issues at the University and propose a design-based solution to a current question or problem

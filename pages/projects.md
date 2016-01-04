@@ -32,7 +32,9 @@ following **sub-themes**:
     </div>
 </div>
 
-Your project work will be divided into five phases over the course of the semester. Descriptions of the phases can be found by following the links below:
+Your project work will be divided into five phases over the course of the
+semester. Descriptions of the phases can be found by following the links
+below:
 
 1. [Preparation]({{ site.baseurl }}/preparation)
 2. [Fast Hack]({{ site.baseurl }}/fast_hack)
@@ -45,36 +47,45 @@ Your project work will be divided into five phases over the course of the semest
 The core of a DDS project is closely related to how we think about "design".
 Here, design is about the processes of identifying and solving problems, often
 with input from other people affected by those problems, and often by trial
-and error. We are interested in **design methods** as a form of exploring the
-world, considering options&mdash;even options that sound strange,
-uncomfortable or impossible&mdash;and then developing "interventions" that may
-help us change the current state of the world into a preferred one.
+and error. We adopt the [broad definition of design by Herbert Simon](https://
+en.wikiquote.org/wiki/Herbert_A._Simon#The_Sciences_of_the_Artificial.2C_1969), namely 
+*devising courses of action aimed at changing existing situations
+into preferred ones*.
+
+**Design methods** as a form of exploring the world, often via trial and error, considering
+options&mdash;even options that sound strange, uncomfortable or
+impossible&mdash;and then developing "interventions" as
+experiments to see how we can change the current situation. [Participatory
+design](https://en.wikipedia.org/wiki/Participatory_design) is a process which
+aims at involving all stakeholders (e.g., students, teaching staff, catering
+staff) in defining problems, helping focus on solutions, and evaluating the
+effectiveness of interventions.
 
 Design, as a discipline and a collection of processes, has no requirement to
-use technology. There is also no requirement to build physical  or digital
+use technology. There is also no requirement to build physical or digital
 "stuff". Design may be mostly about ideas, and imagining how something could
 potentially work very differently than it does now. Many designs may involve
 technology, or make physical objects, but only where this seems appropriate
 for the problem at hand.
 
-Similarly, success in DDS is not about making a certain type of "thing", using
-a certain amount of  technology, or getting certain results. It is almost
-entirely about your team participating in and reflecting on different parts of
-a design process, as you develop a potential solution to a problem.  Food and
-sustainability is a large and complex issue that doesn't admit easy solutions,
-let alone in one semester. Although much of our education encourages us to
-find the right answer, making the transition to a more sustainable food system
-isn't that kind of problem&mdash;there is no right answer. Instead, we are
-asking you do develop a design that could *potentially* make a difference on
-your chosen problem.
+## Data
 
-Suppose you experiment with an intervention, and it doesn't do what you
-expected. One way of thinking about this is that your design "failed". Another
-way of thinking about it is that you have learned something, namely that
-some of your predictions and assumptions turn out to be incorrect. It is not
-so important whether your project succeeds or fails to do what you intended.
-What does matter is that you can show what you have learned from the outcomes
-and that you can show that you have thought carefully about the methods that
-you adopted.
+Data plays an important role in our approach to design. First, we need to
+**understand** "the existing situation", and we use data as an essential tool
+to reach this understanding. Second,  in order to **evaluate** the
+effectiveness of an intervention, we use data to helps us measure this.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
