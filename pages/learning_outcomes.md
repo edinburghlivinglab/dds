@@ -1,8 +1,6 @@
 ---
 layout: page
 title: "Learning Outcomes"
-subheadline: ""
-teaser: ""
 permalink: /learning_outcomes/
 ---
 <div>
