@@ -70,7 +70,7 @@
   - title: "Local Food Initiatives"
     url: "/initiatives/"
   - title: "Datasets"
-    url: "datasets"
+    url: "/datasets/"
 
 - title: "Contacts"
   url: "/contacts/"
