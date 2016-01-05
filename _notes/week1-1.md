@@ -1,13 +1,14 @@
----
-layout: page
-title: "Week 1, Wednesday"
-permalink: "/notes/week1-1/"
----
+% DDS Intro
+% Ewan Klein
+% Jan 2016
 
+## Quick Course Overview
 
-## Quick Overview [EK]
+<div class="notes">
+* 15 mins
+* EK
 
-[Presentation, 15 mins]
+</div>
 
 Very quick overview of the course. This will focus on the what, not the why or the how.
 
@@ -16,24 +17,37 @@ Very quick overview of the course. This will focus on the what, not the why or t
 * teams
 * hack structure
 
+---
 
-## Example projects from D4I [AA]
+## Example projects from Design for Informatics
 
-[Presentation, 10 mins]
+<div class="notes">
+* 10 mins
+* AA
 
-## Activity
+</div>
 
-[15 mins]
+---
+
+# Small group discussion
+
+<div class="notes">
+* 15 mins
+
+</div>
 
 
-Small group discussion. Each person in group gets 2 minute to introduce themselves and say why they signed up for this course.
+* Each person in group gets 2 minute to introduce themselves and say why they signed up for this course.
+* Group feedback: get groups to share anything that came up.
 
+---
 
-Group feedback: get groups to share anything that came up.
+## Motivation for DDS
 
-## Motivation [JS]
-
-10 mins 
+<div class="notes">
+* 10 mins
+* JS
+</div>
 
 Why are we running this kind of course?
 
@@ -41,11 +55,15 @@ Why are we running this kind of course?
 * Edinburgh Living Lab vision
 * Employability
 
-## BREAK [5 mind]
+# BIO BREAK [5 mins]
 
 ## Project Phases [EK]
 
-[Presentation, 20 mins]
+<div class="notes">
+* 20 mins
+* EK
+
+</div>
 
 More detail on project phases
 
@@ -69,9 +87,10 @@ Relate them to range of activities
 * in-class making stuff
 * reflective writing
 
-## 5 Min colouring break
+# 5 Min colouring break
 
 ## More detail on project phases
+
 [10 mins]
 
 * Report
