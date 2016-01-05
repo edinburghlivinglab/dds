@@ -2,6 +2,10 @@
 % Ewan Klein
 % Jan 2016
 
+# Intro
+
+---
+
 ## Quick Course Overview
 
 <div class="notes">

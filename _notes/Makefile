@@ -8,7 +8,7 @@ install:
 	cp $(MD) $(installdir)
 
 %.html : %.md
-	pandoc -t revealjs  -s $< -o $(lecturedir)/$@ 
+	pandoc -t revealjs -V theme=sky -s $< -o $@ 
 
 clean:
 	rm $(HTML)
