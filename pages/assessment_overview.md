@@ -38,7 +38,7 @@ permalink: "/assessment_overview/"
                 <td>8</td>
                 <td>R1</td>
                 <td>16:00, Monday 8 Feb 2016</td>
-                <td>Personal Report</td>
+                <td>Individual Report</td>
                 <td>0%</td>
             </tr>
             <tr>
@@ -52,7 +52,7 @@ permalink: "/assessment_overview/"
                 <td>12</td>
                 <td>R2</td>
                 <td>16:00, Friday 1 April 2016</td>
-                <td>Personal Report</td>
+                <td>Individual Report</td>
                 <td>75%</td>
             </tr>
         </tbody>
