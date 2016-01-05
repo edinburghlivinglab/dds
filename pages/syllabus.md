@@ -19,7 +19,7 @@ permalink: "/syllabus/"
             <caption>Class meeting times</caption>
             <tr>
                 <td>Wednesdays</td>
-                <td>9:00&ndash;11:00</td>
+                <td>9:00&ndash;10:50</td>
             </tr>
             <tr>
                 <td>Fridays</td>
