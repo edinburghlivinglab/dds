@@ -66,11 +66,10 @@ exclude:
     - .sass-cache
     - Gemfile
     - Gemfile.lock
-    - LICENSE
+    - Theme_License.txt
     - README.md
-    - INSTALL.md
     - Makefile
-    - examples
+    - Makefile.defs
     - _build
     - _scripts
     - _pre

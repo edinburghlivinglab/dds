@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Assignment R1"
-subheadline: "Group Presentation"
+subheadline: "Individual Report"
 permalink: "/assignment_r1/"
 ---
 You can get hold of the source of this file [here]({{ site.baseurl }}/course_docs/report_1_skel.md).
@@ -36,7 +36,7 @@ How did you engage with stakeholders during the Fast Hack?
 ## Data
 
 * What data did you collect for the Fast Hack? What methods did you use to collect it, and how are you dealing with data management?
-* What other datasets, if any, did you use? How did you access them, and what are their properties (e.g., format, geographical and temporal coverage, relevance).
+* What other datasets, if any, did you use? How did you access them, and what are their properties (e.g., format, geographical and temporal coverage, relevance)?
 
 
 # 3. Initial Interpretation

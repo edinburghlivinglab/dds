@@ -1,7 +1,7 @@
 **General instructions** 
 
-* Assume you are writing your report for someone who did *not* see your Fast Hack presentation.
-* Aim to produce a report of about 4 pages long, plus diagrams and references. If you want to write a bit more, that's OK but don't write more than 5 pages.
+* Assume you are writing your report for someone who did *not* see your Slow Hack presentation.
+* Aim to produce a report of about 6 pages long, plus diagrams and references. If you want to write a bit more, that's OK but don't write more than 8 pages.
 * The remainder of this document is a skeleton that serves two functions:
    * It lists and explains the content that you should aim to include in your report.
    * Since it is written in [Markdown syntax](https://daringfireball.net/projects/markdown/syntax), you can use it directly as the starting point for writing your report.
@@ -21,19 +21,21 @@ Which individuals, groups and organisations are most relevant to the problem are
 
 ## Engagement
 
-How did you engage with stakeholders during the Fast Hack? 
+How did you engage with stakeholders during the Slow Hack? 
 
 ## Data
 
-* What data did you collect for the Fast Hack? What methods did you use to collect it, and how are you dealing with data management?
-* What other datasets, if any, did you use? How did you access them, and what are their properties (e.g., format, geographical and temporal coverage, relevance)?
+Remember that you should have used at least [two kinds of data]({{ site.baseurl/projects#two_kinds_of_data}}) in your project.
+
+* What data did you collect for the Slow Hack? What methods did you use to collect it, and how are you dealing with data management?
+* What other datasets did you use? How did you access them, and what are their properties (e.g., format, geographical and temporal coverage, relevance)?
 
 
 # 3. Initial Interpretation
 
-Tell us at least three things about your problem area that you found out during the Fast Hack. For each of the things you learned, relate it back to the data that you discussed in the preceding section. 
+Tell us at least three things about your problem area that you found out during the Slow Hack. For each of the things you learned, relate it back to the data that you discussed in the preceding section. 
 
-Consider what is the most relevant way of presenting this information. Try to use some simple visualisations, even if it is just a simple bar-chart. You can reuse any materials that you and your team developed for your Fast Hack presentation.
+Consider what is the most relevant way of presenting this information. Try to use some simple visualisations, even if it is just a simple bar-chart. You can reuse any materials that you and your team developed for your Slow Hack presentation.
 
 
 # 4. Evaluation 
@@ -57,12 +59,13 @@ If you're stuck in writing this section, some of the issues you might think abou
 
 ## Your contribution
 
-Say what your personal contribution was to the team effort during the Fast Hack.
+Say what your personal contribution was to the team effort during the Slow Hack.
 
 # 7. Conclusions
 
-Summarise overall what you personally, and your team, have accomplished so far. 
-This part of your report should draw together the main threads of your report. Try to emphasise four key 'take home' points for the reader.
+Summarise overall what you personally, and your team, have accomplished in
+your project.  This part of your report should draw together the main threads
+of your report. Try to emphasise four key 'take home' points for the reader.
 
 
 

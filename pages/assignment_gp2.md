@@ -1,15 +1,15 @@
 ---
 layout: page
-title: "Assignment GP1"
+title: "Assignment GP2"
 subheadline: "Group Presentation"
-permalink: "/assignment_gp1/"
+permalink: "/assignment_gp2/"
 ---
 
 This assignment is an in-class group presentation to be made by your team. Each team member should participate actively in both the preparation and the presentation itself.
 The presentation should last 15 minutes, so please rehearse in advance and make sure you don't go over time.
 
 The presentation should address three questions, using as many forms of
-information as you can reasonably collect during the [Fast Hack]({{ site.baseurl }}/fast_hack/):
+information as you can reasonably collect during the [Slow Hack]({{ site.baseurl }}/slow_hack/):
 
 1. What is the existing situation in the University as regards to your Food and Sustainability sub-theme? Where are we starting from &mdash; what is happening (or not
 happening) right now?
