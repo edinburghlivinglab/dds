@@ -1,7 +1,17 @@
+---
+layout: page
+title: "Assignment R1"
+subheadline: "Group Presentation"
+permalink: "/assignment_r1/"
+---
+You can get hold of the source of this file [here]({{ site.baseurl }}/course_docs/report_1_skel.md).
+
+---
+
 **General instructions** 
 
 * Assume you are writing your report for someone who did *not* see your Fast Hack presentation.
-* Aim to produce a report of about 4 pages long, plus diagrams and references. If you want to write a bit more, that's OK but don't write more than 5 pages.
+* Aim to produce a report of about 4 pages long, plus diagrams. If you want to write a bit more, that's OK but don't write more than 5 pages.
 * The remainder of this document is a skeleton that serves two functions:
    * It lists and explains the content that you should aim to include in your report.
    * Since it is written in [Markdown syntax](https://daringfireball.net/projects/markdown/syntax), you can use it directly as the starting point for writing your report.
@@ -63,6 +73,8 @@ Say what your personal contribution was to the team effort during the Fast Hack.
 
 Summarise overall what you personally, and your team, have accomplished so far. 
 This part of your report should draw together the main threads of your report. Try to emphasise four key 'take home' points for the reader.
+
+
 
 
 

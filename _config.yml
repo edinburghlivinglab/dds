@@ -73,6 +73,7 @@ exclude:
     - examples
     - _build
     - _scripts
+    - _pre
 
 
 # The language setting is used in /includes/header.html for html-settings
