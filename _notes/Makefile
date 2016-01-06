@@ -2,14 +2,14 @@ installdir := ../slides
 HTML := $(patsubst %.md, %.html, $(wildcard *.md))
 PDF := $(patsubst %.md, %.pdf, $(wildcard *.md))
 
-VARS := --variable theme=sky --variable revealjs-url="../assets/reveal.js"
+OPTIONS := --variable theme=sky --variable revealjs-url="../assets/reveal.js" --slide-level=1 --standalone
 
 all: $(HTML) install
 
 pdf: $(PDF)
 
 %.html : %.md
-	pandoc -t revealjs $(VARS) -s $< -o $@
+	pandoc -t revealjs $(OPTIONS) $< -o $@
 
 
 %.pdf : %.md
@@ -17,7 +17,7 @@ pdf: $(PDF)
 
 
 install:
-	mv $(HTML) $(PDF) $(installdir)
+	mv $(HTML) $(installdir)
 
 clean:
 	rm $(HTML) $(PDF) 

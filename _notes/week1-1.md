@@ -2,9 +2,6 @@
 % Ewan Klein
 % Jan 2016
 
-# Intro
-
----
 
 ## Quick Course Overview
 
@@ -14,7 +11,7 @@
 
 </div>
 
-Very quick overview of the course. This will focus on the what, not the why or the how.
+Very quick overview of the course. This will focus on the **what**, not the why or the how.
 
 * projects
 * theme and sub-themes
@@ -33,16 +30,15 @@ Very quick overview of the course. This will focus on the what, not the why or t
 
 ---
 
-# Small group discussion
+## Small group discussion
 
 <div class="notes">
 * 15 mins
 
 </div>
 
-
-* Each person in group gets 2 minute to introduce themselves and say why they signed up for this course.
-* Group feedback: get groups to share anything that came up.
+* Each person in each group gets 2 minute to introduce themselves and say why they signed up for this course.
+* Discussion: each group gets to share anything that came up.
 
 ---
 
@@ -53,7 +49,7 @@ Very quick overview of the course. This will focus on the what, not the why or t
 * JS
 </div>
 
-Why are we running this kind of course?
+Why are we running a course like this?
 
 * Learning by Developing
 * Edinburgh Living Lab vision
@@ -61,16 +57,13 @@ Why are we running this kind of course?
 
 # BIO BREAK [5 mins]
 
-## Project Phases [EK]
+---
+
+## Project Phases, 1
 
 <div class="notes">
 * 20 mins
 * EK
-
-</div>
-
-More detail on project phases
-
 * Prep [EK]
 * FH [EK]
 * DD [AA]
@@ -90,18 +83,38 @@ Relate them to range of activities
 * team bonding exercises
 * in-class making stuff
 * reflective writing
+</div>
+
+More detail on project phases
+
+### Preparation
+
+### Fast Hack
+
+### Digging Deeper
+
+### Slow Hack
+
+
 
 # 5 Min colouring break
 
-## More detail on project phases
+---
 
-[10 mins]
+## Project Phases, 2
+
+<div class="notes">
+* 10 mins
+* EK
+</div>
 
 * Report
 * Assessment
 	* The formal bit
 	* What counts as success
 
-## Questions
+---
+
+# Questions
 
 

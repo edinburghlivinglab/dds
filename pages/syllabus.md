@@ -53,6 +53,9 @@ permalink: "/syllabus/"
  <p>
  Unlike many standard pre-Honours courses at the University, <i>Data, Design and Society</i> (DDS) will be organised around team-based projects. The project work will be broken down into five <b>phases</b>, which are indicated in the table below. 
  The structure of the projects is described in more detail in the <a href="{{ site.baseurl }}/project_overview/">Project Overview</a>.
+
+ 
+
  </p>   
 
 </div>
@@ -65,6 +68,7 @@ permalink: "/syllabus/"
                 <th>Phase</th>
                 <th>Date</th>
                 <th>Topic</th>
+                <th>See also</th>
             </tr>
         </thead>
         <tbody>
@@ -75,19 +79,23 @@ permalink: "/syllabus/"
                 </td>
                 <td>13-Jan-2016</td>
                 <td>Course Overview</td>
+                <td><a href="{{ site.baseurl }}/slides/week1-1.html">Slides</a></td>
             </tr>
             <tr>
                 <td>15-Jan-2016</td>
                 <td>Investigating food issues</td>
+                <td>&nbsp;</td>
             </tr>
             <tr>
                 <td rowspan="2">2</td>
                 <td>20-Jan-2016</td>
                 <td>Design thinking; using data</td>
+                <td>&nbsp;</td>
             </tr>
             <tr>
                 <td>22-Jan-2016</td>
                 <td>Ethnography, observing and ethics</td>
+                <td>&nbsp;</td>
             </tr>
             <tr>
                 <td rowspan="2">3</td>
@@ -96,10 +104,12 @@ permalink: "/syllabus/"
                 </td>
                 <td>27-Jan-2016</td>
                 <td>Fieldwork</td>
+                <td>&nbsp;</td>
             </tr>
             <tr>
                 <td>29-Jan-2016</td>
                 <td>Team presentations</td>
+                <td>&nbsp;</td>
             </tr>
             <tr>
                 <td rowspan="2">4</td>
@@ -108,25 +118,30 @@ permalink: "/syllabus/"
                 </td>
                 <td>03-Feb-2016</td>
                 <td>Data formats, data analysis</td>
+                <td>&nbsp;</td>
             </tr>
             <tr>
                 <td>05-Feb-2016</td>
                 <td>Data managment + team tutorials</td>
+                <td>&nbsp;</td>
             </tr>
             <tr>
                 <td rowspan="2">5</td>
                 <td>10-Feb-2016</td>
                 <td>Preparing for the Slow Hack</td>
+                <td>&nbsp;</td>
             </tr>
             <tr>
                 <td>12-Feb-2016</td>
                 <td>Focus group findings</td>
+                <td>&nbsp;</td>
             </tr>
             <tr>
                 <td>6</td>
                 <td></td>
                 <td>19-Feb-2016</td>
                 <td>Innovative Learning Week</td>
+                <td>&nbsp;</td>
             </tr>
             <tr>
                 <td rowspan="2">7</td>
@@ -135,28 +150,34 @@ permalink: "/syllabus/"
                 </td>
                 <td>24-Feb-2016</td>
                 <td>Participatory Design</td>
+                <td>&nbsp;</td>
             </tr>
             <tr>
                 <td>26-Feb-2016</td>
                 <td>Data visualisation</td>
+                <td>&nbsp;</td>
             </tr>
             <tr>
                 <td rowspan="2">8</td>
                 <td>2-Mar-2016</td>
                 <td>Data and narrative</td>
+                <td>&nbsp;</td>
             </tr>
             <tr>
                 <td>4-Mar-2016</td>
                 <td>Tutorials / Data surgeries</td>
+                <td>&nbsp;</td>
             </tr>
             <tr>
                 <td rowspan="2">9</td>
                 <td>09-Mar-2016</td>
                 <td>Data quality, lying with statistics</td>
+                <td>&nbsp;</td>
             </tr>
             <tr>
                 <td>11-Mar-2016</td>
                 <td>Tutorials / Data surgeries</td>
+                <td>&nbsp;</td>
             </tr>
             <tr>
                 <td rowspan="2">10</td>
@@ -165,19 +186,23 @@ permalink: "/syllabus/"
                 </td>
                 <td>16-Mar-2016</td>
                 <td>Dry-run presentations, peer feedback</td>
+                <td>&nbsp;</td>
             </tr>
             <tr>
                 <td>18-Mar-2016</td>
                 <td>Tutorials / Data surgeries</td>
+                <td>&nbsp;</td>
             </tr>
             <tr>
                 <td rowspan="2">11</td>
                 <td>23-Mar-2016</td>
                 <td>Team Presentations</td>
+                <td>&nbsp;</td>
             </tr>
             <tr>
                 <td>25-Mar-2016</td>
                 <td>TBD</td>
+                <td>&nbsp;</td>
             </tr>
         </tbody>
     </table>
