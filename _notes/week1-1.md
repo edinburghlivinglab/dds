@@ -1,7 +1,10 @@
-% DDS Intro
+% Data, Design and Society
 % Ewan Klein
-% Jan 2016
+% 13 January 2016
 
+# Course Intro
+
+---
 
 ## Quick Course Overview
 
