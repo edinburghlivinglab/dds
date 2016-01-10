@@ -13,12 +13,12 @@
 
 
 * Food and Sustainability Overview
-* ??
+* Small group activity?
 * Food Sharing Edinburgh
 
 ---
 
-## BIO BREAK (11.00-11.15)
+## BIO BREAK (11.00-11.05)
 
 
 ---

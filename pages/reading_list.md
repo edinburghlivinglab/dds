@@ -27,13 +27,21 @@ You should definitely read and use some of the following documents, but the part
 * Deniozou T (2015) [Student Health and Lifestyle Survey]({{ site.baseurl }}/course_docs/healthy_university_research_report.pdf), Healthy University Project, University of Edinburgh.
 * The Russell Partnership (2014) [Pollock Halls Nutrition Audit]({{ site.baseurl }}/course_docs/uoe_nutrition_audit.pdf).
 
+#### Participatory Design
+
+* Muller, M J (2003) [Participatory design: the third space in HCI]({{ site.baseurl }}/course_docs/Muller2003.pdf), 
+  chapter in *Human-computer interaction: Development process*, 4235.
+* Spinzzi, C (2005) [The methodology of participatory design](https://repositories.lib.utexas.edu/bitstream/handle/2152/28277/SpinuzziTheMethodologyOfParticipatoryDesign.pdf?sequence=2), *Technical Communication*, 52(2), 163-174.
+
 #### Designing for Change
 
-* Darnton T and  Horne J (2013) [Influencing Behaviours: A User Guide to the ISM Tool](http://www.gov.scot/Resource/0042/00423436.pdf), The Scottish Government.
+* Darnton T and Horne J (2013) [Influencing Behaviours: A User Guide to the ISM Tool](http://www.gov.scot/Resource/0042/00423436.pdf), The Scottish Government.
 * Garnett T, Mathewson S, Angelides P and Borthwick F (2015) [Policies and actions to shift eating patterns: What works?  A review of the evidence of the effectiveness of interventions aimed at shifting diets in more sustainable and healthy directions](http://www.fcrn.org.uk/sites/default/files/fcrn_chatham_house_0.pdf), Food Climate Research Network, University of Oxford.
 
-#### Data Management
+#### Ethics, Privacy and Data Management
 
+* Gray, D E (2014) [Research Ethics](https://www.learn.ed.ac.uk/bbcswebdav/pid-1708410-dt-content-rid-3168707_1/xid-3168707_1), Chapter 4, *Doing research in the real world*. Los Angeles, SAGE.
+* Alcorn, A M (2015) [Research Ethics: Orientation](Research-ethics_D4I_2015_final.pdf). Course slides for *Design for Informatics*.
 * Information Commissioner's Office (2012) [Anonymisation Code of Practice](https://ico.org.uk/media/for-organisations/documents/1061/anonymisation-code.pdf)
 
 #### Food Climate Research Network (FCRN) Library
