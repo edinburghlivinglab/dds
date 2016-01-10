@@ -30,3 +30,9 @@ Preparation for 'real' writing
 
 * When you set your own prompts, try to decide what is the 'next frontier' for your own research.
 * Begin before you begin. (Not a first draft.)
+
+
+What I don't understand
+Where is this taking me
+What is the next question?
+Where do I find that out?
