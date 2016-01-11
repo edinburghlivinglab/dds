@@ -21,15 +21,15 @@ permalink: "/initiatives/"
     </li>
     <li>
         <center>
-            <img class="center" src="{{ site.urlimg }}plate7-128.png" />
+            <img class="center" height="250" src="{{ site.urlimg }}foodwise.png" />
             <p class="text-center">
-                <a href="http://heartysquirreledinburgh.weebly.com/">Healthy Squirrel Cooperative</a>
+                <a href="http://foodwise.scot">Foodwise</a>
             </p>
         </center>
     </li>
     <li>
         <center>
-            <img class="center" src="{{ site.urlimg }}food_sharing.png" />
+            <img class="center" height="250" src="{{ site.urlimg }}food_sharing.png" />
             <p class="text-center">
                 <a href="https://foodsharingedinburgh.wordpress.com">Food Sharing Edinburgh</a>
             </p>
@@ -66,7 +66,12 @@ permalink: "/initiatives/"
         </p>
     </li>
     <li>
- 
+ <center>
+            <img class="center" src="{{ site.urlimg }}plate7-128.png" />
+            <p class="text-center">
+                <a href="http://heartysquirreledinburgh.weebly.com/">Healthy Squirrel Cooperative</a>
+            </p>
+        </center>
     </li>
     <li>
        
