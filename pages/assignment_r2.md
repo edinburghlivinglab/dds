@@ -20,7 +20,7 @@ You can get hold of the source of this file [here]({{ site.baseurl }}/course_doc
 
 # 1. Introduction
 
-Briefly describe the sub-theme that your team is addressing, together with the specific problem area that you are looking at. 
+Give an overview of the questions / challenges that you addressed during your project. Why is it interesting and relevant? Try to set this within the general context of the University's Food and Sustainability Policy. 
 
 
 # 2. What do you know about your problem area?
@@ -35,7 +35,8 @@ How did you engage with stakeholders during the Slow Hack?
 
 ## Data
 
-Remember that you should have used at least [two kinds of data]({{ site.baseurl/projects#two_kinds_of_data}}) in your project.
+Remember that you should have used at least 
+[two kinds of data]({{ site.baseurl }}/project_overview/#two_kinds_of_data) in your project.
 
 * What data did you collect for the Slow Hack? What methods did you use to collect it, and how are you dealing with data management?
 * What other datasets did you use? How did you access them, and what are their properties (e.g., format, geographical and temporal coverage, relevance)?
