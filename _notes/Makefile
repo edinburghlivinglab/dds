@@ -6,14 +6,14 @@ OPTIONS := --variable theme=sky --variable revealjs-url="../assets/reveal.js" --
 
 all: $(HTML) install
 
-pdf: $(PDF)
+# pdf: $(PDF)
 
 %.html : %.md
-	pandoc -t revealjs $(OPTIONS) $< -o $@
+	pandoc --smart -t revealjs $(OPTIONS) $< -o $@
 
 
-%.pdf : %.md
-	pandoc -t beamer -s $< -o $@ 
+# %.pdf : %.md
+# 	pandoc -t beamer -s $< -o $@ 
 
 
 install:

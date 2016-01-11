@@ -23,6 +23,15 @@ Very quick overview of the course. This will focus on the **what**, not the why 
 
 ---
 
+# Four Rules
+
+* Turn up and be fully present --- class time is essential
+* Do every exercise and piece of work when it comes up --- you can't cram the material in during last week of semester
+* Be reliable --- your team members will depend on you
+* If in doubt, ask in class or see Alyssa
+
+---
+
 ## Example projects from Design for Informatics
 
 <div class="notes">
@@ -58,7 +67,8 @@ Why are we running a course like this?
 * Edinburgh Living Lab vision
 * Employability
 
-# BIO BREAK [5 mins]
+# BIO BREAK 
+## [5 minutes]
 
 ---
 
@@ -100,7 +110,7 @@ More detail on project phases
 
 
 
-# 5 Min colouring break
+# 5 minute colouring break
 
 ---
 
