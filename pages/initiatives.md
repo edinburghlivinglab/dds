@@ -1,12 +1,10 @@
 ---
 layout: page-fullwidth
-title: "Food Initiatives"
+title: "Local Food Initiatives"
 subheadline: ""
 teaser: ""
 permalink: "/initiatives/"
 ---
-
-## Initiatives in the University
 
 <div class="t30">
 <ul class="small-block-grid-4">
@@ -31,7 +29,7 @@ permalink: "/initiatives/"
     </li>
     <li>
         <center>
-            <img class="center" src="{{ site.urlimg }}plate7-128.png" />
+            <img class="center" src="{{ site.urlimg }}food_sharing.png" />
             <p class="text-center">
                 <a href="https://foodsharingedinburgh.wordpress.com">Food Sharing Edinburgh</a>
             </p>
