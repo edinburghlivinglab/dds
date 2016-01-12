@@ -3,7 +3,10 @@ include ../Makefile.defs
 installdir := ../course_docs
 
 INDEX := index.md
-PAGES := $(INDEX) syllabus.md $(MD) 
+#PAGES := $(INDEX) syllabus.md $(MD) 
+PAGES := syllabus.md $(MD) 
+OPTIONS := -s --latex-engine=xelatex --template=latex.template --number-sections
+
 
 HANDBOOK := handbook.md
 PDF := $(HANDBOOK:md=pdf)
@@ -23,7 +26,7 @@ cat:
 	cat $(PAGES) > $(HANDBOOK)
 
 $(PDF): $(PAGES)
-	$(PANDOC) -s --latex-engine=xelatex --template=latex.template --number-sections $^ -o $(PDF)
+	$(PANDOC) $(OPTIONS) $^ -o $(PDF)
 
 
 

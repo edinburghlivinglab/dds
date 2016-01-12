@@ -43,14 +43,14 @@ permalink: "/assessment_overview/"
             </tr>
             <tr>
                 <td>11</td>
-                <td><a href="{{ site.baseurl }}/assignment_gp2">GP2</a></td>
+                <td><GP2</td>
                 <td>10:00&ndash;12:00, Wednesday 23 March 2016</td>
                 <td>Group Presentation</td>
                 <td>25%</td>
             </tr>
             <tr>
                 <td>12</td>
-                <td><a href="{{ site.baseurl }}/assignment_r2">R2</a>a</td>
+                <td>R2</td>
                 <td>16:00, Friday 1 April 2016</td>
                 <td>Individual Report</td>
                 <td>75%</td>
