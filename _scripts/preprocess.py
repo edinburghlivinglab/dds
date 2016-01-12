@@ -10,6 +10,8 @@ def fix_url(line, verbose=False):
     url = re.compile('(\(\{\{ site\.baseurl \}\}/)(.+?\))')
     if line.startswith('#'):
         return line
+    if line.startswith('Table of Contents'):
+        return ''
     m = url.search(line)
     if m is None:
         return line

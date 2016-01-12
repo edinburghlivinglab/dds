@@ -1,11 +1,11 @@
 ---
-layout: page-fullwidth
+layout: page
 title: "Project Overview"
 subheadline: ""
 teaser: ""
 permalink: "/project_overview/"
 ---
-<div class="row">
+<!-- <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="panel radius" markdown="1">
 **Table of Contents**
@@ -13,9 +13,9 @@ permalink: "/project_overview/"
 * TOC
 {:toc}
 </div>
-</div><!-- /.medium-4.columns -->
+</div>
 
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 medium-pull-4 columns" markdown="1"> -->
 
 ## Food and Sustainability in the University
 
@@ -31,17 +31,16 @@ following **sub-themes**:
 
 <div>
     <div class="medium-panel">
-        <p>Reducing wastage of food served in Pollock Halls Dining Hall</p>
+        Reducing wastage of food served in Pollock Halls Dining Hall
     </div>
     <div class="medium-panel">
-        <p>Reducing packaging waste at any point in the production and consumption of food on campus.</p>
+        Reducing packaging waste at any point in the production and consumption of food on campus.
     </div>
     <div class="medium-panel">
-        <p>Increasing the rate at which students select healthy / sustainable food options, either on campus, or off campus; and with either prepared food or raw ingredients.
-            </ul>
-        </p>
+        Increasing the rate at which students select healthy / sustainable food options, either on campus, or off campus; and with either prepared food or raw ingredients.
     </div>
 </div>
+
 
 Your project work will be divided into five phases over the course of the
 semester. Descriptions of the phases can be found by following the links
@@ -102,18 +101,17 @@ addition, you are required to use some **existing** data and also to
 **collect** some new data. So your project should involve at least one of the data scenarios shown in these diagrams:
 
 <div class="t30">
-<ul class="small-block-grid-2">
-<li>
- <img class="center" src="{{ site.urlimg }}two_kinds_of_data_1.png" />
-</li>
-<li>
- <img class="center" src="{{ site.urlimg }}two_kinds_of_data_2.png" />
-</li>
-</ul>
+    <ul class="small-block-grid-2">
+        <li>
+            <img class="center" src="{{ site.urlimg }}two_kinds_of_data_1.png" />
+        </li>
+        <li>
+            <img class="center" src="{{ site.urlimg }}two_kinds_of_data_2.png" />
+        </li>
+    </ul>
 </div>
 
-</div>
-</div>
+
 
 
 

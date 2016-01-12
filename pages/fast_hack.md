@@ -1,38 +1,29 @@
 ---
-layout: page-fullwidth
+layout: page
 title: "Fast Hack"
 subheadline: "Course Phase 1"
 permalink: "/fast_hack/"
 ---
-<div class="row">
+
+<!-- <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
+
 <div class="panel radius" markdown="1">
 **Table of Contents**
 {: #toc }
 *  TOC
 {:toc}
 </div>
-</div><!-- /.medium-4.columns -->
+</div>
 
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+<div class="medium-8 medium-pull-4 columns" markdown="1">-->
+
 ## Key Dates
 
 
-<table class="lite-table">	
-<tr>
-<td><b>Fast Hack event</b></td>
-<td>Beginning Wednesday January 27th, 2016</td>
-</tr>
-<tr>
-<td><b>Team Presentations</b></td>
-<td>Class time, Friday January 29th, 2016</td>
-</tr>
-<tr>
-<td><b>Fast Hack individual report</b> (assignment R1)</td>
-<td>due 16:00 Monday, February 8th, 2016</td>
-</tr>
-</table>
-
+**Fast Hack event**: Beginning Wednesday 27th January 2016  
+**Team Presentations** ([Assignment GP1]({{ site.baseurl }}/assignment_gp1/)): Class time, Friday 29th January 2016  
+**Fast Hack individual report** ([Assignment R1]({{ site.baseurl }}/assignment_r1/)): due 16:00 Monday, 8th February 2016  
 
 
 
@@ -53,10 +44,10 @@ During the Fast Hack, you are a detective. Just as a detective must go to places
 
 Although we have identified a number of Food and Sustainability [sub-themes]({{ site.baseurl }}/project_overview),  each of these is still pretty broad. Your team will need to think about your interest and priorities within your chosen sub-theme. You will need to plan:
 
-* Where to go during the Fast Hack
-* Who to talk to &mdash; may be teams, individuals, organisations
-* What you want to find out (types of information to collect)
-* Practicalities: any equipment needed, staying in touch on the day, storing information... 
+* Where to go during the Fast Hack.
+* Who to talk to &mdash; may be teams, individuals, organisations.
+* What you want to find out (types of data to collect).
+* Practicalities: any equipment needed, staying in touch on the day, storing information, etc. 
 
 At the same time as planning how to use your time, you should be ready to follow up on interesting, unexpected things you might stumble across during your investigation.
 
@@ -71,7 +62,7 @@ Some starting information for the Fast Hack is available here:
 
 Once you have some done some information-gathering from relevant locations and
 people, you can start to identify specific problem areas. What are smaller
-challenges, within the sub-theme, to which you might be able to design a
+challenges, within the sub-theme, for which you might be able to design a
 proof-of-concept solution? At this stage, your team does not have to (and
 **should not**) choose only one problem and solution. You should show that you
 have identified several possible problems and solutions, based on the Fast
@@ -95,22 +86,22 @@ of information as you can reasonably collect during the Fast Hack:
 
 * What are some possible ideas for addressing each problem (i.e. improving some aspect of food-related sustainability)?
 
-In the presentation, your team needs to be able to explain what information
-you collected (and/or looked up), what kind of information it is, and how the
+In the presentation, your team needs to be able to explain what new data
+you collected and what existing data you located and used, and how the
 answers to your three questions (current state, possible problems, possible
 ideas) are based on your Fast Hack information. Be ready to explain how,
-where, and when you collected this information.
+where, and when you gathered information.
 
-You are encouraged to make your presentations visual&mdash;use photos,
-drawings, videos, animations, graphs, maps (etc) to help communicate about the
+You are encouraged to make your presentations visual &mdash; use photos,
+drawings, videos, animations, graphs, maps, etc. to help communicate about the
 information you collected, and your design ideas.
 
 
 ## By the End of this Phase
 
-You should have started your summative individual report (due early in next
-phase) including commenting specifically on your contribution to the Fast Hack
-ideas and presentation.
+You should have started your individual report (due early in the next
+phase), including a description of your personal contribution to the Fast Hack
+ideas and to the group presentation.
 
 Your team should have created a presentation of the information gathered in
 Fast Hack, and your initial ideas, and be able to clearly explain what you
@@ -127,5 +118,4 @@ DDS and university data management and privacy requirements.
 * [LO3: Communication]({{ site.baseurl }}/learning_outcomes#communication)
 * [LO4: Professionalism]({{ site.baseurl }}/learning_outcomes#professionalism)
 
-</div>
-</div>
+

@@ -9,8 +9,8 @@ permalink: "/slow_hack/"
 
 ## Key Dates
 
-Last day for data collection: Friday March 11th<br/>
-PD activity with stakeholders: your team must schedule this between February 24th and March 11th 
+**Last day for data collection**: Friday 11th March 2016   
+**PD activity with stakeholders**: your team must schedule this between 24th February 24th and 11th March 
 
 
 ## Description
@@ -22,11 +22,11 @@ In class, we will continue working on skills around interpreting data and using 
 
 ### How is this different than the Fast Hack?
 
-In one sentence, [Fast Hack]({{ site.baseurl }}/fast_hack) was broad but shallow, while the Slow Hack is narrower, deeper, and more concerned with details.  The Fast Hack was trying to find out as much as possible, as quickly as possible because you didn't know yet what might be particularly interesting or useful within your sub-theme. A main goal was to identify several problems or questions, for which your team might propose several initial ideas. By the start of the Slow Hack, your should have narrowed down to **one** problem area or question, by continuing to build on and refine work started in the Fast Hack. You should now have an idea about a possible solution, and during the Slow Hack your team will develop this initial idea into a proof-of-concept design. 
+In one sentence, the [Fast Hack]({{ site.baseurl }}/fast_hack) was broad but shallow, while the Slow Hack is more tightly focussed, deeper, and more concerned with details.  The Fast Hack was trying to find out as much as possible, as quickly as possible, because you didn't know yet what might be particularly interesting or useful within your sub-theme. A main goal was to identify several problems or questions, for which your team might propose several initial ideas. By the start of the Slow Hack, your should have narrowed down to **one** problem area or question, by continuing to build on and refine work started in the Fast Hack. You should now have an idea about a possible solution, and during the Slow Hack your team will develop this initial idea into a proof-of-concept design. 
 
-### Determining what to do is a main part of “the work” in Slow Hack!
+### Determining *what to do is* a central to the Slow Hack!
 
-In Phases 0&ndash;2, different DDS teams will likely have been doing similar things and will have had specific instructions about how to proceed. In this phase your team has more choice and more responsibility for determining what you need to do.  It is up to each team to use their experience and the course resources from Phases 0&ndash;2 in order to develop their starting idea into a more detailed, proof-of-concept design. Unlike earlier phases, there will not be specific instructions on exactly what information to look for, or what to do.  Developing and justifying your team’s course of action&mdash;out of the many possibilities&mdash;is a main part of the work in this stage. For example, it might be very important for one team to be building and critiquing prototypes of a physical object, but that might make no sense for another team’s idea, which features a website.
+In Phases 0&ndash;2, different DDS teams will likely have been doing similar things and will have had specific instructions about how to proceed. In this phase your team has more choice and more responsibility for determining what you need to do.  It is up to each team to use their experience and the course resources from Phases 0&ndash;2 in order to develop their starting idea into a more detailed, proof-of-concept design. Relative to earlier phases, there will not fewer specific instructions on what information to look for, or what to do.  Developing and justifying your team’s course of action&mdash;out of the many possibilities&mdash;is a main part of the work in this stage. For example, it might be very important for one team to be building and critiquing prototypes of a physical object, but that might make no sense for another team’s idea, which features a website.
 
 ### Participatory design with stakeholders
 
@@ -35,17 +35,17 @@ All teams are required to have at least one more participatory design session wi
 
 ## By the End of this Phase
 
-* You should understand and be able to explain what your team has done in the Slow Hack and why those actions were chosen, out of the available possibilities.
+You should understand and be able to explain what your team has done in the Slow Hack and why those actions were chosen, out of the available possibilities.
 
-* Your team should have conducted an additional participatory design session with University stakeholders, abiding by the DDS and university [ethics requirements]({{ site.baseurl }}/ethics). Data analysis may still be in progress. 
+our team should have conducted an additional participatory design session with University stakeholders, abiding by the DDS and University ethics requirements. Data analysis may still be in progress. 
 
-* Your team should have engaged in whatever other activities are necessary to develop your initial idea into a proof-of-concept scale idea. This will definitely include discussion, reflection, and critique within the team. It may include creating sketches, maps, physical prototypes, a website, or some other representation of your idea; it may include additional data collection or seeking out existing data; it may include additional participatory design. 
+Your team should have engaged in whatever other activities are necessary to develop your initial idea into a proof-of-concept scale idea. This will definitely include discussion, reflection, and critique within the team. It may include creating sketches, maps, physical prototypes, a website, or some other representation of your idea; it may include additional data collection or seeking out existing data; it may include additional participatory design. 
 
-* **Your team does *not* need to have “solved” your problem**. In the next phase, you will need to show that your idea has the potential to solve or at least affect the problem.
+Your team does **not** need to have “solved” your problem. In the next phase, you will need to show that your idea has the potential to solve or at least affect the problem.
 
-* You and your team should have stored any newly collected data in accordance with approved DDS and university data management and privacy requirements. 
+You and your team should have stored any newly collected data in accordance with approved DDS and university data management and privacy requirements. 
 
 ## Learning Outcomes for this Phase
 
-* Identify and apply relevant strategies for data collection and related prototype 'interventions' which address the interests and needs of a specified community of stakeholders.
-* Demonstrate an ability to work in an interdisciplinary team and to act in a professional manner when interacting with stakeholders and the public.
+* [LO1: Interventions]({{ site.baseurl }}/learning_outcomes#interventions) 
+* [LO4: Professionalism]({{ site.baseurl }}/learning_outcomes#professionalism)

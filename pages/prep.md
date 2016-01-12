@@ -8,9 +8,8 @@ permalink: "/preparation/"
 
 ## Key Dates
 
-**Course start**: Wednesday, 13th January
-
-**Team formation**: Wednesday, 20th January
+**Course start**: Wednesday, 13th January 2016  
+**Team formation**: Wednesday, 20th January 2016
 
 
 ## Description
@@ -23,15 +22,15 @@ from design, the social sciences, and informatics.
 
 ### What is a Hack? 
 
-A hack (or hackathon) originally referred to a team of programmers,
+A hack event (or hackathon) sometimes refers to a team of programmers,
 designers, and other technology experts engaging in a short period of
-intensive development (e.g., "build an app/game in a weekend!"). Now the term
+intensive development (e.g., "build a phone app in a weekend!"). Now the term
 is often used more broadly, to refer to any period of focused, intensive
 collaboration between experts and stakeholders. Hacks may be about solving a
 particular problem (e.g. making dementia-friendly bathrooms), or more
 generally exploring a topic (e.g., what can you make with available open data
 sets?). For example, the recent [Walk Hack](http://www.sustrans.org.uk/news/edinburgh-launches-walk-hack) (October 2015) brought together
-researchers, designers, technologists, Edinburgh Council representatives,
+researchers, designers, technologists, City of Edinburgh Council representatives,
 local organisations and interested residents in order to work together on
 ideas for promoting walking in the Edinburgh city centre. How could it be made
 safer, more interesting, more appealing, "better"? 
@@ -53,7 +52,7 @@ ideas, and a [Slow Hack (Phase 3)]({{ site.baseurl }}/slow_hack) intended to dev
 depth, over a longer period of time.
 
 As described in [Project Overview]({{ site.baseurl }}/project_overview),
-DDS will have a "Food and Sustainability" theme, focused on the
+DDS will have a Food and Sustainability theme, focused on the
 University of Edinburgh community. In Phase 0, several speakers will present
 on food and sustainability issues, and we will also look at University and
 EUSA policy on this issue. 
@@ -77,7 +76,7 @@ participating in the next phases of the course. You will find it very
 difficult to catch up on this information later.
 
 Starting in Phase 0 and continuing throughout the course, we will also work on
-writing, presenting, and teamwork skills. Individuals and teams will be
+writing, presentation, and teamwork skills. Individuals and teams will be
 pushed to explain and justify their work. We see these as central to course
 success, and as major transferable skills that students can take away from
 DDS.
