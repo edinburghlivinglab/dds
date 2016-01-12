@@ -73,7 +73,7 @@ Once you have some done some information-gathering from relevant locations and
 people, you can start to identify specific problem areas. What are smaller
 challenges, within the sub-theme, to which you might be able to design a
 proof-of-concept solution? At this stage, your team does not have to (and
-SHOULD NOT) choose only one problem and solution. You should show that you
+**should not**) choose only one problem and solution. You should show that you
 have identified several possible problems and solutions, based on the Fast
 Hack.
 

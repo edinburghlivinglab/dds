@@ -35,22 +35,22 @@ permalink: "/assessment_overview/"
                 <td>0%</td>
             </tr>
             <tr>
-                <td>8</td>
-                <td>R1</td>
+                <td>5</td>
+                <td><a href="{{ site.baseurl }}/assignment_r1">R1</a></td>
                 <td>16:00, Monday 8 Feb 2016</td>
                 <td>Individual Report</td>
                 <td>0%</td>
             </tr>
             <tr>
                 <td>11</td>
-                <td>GP2</td>
+                <td><a href="{{ site.baseurl }}/assignment_gp2">GP2</a></td>
                 <td>10:00&ndash;12:00, Wednesday 23 March 2016</td>
                 <td>Group Presentation</td>
                 <td>25%</td>
             </tr>
             <tr>
                 <td>12</td>
-                <td>R2</td>
+                <td><a href="{{ site.baseurl }}/assignment_r2">R2</a>a</td>
                 <td>16:00, Friday 1 April 2016</td>
                 <td>Individual Report</td>
                 <td>75%</td>

@@ -12,13 +12,14 @@
 
 ## Hassan Presentation  (10.15-11.00)
 
+
 * Food and Sustainability Overview
-* Group activity
+* Small group activity?
 * Food Sharing Edinburgh
 
 ---
 
-## BIO BREAK (11.00-11.15)
+## BIO BREAK (11.00-11.05)
 
 ---
 

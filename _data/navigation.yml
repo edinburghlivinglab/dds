@@ -62,11 +62,13 @@
 
 
 - title: "Resources"
-  url: "/initiatives/"
+  url: "/resources/"
   side: right
   dropdown:
   - title: "Reading List"
     url: "/reading_list/"
+  - title: "Videos"
+    url: "/videos/"
   - title: "Local Food Initiatives"
     url: "/initiatives/"
   - title: "Datasets"

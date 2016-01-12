@@ -2,7 +2,8 @@ installdir := ../slides
 HTML := $(patsubst %.md, %.html, $(wildcard *.md))
 PDF := $(patsubst %.md, %.pdf, $(wildcard *.md))
 
-OPTIONS := --variable theme=sky --variable revealjs-url="../assets/reveal.js" --slide-level=1 --standalone
+# OPTIONS := --variable theme=sky --variable revealjs-url="../assets/reveal.js"  --standalone
+OPTIONS := --variable revealjs-url="../assets/reveal.js"  --standalone
 
 all: $(HTML) install
 
