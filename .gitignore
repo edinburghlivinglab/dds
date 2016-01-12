@@ -6,5 +6,7 @@ _build/*.md
 _build/*.pdf
 !_build/forematter.md
 
+_notes/*.html
+
 *.wpu
 
