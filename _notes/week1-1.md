@@ -109,6 +109,20 @@ See [some pictures of their posters](https://twitter.com/hey_arno/status/6695206
 
 ##  Assessment
     
+# Next Class
+
+## When and Where?
+
+* In this building
+* In **Lecture Theatre 1**
+* Friday 15th Jan, 10.00 -- 12.00
+
+## Bring a Writing Book
+
+* You'll do in-class writing
+* By hand, on paper!
+* Bring a writing book that you can use just for DDS
+* Preferably **not** loose leaf
 
 # Questions?
 
