@@ -18,7 +18,6 @@ Preparation for 'real' writing
 4. You're not allowed to show this writing to anyone else.
 
 
-
 ## Reflection / Discussion
 
 * What's the point of writing if you don't write well? (Content, idea generaion, writing 'muscle')
