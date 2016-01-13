@@ -43,7 +43,7 @@ permalink: "/assessment_overview/"
             </tr>
             <tr>
                 <td>11</td>
-                <td><GP2</td>
+                <td>GP2</td>
                 <td>10:00&ndash;12:00, Wednesday 23 March 2016</td>
                 <td>Group Presentation</td>
                 <td>25%</td>

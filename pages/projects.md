@@ -23,7 +23,7 @@ The **theme** of the course this year is Food and Sustainability &mdash; how can
 
 The University of Edinburgh is currently in the process of drafting its first
 [sustainable food policy]({{ site.baseurl }}/course_docs/sustainable_food_policy_sept_2014.pdf).  In this course, your main objective is to work in a small team to develop a project that engages with this policy goal, by designing, building and measuring experimental
-innovations 
+innovations.
 
 
 In order to narrow down the scope of what you do, we ask you focus your project on one of the

@@ -1,5 +1,5 @@
 % Data, Design & Society
-% Ewan Klein
+% Ewan Klein, Alyssa Alcorn, James Stewart
 % 13 January 2016
 
 # Course Intro
@@ -13,7 +13,43 @@ Very quick overview of the course. This will focus on the **what**, not the why 
 * teams
 * hack structure
 
-## Four Rules
+## Projects
+
+* Most of the course is oriented towards you doing stuff
+* in teams
+* out in the world
+
+## Design
+
+* We adopt the broad definition of design by Herbert Simon, namely “devising courses of action aimed at changing existing situations into preferred ones”.
+
+## Theme
+
+* University is currently drafting its first Sustainable Food Policy
+* In DDS, you will develop a project that engages with Food and Sustainability in the University
+* by designing, building and evaluating a proof-of-concept design idea
+
+## Sub-themes
+
+* Reducing wastage of food served in Pollock Halls Dining Hall
+* Reducing packaging waste at any point in the production and consumption of food on campus.
+* Increasing the rate at which students select healthy / sustainable food options, either on campus, or off campus; and with either prepared food or raw ingredients.
+
+## Teams
+
+* We will assign you to teams next week --- these will stay the same till the end of the course
+* 4 people to a team
+* Some will probably have an easier time than others 
+* Each team will get a mentor / facilitator
+
+## Hacks
+
+* period of focused, intensive collaboration between experts and stakeholders
+* should be creative, interactive, fun
+* "studio" approach --- show and share your ideas right from the start
+
+
+## Four Rules for DDS
 
 * Turn up and be fully present --- class time is essential
 * Do every exercise and piece of work when it comes up --- you can't cram the material in during last week of semester
@@ -78,8 +114,11 @@ See [some pictures of their posters](https://twitter.com/hey_arno/status/6695206
 
 ## Topic
 
-* Each person at each table gets 2 minutes to introduce themselves and say why they signed up for this course.
-* Whole class: each table gets to share one interesting thing that came up in their discussion.
+* Each person at each table gets 2 minutes to talk
+* While one person is talking, everyone else in group just listens
+* Introduce yourself and mention one kind of food that you particularly like
+* And say why you signed up for this course.
+* Whole class: each table gets to share one interesting thing that came up in their discussion
 
 # Motivation for DDS
 
@@ -92,22 +131,103 @@ See [some pictures of their posters](https://twitter.com/hey_arno/status/6695206
 # BIO BREAK 
 ## [5 minutes]
 
-# Project Phases
+# Project Website
+
+## Key Course Information
+
+* Regularly check the schedule at
+[http://edinburghlivinglab.github.io/dds/](http://edinburghlivinglab.github.io/dds/)
+
+# Project Phases, 1
 
 
 ## Preparation
 
+Initial orientation and skills
+
+* Food and sustainability issues
+* Introduction to design thinking
+* Introduction to data and information
+* Introduction to observation, ethnography, and research ethics
+
+
 ## Fast Hack
+
+Takes place in week 3
+
+1. Gather data and information about your chosen sub-theme and its current state at the University
+1. Do this "in the wild"
+1. You'll need to put aside the best part of at least 1 day to do this, as a team
+2. Identify specific problems/questions within your sub-theme, and generate ideas for how to address them
+2. Your team will give a group presentation and you will write an individual report
 
 ## Digging Deeper
 
+Weeks 4--5
+
+1. Consolidating what you've found out in Fast Hack
+1. Identifying gaps, quesstions, topics to investigate
+1. Build up more skills in data collection and data analysis
+1. Start critiquing and refining the design ideas generated during Fast Hack
+1. Hold a **focus group** with University stakeholders
+
+## Innovative Learning Week
+
+Week 6
+
+* Go wild!
+
 ## Slow Hack
 
-## 5 minute colouring break
+Weeks 7--9
+
+1. Narrow down to **one** potential solution --- a proof-of-concept design idea that has the potential to solve the problem(s) you've identified
+1. Do more data collection, building up more evidence for your design idea
+1. Do some prototyping that allows you to test your idea and measure its effectiveness --- ideally you'll do this a number of times
+1. Hold a participatory design workshop with University stakeholders
+
+
+# 5 minute colouring break
+
+## What to do
+
+1. Sit round your table
+1. You should have a big piece of paper
+1. Grab a pen
+1. Choose someone to start, and from then on, keep silent
+1. In turn, draw **one** line to represent something to do with food
+1. Try to figure out what the previous person was drawing, and see if you can extend or refine the picture
+1. If you've had enough, put your pen down
+1. Keep on going until everyone at the table has put their pen down
+
+# Project Phases, 2
 
 ## Report
 
-##  Assessment
+Weeks 10--11
+
+1. Bring it all together into a persuasive and easy-to-understand story
+1. What is the problem you are addressing?
+1. How does your design idea have the potential to solve this problem?
+1. What are your reasons for adopting this design?
+1. How have you evaluated it?
+
+## Report
+
+1. In-class design critique and feedback session
+1. End of semester group presentation --- be prepared for an audience!
+1. Write your final report --- we'll give you more information on what's required
+
+# Assessment
+
+## Overview
+
+Week  Assignment  Due          Type                 Weight
+----  ----------  ---------    -------------------  ------
+3	  GP1	      29 Jan 	   Group Presentation	    0%
+5	  R1	      8 Feb 	   Individual Report	    0%
+11	  GP2	      23 March 	   Group Presentation	   25%
+12	  R2	      1 April 	   Individual Report	   75%
     
 # Next Class
 
