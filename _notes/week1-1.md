@@ -4,6 +4,13 @@
 
 # Course Intro
 
+## When
+
+Day          Time
+-----------  ------------ 
+Wednesdays    9.00--10.50
+Fridays      10.00--12.00
+
 ## Quick Course Overview
 
 Very quick overview of the course. This will focus on the **what**, not the why or the how.
@@ -15,7 +22,7 @@ Very quick overview of the course. This will focus on the **what**, not the why 
 
 ## Projects
 
-* Most of the course is oriented towards you doing stuff
+* Most of the course is oriented towards you doing research and experiments
 * in teams
 * out in the world
 
@@ -137,6 +144,23 @@ See [some pictures of their posters](https://twitter.com/hey_arno/status/6695206
 
 * Regularly check the schedule at
 [http://edinburghlivinglab.github.io/dds/](http://edinburghlivinglab.github.io/dds/)
+
+# How
+
+## Activities
+
+* 'lecture' type stuff
+* lab-sessions, plus working with datasets
+* field work, including data-collection
+* design sessions with stakeholders
+* project work in teams, with and without tutors
+* independent study, reading
+* in-class discussions
+* in-class and out-of-class writing
+* in-class presentations
+* team bonding exercises
+* in-class making stuff
+* reflective writing
 
 # Project Phases, 1
 
