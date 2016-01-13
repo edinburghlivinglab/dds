@@ -228,6 +228,11 @@ Week  Assignment  Due          Type                 Weight
 5	  R1	      8 Feb 	   Individual Report	    0%
 11	  GP2	      23 March 	   Group Presentation	   25%
 12	  R2	      1 April 	   Individual Report	   75%
+
+## Release date
+
+* Specification of GP2 and R2 still in draft form
+* We'll announce when they are finalised in a couple of weeks
     
 # Next Class
 
