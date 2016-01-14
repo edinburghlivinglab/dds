@@ -43,7 +43,7 @@ You should definitely read and use some of the following documents, but the part
 #### Ethics, Privacy and Data Management
 
 * Gray D E (2014) [Research Ethics](https://www.learn.ed.ac.uk/bbcswebdav/pid-1708410-dt-content-rid-3168707_1/xid-3168707_1), Chapter 4, *Doing research in the real world*. Los Angeles, SAGE.
-* Alcorn A M (2015) [Research Ethics: Orientation](Research-ethics_D4I_2015_final.pdf). Course slides for *Design for Informatics*.
+* Alcorn A M (2015) [Research Ethics: Orientation]({{ site.baseurl }}/course_docs/Research-ethics_D4I_2015_final.pdf). Course slides for *Design for Informatics*.
 * Information Commissioner's Office (2012) [Anonymisation Code of Practice](https://ico.org.uk/media/for-organisations/documents/1061/anonymisation-code.pdf)
 
 #### Food Climate Research Network (FCRN) Library
