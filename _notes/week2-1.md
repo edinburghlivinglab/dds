@@ -15,7 +15,7 @@
 ## Why are we doing this?
 
 * What's the point of writing if you don't write well? (Content, idea generaion, writing 'muscle')
-* What happens if you let your hand stop? (You look back, you start **editing**.)
+* What happens if you let your hand stop? (You look back, and you start **editing**.)
 * How is it different from the way you usually write?
 * What happens when you find it hard to keep going?
 * What happens when time is up?
