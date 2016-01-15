@@ -1,8 +1,10 @@
 % Data, Design and Society
-% Ewan Klein
+% Ewan Klein, Hassan Waheed, Alexis Heeren
 % 15 January 2016
 
 # Food and Sustainability
+
+# Survey
 
 # Writing (10.00-10.15)
 
