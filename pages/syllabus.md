@@ -85,7 +85,7 @@ permalink: "/syllabus/"
             <tr>
                 <td>15-Jan-2016</td>
                 <td>Investigating food issues</td>
-                <td>&nbsp;</td>
+                <td><a href="{{ site.baseurl }}/slides/week1-2.html" target="_blank">Slides</a></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
