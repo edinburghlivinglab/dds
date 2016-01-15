@@ -9,8 +9,8 @@
 
 5 mins today!
 
-1. 
-2. 
+1. Which do I prefer: talking or listening?
+2. What makes a team work well?
 
 ## Why are we doing this?
 

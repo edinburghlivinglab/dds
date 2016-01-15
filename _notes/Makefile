@@ -10,7 +10,7 @@ all: $(HTML)
 
 %.html : %.md
 	pandoc --smart -t revealjs $(OPTIONS) $< -o $@
-	cp $< $(installdir)
+	cp $@ $(installdir)
 
 
 
