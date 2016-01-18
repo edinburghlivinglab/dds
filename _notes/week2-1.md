@@ -35,24 +35,33 @@ Where do I find that out?
 
 
 # Cat Presentation  
-## (10.20-11.00)
+## (09.20-10.00)
 
 
 # BIO BREAK 
 
-# What is data?
-
-
-
-# Teams
-## (11.35-11.45)
-
-## Tasks for Now
+# Announce team allocations
+10.05-10.10
 
 1. Exchange contact details!
 2. See (1)
 
-## Tasks between Now and Friday
+# Team exercise: What is data?
+10.10-10.25
+
+* start in teams
+* each person has 5 mins to talk to 2 other people (not in their group) to gather data about food in Edinburgh; should record their findings
+* share results with other members of the team
+* each team feeds back answer to "What is data" to whole class
+
+# Cat: Data in the field
+10.25-10.40
+
+
+
+
+# Team Tasks between Now and Friday
+10.40-10.50
 
 1. Pick a sub-theme.
    2. If you pick (3), agree which variant
@@ -60,5 +69,4 @@ Where do I find that out?
 
 2. Compare schedules --- what blocks of time can you find together next week?
 
-# Any closing issues, general questions 
-## (11.45-11.50)
+
