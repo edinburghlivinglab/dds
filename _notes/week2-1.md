@@ -40,6 +40,13 @@
 1. Share results with other members of the team
 1. Each team feeds back answer to "What is data?" to whole class
 
+## What is data?
+
+* [My attempt to answer this question](https://github.com/edinburghlivinglab/dds-notebooks/blob/master/notebooks/what_is_data.ipynb)
+
+* There is also an interactive version of this IPython Notebook
+	* We'll look at this after Fast Hack (or ask me)
+
 # Cat: Data in the field
 
 
