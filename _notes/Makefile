@@ -1,5 +1,7 @@
 installdir := ../slides
-HTML := $(patsubst %.md, %.html, $(wildcard *.md))
+NEW := week2-1.md
+#HTML := $(patsubst %.md, %.html, $(wildcard *.md))
+HTML := $(patsubst %.md, %.html, $(NEW))
 
 
 # OPTIONS := --variable theme=sky --variable revealjs-url="../assets/reveal.js"  --standalone
@@ -14,8 +16,8 @@ all: $(HTML)
 
 
 
-install: $(HTML)
-	cp $(HTML) $(installdir)
+#install: $(HTML)
+#	cp $(HTML) $(installdir)
 
 clean:
 	rm $(HTML)

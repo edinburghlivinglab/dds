@@ -92,7 +92,7 @@ permalink: "/syllabus/"
                 <td rowspan="2">2</td>
                 <td>20-Jan-2016</td>
                 <td>Design thinking; using data</td>
-                <td>&nbsp;</td>
+                <td><a href="{{ site.baseurl }}/slides/week2-1.html" target="_blank">Slides</a></td>
                 <td><a href="https://youtu.be/JF2xaxjrQ7g">Design Video</a><br/>
                 <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a>
                 </td>
