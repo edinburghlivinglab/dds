@@ -11,3 +11,7 @@ permalink: "/datasets/"
 * University of Edinburgh [Web Service APIs](https://www.wiki.ed.ac.uk/display/Services/ILW+Data+Hack+API+Web+Services) [Requires EASE authentication]
 
 * University of Edinburgh Accommodation Services [Cafes and Restaurants](https://github.com/edinburghlivinglab/dds-notebooks/blob/master/data/uoe_catering/UoE_cafes.csv)
+
+* University of Edinburgh [Waste Data by Building](https://github.com/edinburghlivinglab/dds-notebooks/tree/master/data/uoe_catering/UoE_Waste_Stats)
+
+* University of Edinburgh [Pollock Halls Student Menus 2015-16](https://github.com/edinburghlivinglab/dds-notebooks/blob/master/data/uoe_catering/JMCC_Student_Menu_2015-2016.csv)
