@@ -9,3 +9,5 @@ permalink: "/datasets/"
 * The Open Food Facts project publishes [data for over 60,000 food products](http://openfoodfacts.org) from 134 countries.
 
 * University of Edinburgh [Web Service APIs](https://www.wiki.ed.ac.uk/display/Services/ILW+Data+Hack+API+Web+Services) [Requires EASE authentication]
+
+* University of Edinburgh Accommodation Services [Cafes and Restaurants](https://github.com/edinburghlivinglab/dds-notebooks/blob/master/data/uoe_catering/UoE_cafes.csv)
