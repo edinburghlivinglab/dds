@@ -116,7 +116,7 @@ permalink: "/syllabus/"
             <tr>
                 <td>29-Jan-2016</td>
                 <td>Team presentations</td>
-                <td>&nbsp;</td>
+                <td><a href="{{ site.baseurl }}/slides/week3-2.html" target="_blank">Slides</a></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
