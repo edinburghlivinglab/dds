@@ -6,7 +6,7 @@ permalink: "/assignment_gp1/"
 ---
 
 This assignment is an in-class group presentation to be made by your team. Each team member should participate actively in both the preparation and the presentation itself.
-The presentation should last 15 minutes, so please rehearse in advance and make sure you don't go over time.
+The presentation should last 12 minutes, so please rehearse in advance and make sure you don't go over time.
 
 The presentation should address three questions, using as many forms of
 information as you can reasonably collect during the [Fast Hack]({{ site.baseurl }}/fast_hack/):

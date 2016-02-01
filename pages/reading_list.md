@@ -26,6 +26,7 @@ You should definitely read and use some of the following documents, but the part
 
 * Deniozou T (2015) [Student Health and Lifestyle Survey]({{ site.baseurl }}/course_docs/healthy_university_research_report.pdf), Healthy University Project, University of Edinburgh.
 * The Russell Partnership (2014) [Pollock Halls Nutrition Audit]({{ site.baseurl }}/course_docs/uoe_nutrition_audit.pdf).
+* University of Edinburgh Accommodation Services (2015) [Catering News, Issue 14]({{ site.baseurl }}/course_docs/Catering_News_Autumn_2015.pdf)
 
 #### Design Thinking and Participatory Design
 

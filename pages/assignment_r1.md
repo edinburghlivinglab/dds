@@ -4,7 +4,31 @@ title: "Assignment R1"
 subheadline: "Individual Report"
 permalink: "/assignment_r1/"
 ---
+
+<div class="text-center">
+    <table>
+        <caption>Submission Details</caption>
+        <tr>
+            <td><b>Deadline</b>:</td>
+            <td>16:00, Monday 8 Feb 2016</td>
+        </tr>
+        <tr>
+            <td><b>Weight</b>:</td>
+            <td>0%</td>
+        </tr>
+        <tr>
+            <td><b>Format</b>:</td>
+            <td>PDF or IPython Notebook file</td>
+        </tr>
+         <tr>
+            <td><b>Where to submit</b>:</td>
+            <td>On Learn as <a href="https://www.learn.ed.ac.uk/webapps/assignment/uploadAssignment?content_id=_1708482_1&course_id=_45101_1&assign_group_id=&mode=view">Individual Report R1</a></td>
+        </tr>
+    </table>
+</div>
+
 You can get hold of the source of this file [here]({{ site.baseurl }}/course_docs/report_1_skel.md).
+
 
 ---
 
