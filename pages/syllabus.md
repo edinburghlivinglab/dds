@@ -125,12 +125,13 @@ permalink: "/syllabus/"
                     <p class="teaser"><a href="{{ site.baseurl }}/digging_deeper/">Digging Deeper</a></p>
                 </td>
                 <td>03-Feb-2016</td>
-                <td>Data formats, data analysis</td>
+                <td>Intro to Data</td>
                 <td>&nbsp;</td>
+                <td><a href="hhttps://youtu.be/U3Hn-sONiRg">Participatory Design Video</a></td>
             </tr>
             <tr>
                 <td>05-Feb-2016</td>
-                <td>Data managment + team tutorials</td>
+                <td>Data management + team tutorials</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
             </tr>
