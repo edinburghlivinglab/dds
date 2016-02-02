@@ -15,10 +15,26 @@
 
 # Taking Stock
 
-## 
+## Double Diamond
 
-![Double Diamond](https://edinburghlivinglab.github.io/dds/images/doublediamond.png)
+<img src="https://edinburghlivinglab.github.io/dds/images/doublediamond.png" style="width: 1200px;"/>
 
-##
+# Planning Together
+
+## Issues
+
+* What are the key questions that you will address?
+* How robust and complete is the information that you have so far?
+* What data do you still need to collect?
+* What existing datasets can you use?
+* How are you going to test your ideas?
+
+## Tools
+
+* Consider using a collaborative planning tool like [Trello](https://trello.com/)
+* Agree on priority tasks
+* Set due dates
+* Assign tasks to individuals
+* Monitor and review progress at regular intervals
 
 
