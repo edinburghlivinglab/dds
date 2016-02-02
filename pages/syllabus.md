@@ -127,7 +127,7 @@ permalink: "/syllabus/"
                 <td>03-Feb-2016</td>
                 <td>Intro to Data</td>
                 <td>&nbsp;</td>
-                <td><a href="hhttps://youtu.be/U3Hn-sONiRg">Participatory Design Video</a></td>
+                <td><a href="https://youtu.be/U3Hn-sONiRg">Participatory Design Video</a></td>
             </tr>
             <tr>
                 <td>05-Feb-2016</td>
