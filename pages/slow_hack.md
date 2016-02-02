@@ -37,7 +37,7 @@ All teams are required to have at least one more participatory design session wi
 
 You should understand and be able to explain what your team has done in the Slow Hack and why those actions were chosen, out of the available possibilities.
 
-our team should have conducted an additional participatory design session with University stakeholders, abiding by the DDS and University ethics requirements. Data analysis may still be in progress. 
+Your team should have conducted an additional participatory design session with University stakeholders, abiding by the DDS and University ethics requirements. Data analysis may still be in progress. 
 
 Your team should have engaged in whatever other activities are necessary to develop your initial idea into a proof-of-concept scale idea. This will definitely include discussion, reflection, and critique within the team. It may include creating sketches, maps, physical prototypes, a website, or some other representation of your idea; it may include additional data collection or seeking out existing data; it may include additional participatory design. 
 
