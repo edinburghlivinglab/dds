@@ -17,7 +17,7 @@
 
 ## 
 
-![Double Diamond](https://edinburghlivinglab.github.io/dds/images/doublediamond.jpg)
+![Double Diamond](https://edinburghlivinglab.github.io/dds/images/doublediamond.png)
 
 ##
 
