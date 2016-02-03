@@ -11,7 +11,7 @@ This is particularly crucial since some of the research data collected by DDS te
 
 ## Accessing DataStore
 
-In order to access DataStore, you must be on a machine connected to the University network, or connected to the University VPN. The University's Information Services gives [detailed instructions](http://www.ed.ac.uk/information-services/computing/desktop-personal/network-shares) on how to get network access to DataStore, but we'll give you the short version here. In each case, you will have to authenticate by entering your UUN (University login name) and your corresponding password.
+In order to access DataStore, you must be on a machine connected to the University network, or connected to the University VPN. The University's Information Services gives [detailed instructions](http://www.ed.ac.uk/information-services/computing/desktop-personal/network-shares) on how to get network access to DataStore, but we'll give you the short version here. Whatever platform you use, you will have to authenticate by entering your UUN (University login name) and your corresponding password.
 
 Once you have established a connection to the DataStore DDS folder, you should be able to upload and download files to a local computer. Please make sure that any computing device that you use for storing files is adequately protected, following the guidelines [Your responsibilities at work](http://www.ed.ac.uk/information-services/computing/desktop-personal/information-security/your-responsibilities).
 
