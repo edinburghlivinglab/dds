@@ -67,6 +67,8 @@
   dropdown:
   - title: "Reading List"
     url: "/reading_list/"
+  - title: "Templates"
+    url: "/form_templates"
   - title: "Videos"
     url: "/videos/"
   - title: "Local Food Initiatives"
