@@ -37,4 +37,8 @@
 * Assign tasks to individuals
 * Monitor and review progress at regular intervals
 
+# Data
 
+## JupyterHub &amp; IPython
+
+[https://jupyter-inf.is.ed.ac.uk](https://jupyter-inf.is.ed.ac.uk)
