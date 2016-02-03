@@ -6,9 +6,8 @@
 
 ## Today's Prompts
 
-1. ?
-
-2. ?
+1. What's the most important next step for my DDS project?
+2. What was hardest for me during the Fast Hack?
 
 * Read [https://edinburghlivinglab.github.io/dds/project_success/](https://edinburghlivinglab.github.io/dds/project_success/)
 * We'll return to this next week
@@ -17,7 +16,7 @@
 
 ## Double Diamond
 
-<img src="https://edinburghlivinglab.github.io/dds/images/doublediamond.png" style="width: 1200px;"/>
+<img src="https://edinburghlivinglab.github.io/dds/images/doublediamond.png" style="width: 1200px;">
 
 # Planning Together
 
@@ -37,8 +36,40 @@
 * Assign tasks to individuals
 * Monitor and review progress at regular intervals
 
+# Groupwork
+
+## Listening Again
+
+* Each person in group speaks for 1 minute
+	* *How I'm feeling today*
+	* *What's the next step for our team*
+* Just listen without interrupting
+* Good practice for working with Focus Groups next week!
+
 # Data
 
 ## JupyterHub &amp; IPython
 
 [https://jupyter-inf.is.ed.ac.uk](https://jupyter-inf.is.ed.ac.uk)
+
+* Experimental service for interactive computing
+* Login steps are a bit complicated still; should be simpler soon. 
+
+---
+
+1. Login with EASE
+2. Current landing page: select *My Server*
+<img src="https://edinburghlivinglab.github.io/dds/images/jupyter1.png" style="width: 600px;"/>
+3. Navigation: `dds-notebooks` > `notebooks`
+4. Select `what_is_data.ipynb`
+
+## Architecture Overview
+
+* You login to your own directory space on the server
+* You can make changes to your own copy of an existing notebook
+* In order to keep your changes, copy the notebook and save under a new name
+* You can create new notebooks, and download them to your own computer
+
+# Preparing for Focus Groups
+
+
