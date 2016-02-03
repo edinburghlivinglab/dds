@@ -125,9 +125,12 @@ permalink: "/syllabus/"
                     <p class="teaser"><a href="{{ site.baseurl }}/digging_deeper/">Digging Deeper</a></p>
                 </td>
                 <td>03-Feb-2016</td>
-                <td>Intro to Data</td>
-                <td>&nbsp;</td>
-                <td><a href="https://youtu.be/U3Hn-sONiRg">Participatory Design Video</a></td>
+                <td>Intro to Data &amp; Focus Groups</td>
+                <td><a href="{{ site.baseurl }}/slides/week4-1.html" target="_blank">Slides</a><br/>
+                    <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_guidance.pdf" target="_blank">FG guidance</a><br/>
+                    <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_checklist.pdf" target="_blank">FG checklist</a><br/>
+                    <a href="{{ site.baseurl }}/course_docs/DDS_moderator_guidance.pdf" target="_blank">Moderator guidance</a>
+                </td>
             </tr>
             <tr>
                 <td>05-Feb-2016</td>

@@ -30,6 +30,13 @@ You are advised to make video recordings of your focus group session. Video came
 
 The course staff will help you to organise the stakeholder focus group, and recruit participants. There will be a supported, in-class data analysis session to help you make sense of the information you collect. Your team will need to organise your own, additional design session with stakeholders during the Slow Hack. You will be expected to be much more independent during the Slow Hack, so it is essential to fully participate in the Phase 2 focus group and analysis sessions in order to learn these skills.
 
+The following guidance documents will help you to run your focus groups:
+
+* [Focus Groups Guidance]({{ site.baseurl }}/course_docs/DDS_focus_groups_guidance.pdf)
+* [Focus Group Preparation Checklist]({{ site.baseurl }}/course_docs/DDS_focus_groups_checklist.pdf)
+* [Guidance for the Focus Group Moderator]({{ site.baseurl }}/course_docs/DDS_moderator_guidance.pdf)
+
+
 
 ## By the End of this Phase
 

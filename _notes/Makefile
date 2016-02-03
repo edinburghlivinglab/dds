@@ -1,6 +1,6 @@
 installdir := ../slides
-NEW := week3-2.md
-#HTML := $(patsubst %.md, %.html, $(wildcard *.md))
+NEW := week4-1.md
+ALLHTML := $(patsubst %.md, %.html, $(wildcard *.md))
 HTML := $(patsubst %.md, %.html, $(NEW))
 
 
@@ -20,5 +20,5 @@ all: $(HTML)
 #	cp $(HTML) $(installdir)
 
 clean:
-	rm $(HTML)
+	-rm $(ALLHTML)
 
