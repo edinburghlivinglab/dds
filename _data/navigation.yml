@@ -75,6 +75,8 @@
     url: "/initiatives/"
   - title: "Datasets"
     url: "/datasets/"
+  - title: "DataStore"
+    url: "/data_store/"
 
 - title: "Contacts"
   url: "/contacts/"
