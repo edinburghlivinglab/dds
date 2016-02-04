@@ -7,7 +7,7 @@ permalink: "/data_store/"
 
 The University's [DataStore](http://www.ed.ac.uk/information-services/research-support/data-management/data-storage) is a central file store intended for researchers. In DDS, we will be using it as a shared place where data that is gathered by teams can be securely shared. 
 
-This is particularly crucial since some of the research data collected by DDS teams is likely to count as personal data. On the other hand, team members will need to share the data they have collected. Rather than using a 3rd party cloud service for sharing, students should upload the relevant files to DataStore. Within the filespace identified below, each team will have their own subfolder, named `team_1`,..., `team_7` as appropriate, where files can be shared amongst the team members.
+This is particularly crucial since some of the research data collected by DDS teams is likely to count as personal data. At the same time, team members will need to share with each other the data they have collected. Rather than using a 3rd party cloud service for sharing, you should upload files with your collected data to DataStore. Within the filespace identified below, each team will have its own subfolder, named `team_1`,..., `team_7` as appropriate, where files can be shared amongst the team members.
 
 ## Accessing DataStore
 
@@ -29,10 +29,12 @@ If you are using a University supported Windows desktop machine, the main networ
 
 ### Mac OS
 
-2. In the Finder, select **Go** from the menu bar at the top of the desktop, then select **Connect to Server**... 3. In
-the **Connect to Server** window, type the following address for the DDS folder: ```
-smb://csce.datastore.ed.ac.uk/csce/inf/groups/ell/dds ``` 
-4. Authenticate by entering your UUN (where 'UUN' is your University login name) and your corresponding password. 
+1. In the Finder, select **Go** from the menu bar at the top of the desktop, then select **Connect to Server**... 
+2. In the **Connect to Server** window, type the following address for the DDS folder: 
+```
+smb://csce.datastore.ed.ac.uk/csce/inf/groups/ell/dds 
+``` 
+3. Authenticate by entering your UUN (where 'UUN' is your University login name) and your corresponding password. 
 
 ### DICE (and other Linux platforms)
 
@@ -44,13 +46,15 @@ smb://csce.datastore.ed.ac.uk/csce/inf/groups/ell/DDS
 ```
 4. Authenticate by entering your UUN (where 'UUN' is your University login name) and your corresponding password. 
 
-If you use a different file manager, you may need to enter the server address in a different manner. For example, in Dolphin, you need to turn on the Editable Location option in the navigation bar before entering the server address.
+If you use a different file manager, you may need to enter the server address in a different manner. For example, in Dolphin, you need to turn on the **Editable Location** option in the navigation bar before entering the server address.
 
 If you are feeling masochistic, you should also be able to connect on the command line with the following commands:
+
 <code>
 smbclient \\\\csce.datastore.ed.ac.uk\\csce -W ED -U UUN<br/>
 cd \inf\groups\ell
 </code>
+
 However, you then need to use `smbclient` commands to transfer files.
 
 <!--
