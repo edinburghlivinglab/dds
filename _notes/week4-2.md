@@ -28,5 +28,8 @@
 
 ## Using DataStore
 
-[DataStore instructions](https://edinburghlivinglab.github.io/dds/data_store/)
+* [DataStore instructions](https://edinburghlivinglab.github.io/dds/data_store)
+* Everyone registered for this class has been given access to the DDS directory
+* Nobody who is not registered for the class has access to it.
+* Each team has their own sub-directory.
 
