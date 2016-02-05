@@ -1,6 +1,6 @@
 % Data, Design and Society
 % Ewan Klein, Alyssa Alcorn
-% 15 January 2016
+% 3 February 2016
 
 # Just Writing
 
@@ -8,9 +8,6 @@
 
 1. What's the most important next step for my DDS project?
 2. What was hardest for me during the Fast Hack?
-
-* Read [https://edinburghlivinglab.github.io/dds/project_success/](https://edinburghlivinglab.github.io/dds/project_success/)
-* We'll return to this next week
 
 # Taking Stock
 
@@ -41,8 +38,8 @@
 ## Listening Again
 
 * Each person in group speaks for 1 minute
-	* *How I'm feeling today*
-	* *What's the next step for our team*
+    * *How I'm feeling today*
+    * *What's the next step for our team*
 * Just listen without interrupting
 * Good practice for working with Focus Groups next week!
 
@@ -71,5 +68,9 @@
 * You can create new notebooks, and download them to your own computer
 
 # Preparing for Focus Groups
+
+
+
+
 
 

@@ -138,6 +138,7 @@ permalink: "/syllabus/"
                 <td>05-Feb-2016</td>
                 <td>Data management + team tutorials</td>
                 <td>
+                <a href="{{ site.baseurl }}/slides/week4-2.html" target="_blank">Slides</a><br/>
                 <a href="{{ site.baseurl }}/form_templates#focus_group_templates">Form Templates</a><br/>
                 <a href="{{ site.baseurl }}/data_store">DataStore Instructions</a>
                 </td>

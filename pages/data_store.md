@@ -32,7 +32,7 @@ If you are using a University supported Windows desktop machine, the main networ
 1. In the Finder, select **Go** from the menu bar at the top of the desktop, then select **Connect to Server**... 
 2. In the **Connect to Server** window, type the following address for the DDS folder: 
 ```
-smb://csce.datastore.ed.ac.uk/csce/inf/groups/ell/dds 
+smb://csce.datastore.ed.ac.uk/csce/inf/groups/ell/DDS 
 ``` 
 3. Authenticate by entering your UUN (where 'UUN' is your University login name) and your corresponding password. 
 
