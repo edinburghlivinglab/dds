@@ -126,7 +126,9 @@ permalink: "/syllabus/"
                 </td>
                 <td>03-Feb-2016</td>
                 <td>Intro to Data &amp; Focus Groups</td>
-                <td><a href="{{ site.baseurl }}/slides/week4-1.html" target="_blank">Slides</a><br/>
+                <td>
+                <a href="{{ site.baseurl }}/slides/week4-1.html" target="_blank">Slides 1</a><br/>
+                <a href="{{ site.baseurl }}/course_docs/focus_group_slides.pdf" target="_blank">Slides 2</a><br/>
                     <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_guidance.pdf" target="_blank">FG guidance</a><br/>
                     <a href="{{ site.baseurl }}/course_docs/DDS_focus_groups_checklist.pdf" target="_blank">FG checklist</a><br/>
                     <a href="{{ site.baseurl }}/course_docs/DDS_moderator_guidance.pdf" target="_blank">Moderator guidance</a>
@@ -135,7 +137,11 @@ permalink: "/syllabus/"
             <tr>
                 <td>05-Feb-2016</td>
                 <td>Data management + team tutorials</td>
-                <td>&nbsp;</td>
+                <td>
+                <a href="{{ site.baseurl }}/slides/week4-2.html" target="_blank">Slides</a><br/>
+                <a href="{{ site.baseurl }}/form_templates#focus_group_templates">Form Templates</a><br/>
+                <a href="{{ site.baseurl }}/data_store">DataStore Instructions</a>
+                </td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
