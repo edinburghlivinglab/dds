@@ -15,9 +15,6 @@ These short documents are essential reading to get you started.
 * Nesta/Uscreates (2014) [Food Stakeholder Research Report](https://drive.google.com/file/d/0B7Nn3uWf9qCINjFFUDFibE45blU/edit?pref=2&pli=1).
 
 
-
-
-
 ## More Depth
 
 You should definitely read and use some of the following documents, but the particular ones that you choose will depend on the specific details of your project.
@@ -27,6 +24,7 @@ You should definitely read and use some of the following documents, but the part
 * Deniozou T (2015) [Student Health and Lifestyle Survey]({{ site.baseurl }}/course_docs/healthy_university_research_report.pdf), Healthy University Project, University of Edinburgh.
 * The Russell Partnership (2014) [Pollock Halls Nutrition Audit]({{ site.baseurl }}/course_docs/uoe_nutrition_audit.pdf).
 * University of Edinburgh Accommodation Services (2015) [Catering News, Issue 14]({{ site.baseurl }}/course_docs/Catering_News_Autumn_2015.pdf)
+* University of Edinburgh (2014) [Student Engagement on Waste: Exploring Strategies on Recycling, Contamination, and Food Waste Reduction]({{ site.baseurl }}/course_docs/food_waste_strategy.pdf), Participation in Policy and Planning, School of Geoscience.
 
 #### Design Thinking and Participatory Design
 
