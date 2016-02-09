@@ -14,6 +14,9 @@
 
 # Enabling Change
 
+## Raising Awareness
+
+<img src="https://edinburghlivinglab.github.io/dds/images/smoking_kills.jpg" style="width: 1000px;">
 
 ## Group Exercise 
 
