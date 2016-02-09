@@ -148,7 +148,7 @@ permalink: "/syllabus/"
                 <td rowspan="2">5</td>
                 <td>10-Feb-2016</td>
                 <td>Preparing for the Slow Hack</td>
-                <td>&nbsp;</td>
+                <td><td><a href="{{ site.baseurl }}/slides/week5-1.html" target="_blank">Slides</a></td></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>

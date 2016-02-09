@@ -1,5 +1,5 @@
 installdir := ../slides
-NEW := week4-2.md week4-1.md
+NEW := week5-1.md 
 ALLHTML := $(wildcard *.html)
 HTML := $(patsubst %.md, %.html, $(NEW))
 
