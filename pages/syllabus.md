@@ -149,7 +149,7 @@ permalink: "/syllabus/"
                 <td>10-Feb-2016</td>
                 <td>Preparing for the Slow Hack</td>
                 <td><a href="{{ site.baseurl }}/slides/week5-1.html" target="_blank">Slides</a></td>
-                <td>&nbsp;</td>
+                <td>&nbsp;haha!!!</td>
             </tr>
             <tr>
                 <td>12-Feb-2016</td>
