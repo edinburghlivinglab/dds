@@ -10,14 +10,14 @@
 ## Today's Prompts
 
 1. In order for me to change my behaviour, I ...
-2. The role that I often occupy in a group is ...
+2. In order for you to change your behaviour, you ...
 
 # Enabling Change
 
 
-## Group Exercise 1
+## Group Exercise 
 
-* Decide in your team on some habit or behaviour that you each share (more or less) and would like to change.
+<!-- * Decide in your team on some habit or behaviour that you each share (more or less) and would like to change.
 * Think of examples in the past where you have tried to change your own behaviour:
     - cases where you have succeeded, and
     - cases where you have failed.
@@ -37,10 +37,70 @@
 * Identify time slot, space
 * Recruit 5 participants
 * Assign team roles
-* Book equipment
+* Book equipment -->
 
 
+# Slow Hack
 
+## Where we are
+
+* Coming to the end of **Digging Deeper** Phase
+* ILW starts 15th Feb
+* [Slow Hack](https://edinburghlivinglab.github.io/dds/slow_hack/) starts the week after ILW (22nd Feb)
+
+## Focus
+
+By the start of Slow Hack, you should have decided on:
+
+* a specific problem / challenge within your sub-theme; and
+* a specific design idea which addresses that problem.
+
+But the design idea needs to be explored, tested, modified, iterated throughout the Slow Hack.
+
+## Using Data
+
+* Use both **subjective** and **objective** data. 
+* Use some **existing** data and **collect** some new data. 
+
+
+## Using Data &mdash; options
+
+
+&nbsp;      Existing   Collected
+----------  --------   ---------
+Subjective     X
+Objective                  X
+
+<br/>
+ 
+&nbsp;      Existing   Collected
+----------  --------   ---------
+Subjective                 X
+Objective       X
+
+
+## What Counts as Success?
+
+* You are looking at complex and difficult issues &mdash; there is no one "right answer".
+* You should try to develop a **proof-of-concept**. This is a demonstration of feasibility, something that could potentially make a positive difference.
+* Your approach is as important as the outcome.
+
+## What Counts as Success?
+
+In a nutshell:
+
+1. Propose a design-based solution to a current problem within sub-theme
+1. Effectively communicate your problem and design idea
+1. Engage in ongoing reflection and justification
+1. Demonstrate consistent participation and professional working
+
+## Anti-Success
+
+You do not:
+
+* have to please us, or do what you think we would like;
+* have "signficant" results &mdash; remember it's only a proof-of-concept;
+* have to have "the right answer".
 
 # Friday data analysis session
 

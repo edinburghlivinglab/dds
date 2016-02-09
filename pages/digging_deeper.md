@@ -46,7 +46,7 @@ Your team should have completed a stakeholder focus group and analysed the resul
 
 Your team should have narrowed down their ideas and identified a specific question or problem area within your sub-topic. The team can give a clear explanation of what the problem is, and explain how this choice was justified by information you have collected, including information from the stakeholder focus team.
 
-Your team should have stored any newly collected data in accordance with approved DDS and university data management and privacy requirements. 
+Your team should have stored any newly collected data in accordance with approved DDS and University data management and privacy requirements. 
 
 
 ## Learning Outcomes for this Phase

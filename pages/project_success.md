@@ -11,7 +11,7 @@ a design process, as you develop a potential solution to a problem.  Food and
 sustainability is a large and complex issue that doesn't admit easy solutions,
 let alone in one semester. Although much of our education encourages us to
 find the right answer, making the transition to a more sustainable food system
-isn't that kind of problem&mdash;there is no right answer. Instead, we are
+isn't that kind of problem &mdash; there is no right answer. Instead, we are
 asking you do develop a design that could *potentially* make a difference on
 your chosen problem.
 
@@ -44,13 +44,13 @@ Relates to learning objectives:
 * [LO1: Interventions]({{ site.baseurl }}/learning_outcomes#interventions)
 
 
-###### Effectively communicate about design and data
+###### Effectively communicate your problem and design idea
 
-1. Be able to expla your problem and design intervention in a way that a general (non-DDS) audience 
+1. Be able to explain your problem and design intervention in a way that a general (non-DDS) audience 
 would be able to understand, and convince the audience that the design may be able to answer the 
 team's particular question or solve the problem.
 
-2. Be able show that you have used two types of required data in the project, and have analysed and 
+2. Be able to show that you have used two types of required data in the project, and have analysed and 
 presented them in an appropriate and relevant way that supports your design idea.
 
 3. Show an attempt to connect the group's problem choice and final design back to wider food and 
@@ -62,7 +62,7 @@ Relates to learning objectives:
 * [LO3: Communication]({{ site.baseurl }}/learning_outcomes#communication)
 
 
-##### Engage in ongoing reflection and justification
+###### Engage in ongoing reflection and justification
 
 1. At all stages,  document and reflect on the information collected and try to learn from 
 it, feeding at least some of it back into their project. 
