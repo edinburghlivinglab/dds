@@ -20,7 +20,11 @@
 
 ---
 
-<h1><img src="https://edinburghlivinglab.github.io/dds/images/no_smoking.png"></h1>
+![](https://edinburghlivinglab.github.io/dds/images/no_smoking.png)
+
+---
+
+![The Individual, Social and Material](https://edinburghlivinglab.github.io/dds/images/ism.gif)
 
 ## Group Exercise 
 
