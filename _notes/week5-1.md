@@ -6,7 +6,7 @@
 
 ## Today's Prompts
 
-1. What happens when people don't understand me?
+1. In order for me to change my behaviour, ...
 2. The role that I often occupy in a group is ...
 
 # Enabling Change
