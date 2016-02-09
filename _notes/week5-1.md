@@ -12,11 +12,15 @@
 1. In order for me to change my behaviour, I ...
 2. In order for you to change your behaviour, you ...
 
-# Enabling Change
+# Achieving Change
 
-## Raising Awareness
+---
 
-<img src="https://edinburghlivinglab.github.io/dds/images/smoking_kills.jpg" style="width: 1000px;">
+<h1><img src="https://edinburghlivinglab.github.io/dds/images/smoking_kills.jpg" style="width: 800px;"></h1>
+
+---
+
+<h1><img src="https://edinburghlivinglab.github.io/dds/images/no_smoking.png"></h1>
 
 ## Group Exercise 
 

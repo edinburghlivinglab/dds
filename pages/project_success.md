@@ -64,10 +64,10 @@ Relates to learning objectives:
 
 ###### Engage in ongoing reflection and justification
 
-1. At all stages,  document and reflect on the information collected and try to learn from 
+1. At all stages, document and reflect on the information collected and try to learn from 
 it, feeding at least some of it back into their project. 
 
-2. At all stages, your team is able to explain the  decision-making process and justify (i.e. provide 
+2. At all stages, your team is able to explain the decision-making process and justify (i.e. provide 
 reasons and evidence for) those decisions, especially where there were multiple "good" options for 
 what you could do.
 
