@@ -2,11 +2,14 @@
 % Ewan Klein, Cat Magill, Alyssa Alcorn
 % 10 February 2016
 
+
+
+
 # Just Writing
 
 ## Today's Prompts
 
-1. In order for me to change my behaviour, ...
+1. In order for me to change my behaviour, I ...
 2. The role that I often occupy in a group is ...
 
 # Enabling Change
@@ -36,48 +39,48 @@
 * Assign team roles
 * Book equipment
 
-# Data Management 
 
-## Using DataStore
-
-* [DataStore instructions](https://edinburghlivinglab.github.io/dds/data_store)
-* Everyone registered for this class has been given access to the DDS directory
-* Nobody who is not registered for the class has access to it.
-* Each team has their own sub-directory.
 
 
 # Friday data analysis session
 
-## Activities
+## During Friday
 
 During Friday's session, each team will:
 
-*  Revisit planning decisions for the focus group: how did those work out?
-*  Review/discuss focus group audio/video and do some quick analysis (I will give additional instructions and handouts in class!)
-*  Generate a few preliminary “findings” for each discussion question and report these back to the class
+* Revisit planning decisions for the focus group &mdash; how did those work out?
+* Review/discuss focus group audio/video and do some quick analysis.
+	- Additional instructions and handouts will be given in class!
+* Generate a few preliminary “findings” for each discussion question and report these back to the class
 
-Most teams will need to spend some additional time on analysis outside this session, but this session should give you a good start. 
+Most teams will need to spend additional time on analysis outside this session, but it should give you a good start. 
 
 ## For Friday 
 
 For Friday, your team will need to bring:
 
-*  AT LEAST ONE password-protected laptop, already loaded up with the focus group video and/or audio. Please check audio/video playback ahead of time, make sure it works. 
-*  Copies of your focus group goals and questions &mdash; you may want multiple copies to write on.
-*  Your note-taker's notes from the session
-    *  you may want to photocopy these so different team members can look at them at the same time, write on them, etc.
-*  Writing materials
+* **At least one** password-protected laptop, already loaded up with the focus group video and/or audio. (*Please check audio/video playback ahead of time, make sure it works.*)
+* Copies of your focus group goals and questions &mdash; you may want multiple copies to write on.
+* Your note-taker's notes from the session. (*You may want to photocopy these so different team members can look at them at the same time.*)
+* Writing materials
 
-## Before Friday
+## Before Friday, 1
 
-your team should have done the following:
-*  Finished your focus group and gotten audio/video files off the recording devices
-*  Backed up audio/video files to DataStore 
-*  Written down quick impressions of how the focus group went, what actually got done in the session time, any problems. This could be done individually or as a team.
-*  Any team members not present during the focus group should have reviewed the audio/video, and spoken to the other team members about how things went. No one should be seeing the focus group content for the first time on the analysis day!
+Before Friday, your team should have done the following:
+
+* Finished your focus group and gotten audio/video files off the recording devices.
+* Backed up audio/video files to DataStore.
+* Written down quick impressions of how the focus group went, what actually got done in the session time, any problems. 
+	- This could be done individually or as a team.
+
+
+## Before Friday, 2
+
+* Any team members not present during the focus group should have reviewed the audio/video, and spoken to the other team members about how things went. 
+* No one should be seeing the focus group content for the first time on the analysis day!
 
 ## Ethics paperwork
 
-*  Please also bring your signed consent forms from the focus group, to be handed in to Ewan for secure storage (per the terms of the ethical approval for the DDS course). 
-*  Check if you need to record any of this information in a (password-protected) document or spreadsheet before handing over the forms. This likely only applies to teams who added extra information fields on the consent 
+* Please also bring your signed consent forms from the focus group, to be handed in to Ewan for secure storage (as per the terms of the ethical approval for the DDS course). 
+* Check if you need to record any of this information in a (password-protected) document or spreadsheet before handing over the forms. This likely only applies to teams who added extra information fields on the consent form.
 
