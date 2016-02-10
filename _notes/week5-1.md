@@ -22,9 +22,67 @@
 
 ![](https://edinburghlivinglab.github.io/dds/images/no_smoking.png)
 
+
+
+## ISM
+
+* Darnton T and Horne J (2013) [Influencing Behaviours: A User Guide to the ISM Tool](http://www.gov.scot/Resource/0042/00423436.pdf), The Scottish Government.
+* Individual, Social and Material contexts: analysing the effectiveness of interventions to encourage behaviour change.
+* Interventions should straddle multiple contexts &mdash; I, S and M &mdash; to achieve substantive and long lasting change.
+
 ---
 
 ![The Individual, Social and Material](https://edinburghlivinglab.github.io/dds/images/ism.gif)
+
+## ISM: Individual
+
+Factors held by the individual that affect choices and behaviours. Includes:
+
+* values, attitudes and skills;
+* calculations made before acting, including personal evaluations of costs and benefits.
+
+## ISM: Social
+
+Factors beyond the individual in the social realm that shape behaviours. Includes:
+
+* social norms and the meanings attached to particular activities;
+* networks and relationships, and the institutions that influence how groups of individuals behave.
+
+## ISM: Material
+
+Factors ‘out there’ in the environment and wider world which both constrain and shape behaviour. Includes:
+
+* ‘hard’ infrastructures, technologies and regulations;
+* ‘softer’ influences such as time and the schedules of everyday life.
+
+
+## FCRN: Policies and actions to shift eating patterns
+
+* Study by Food Climate Research Network (FCRN)
+* Garnett et al (2015) [Policies and actions to shift eating patterns: What works?](http://www.fcrn.org.uk/sites/default/files/fcrn_chatham_house_0.pdf) ([summary](http://www.fcrn.org.uk/fcrn-publications/reports/policies-and-actions-shift-eating-patterns-what-works))
+* Reviews literature on effective ways of shifting people’s consumption patterns in more sustainable and healthy directions.
+
+---
+
+![](http://www.fcrn.org.uk/sites/default/files/admin/1/ch_table2.png)
+
+## Types of Interventions
+
+&nbsp;  &nbsp;
+------  ---------------------------------------------------------------------------------------
+     1  Disincentivise or incentivise choices through fiscal measures
+     2  Change the governance of production or consumption
+     3  Encourage collaboration and shared agreements
+     4  Change the context, defaults and norms of production or consumption
+     5  Inform, educate, promote or empower through community initiatives, labelling and other means
+
+## What works? 
+
+* No single type of intervention is effective in isolation; need a composite approach.
+* Sustainable, healthy diets need to be a policy priority.
+* Don't leave it to the individual.
+* Don't leave it to goodwill or voluntary agreements by industry.
+* Governments need to govern.
 
 ## Group Exercise 
 
