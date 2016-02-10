@@ -3,7 +3,14 @@
 % 10 February 2016
 
 
+# Oddments
 
+---
+
+* In-class photos &mdash; consent?
+* Alan Peddie (UoE Waste supremo) &mdash; visit on Friday?
+* Class 'liaison' sessions?
+* End-of-semester potluck &mdash; volunteers?
 
 # Just Writing
 
@@ -64,7 +71,8 @@ Factors ‘out there’ in the environment and wider world which both constrain 
 
 ---
 
-![](http://www.fcrn.org.uk/sites/default/files/admin/1/ch_table2.png)
+
+<h1><img src="https://edinburghlivinglab.github.io/dds/images/what_works.png" style="width: 1200px;"></h1>
 
 ## Types of Interventions
 
@@ -116,6 +124,9 @@ Factors ‘out there’ in the environment and wider world which both constrain 
 * Coming to the end of **Digging Deeper** Phase
 * ILW starts 15th Feb
 * [Slow Hack](https://edinburghlivinglab.github.io/dds/slow_hack/) starts the week after ILW (22nd Feb)
+* Slow Hack Class sessions:
+    * more technical support on analysis and presentation
+    * in-class tutorials / lab activities
 
 ## Focus
 
@@ -170,6 +181,7 @@ You do not:
 * have to please us, or do what you think we would like;
 * have "signficant" results &mdash; remember it's only a proof-of-concept;
 * have to have "the right answer".
+
 
 # Friday data analysis session
 
