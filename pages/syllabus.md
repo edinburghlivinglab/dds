@@ -156,7 +156,9 @@ permalink: "/syllabus/"
             <tr>
                 <td>12-Feb-2016</td>
                 <td>Focus group findings</td>
-                <td>&nbsp;</td>
+                <td><a href="{{ site.baseurl }}/course_docs/FocusGroup_Analysis_slides.pdf" target="_blank">Slides</a><br/>
+                <a href="{{ site.baseurl }}/course_docs/analysis_session_instructions.pdf" target="_blank">FG Analysis Guide</a>
+                </td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
