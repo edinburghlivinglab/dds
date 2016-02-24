@@ -149,7 +149,7 @@ permalink: "/syllabus/"
                 <td>10-Feb-2016</td>
                 <td>Preparing for the Slow Hack</td>
                 <td><a href="{{ site.baseurl }}/slides/week5-1.html" target="_blank">Slides</a><br/>
-                    <a href="{{ site.baseurl }}/course_docs/journeys.pdf" target="_blank">Journey Slides</a><br/>
+                    <a href="{{ site.baseurl }}/course_docs/journeys    .pdf" target="_blank">Journey Slides</a><br/>
                 </td>
                 <td>&nbsp;</td>
             </tr>
@@ -170,7 +170,7 @@ permalink: "/syllabus/"
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td rowspan="2">7</td>
+                <td rowspan="2">6</td>
                 <td rowspan="6" valign="middle" bgcolor="#EFC94C">
                     <p class="teaser"><a href="{{ site.baseurl }}/slow_hack/">Slow Hack</a></p>
                 </td>
@@ -181,14 +181,14 @@ permalink: "/syllabus/"
             </tr>
             <tr>
                 <td>26-Feb-2016</td>
-                <td>Data visualisation</td>
+                <td>Finding and using existing data</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td rowspan="2">8</td>
+                <td rowspan="2">7</td>
                 <td>2-Mar-2016</td>
-                <td>Data and narrative</td>
+                <td>Data visualisation</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
             </tr>
@@ -199,9 +199,9 @@ permalink: "/syllabus/"
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td rowspan="2">9</td>
+                <td rowspan="2">8</td>
                 <td>09-Mar-2016</td>
-                <td>Data quality, lying with statistics</td>
+                <td>Data and narrative</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
             </tr>
@@ -212,7 +212,7 @@ permalink: "/syllabus/"
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td rowspan="2">10</td>
+                <td rowspan="2">9</td>
                 <td rowspan="4" valign="middle" bgcolor="#FFF">
                     <p class="teaser"><a href="{{ site.baseurl }}/reporting/">Reporting</a></p>
                 </td>
@@ -228,7 +228,7 @@ permalink: "/syllabus/"
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td rowspan="2">11</td>
+                <td rowspan="2">10</td>
                 <td>23-Mar-2016</td>
                 <td>Team Presentations</td>
                 <td>&nbsp;</td>
