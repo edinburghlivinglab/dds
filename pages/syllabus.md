@@ -149,7 +149,7 @@ permalink: "/syllabus/"
                 <td>10-Feb-2016</td>
                 <td>Preparing for the Slow Hack</td>
                 <td><a href="{{ site.baseurl }}/slides/week5-1.html" target="_blank">Slides</a><br/>
-                    <a href="{{ site.baseurl }}/course_docs/journeys    .pdf" target="_blank">Journey Slides</a><br/>
+                    <a href="{{ site.baseurl }}/course_docs/journeys.pdf" target="_blank">Journey Slides</a><br/>
                 </td>
                 <td>&nbsp;</td>
             </tr>
@@ -182,7 +182,7 @@ permalink: "/syllabus/"
             <tr>
                 <td>26-Feb-2016</td>
                 <td>Finding and using existing data</td>
-                <td>&nbsp;</td>
+                <td><a href="{{ site.baseurl }}/slides/week6-1.html" target="_blank">Slides</a></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
