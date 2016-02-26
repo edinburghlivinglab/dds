@@ -42,7 +42,12 @@ Jupyter Notebooks are a great tool for research, since they allow you to combine
 
 ## Steps
 
-* 
+![Notebooks](https://edinburghlivinglab.github.io/dds/images/upload.tiff)
+
+---
+
+* Start off with `playing_with_python.`
+
 
 
 
