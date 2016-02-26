@@ -10,16 +10,17 @@ The University is running a multiuser [Jupyter](http://jupyter.org) Notebook ser
 
 To log in to the JupyterHub server, point your browser at <https://jupyter-inf.is.ed.ac.uk>. You will initially be required to authenticate via EASE using your University user name and password. Under the current configuration, you will (probably) get to a page that looks like this:
 
-![Jupyter login page]({{ site.urlimg }}jupyter00.tiff)
 
-Select **dds-notebooks**, and on the following page select **notebooks**.
+![Jupyter login page]({{ site.urlimg }}jupyter01.tiff)
+
+We're trying to get a better landing page up &mdash; real soon now. Anyway, select the **My Server** button, and you should get a page like this:
+
+![Jupyter next page]({{ site.urlimg }}jupyter00.tiff)
+
+Now select **dds-notebooks**, and on the following page select **notebooks**.
+
+## A Bit More
+
+The notebook interface is fairly straightforward. But here's a video that might help give more information: [Notebooks and Cells - IPython Notebook Tutorial](https://youtu.be/lmoNmY-cmSI)
 
 
-[Notebooks and Cells - IPython Notebook Tutorial](https://youtu.be/lmoNmY-cmSI)
-
-https://data.gov.uk/dataset/family_food_open_data#
-
-http://ratings.food.gov.uk/OpenDataFiles/FHRS773en-GB.xml
-
-
-https://data.glasgow.gov.uk/dataset/takeaways-and-sandwich-shops-in-glasgow

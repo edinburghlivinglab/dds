@@ -28,3 +28,7 @@ The following open data portals may contain datasets that are useful.
 * [Edinburgh Open Data Portal](http://data.edinburghopendata.info/dataset)
 
 In general, it's best to look for datasets using CSV as their format. If you find an interesting dataset that is not in CSV format, let us know and we can try to help convert it.
+
+For example <https://data.glasgow.gov.uk/dataset/takeaways-and-sandwich-shops-in-glasgow> is based on data from Food Standards Scotland. To get the same info for Edinburgh, we would need to convert [this file](http://ratings.food.gov.uk/OpenDataFiles/FHRS773en-GB.xml) from XML to CSV.
+
+
