@@ -57,8 +57,8 @@
   #   url: "/assignment_r2/"   
   - title: "Learning Outcomes"
     url: "/learning_outcomes/"
-  - title: "Ethics Requirements"
-    url: "/ethics/"
+  # - title: "Ethics Requirements"
+  #   url: "/ethics/"
 
 
 - title: "Resources"
@@ -77,6 +77,9 @@
     url: "/datasets/"
   - title: "DataStore"
     url: "/data_store/"
+  - title: "Jupyter Notebooks"
+    url: "/jupyter/"
+
 
 - title: "Contacts"
   url: "/contacts/"
