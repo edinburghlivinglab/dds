@@ -14,6 +14,9 @@ To log in to the JupyterHub server, point your browser at <https://jupyter-inf.i
 
 Select **dds-notebooks**, and on the following page select **notebooks**.
 
+
+[Notebooks and Cells - IPython Notebook Tutorial](https://youtu.be/lmoNmY-cmSI)
+
 https://data.gov.uk/dataset/family_food_open_data#
 
 http://ratings.food.gov.uk/OpenDataFiles/FHRS773en-GB.xml
