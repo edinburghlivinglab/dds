@@ -40,6 +40,10 @@ Jupyter Notebooks are a great tool for research, since they allow you to combine
     * We've solved that for you by setting up a [JupyterHub server](https://edinburghlivinglab.github.io/dds/jupyter/)
 * Learning by Doing
 
+## Steps
+
+* 
+
 
 
 

@@ -17,7 +17,12 @@ We're trying to get a better landing page up &mdash; real soon now. Anyway, sele
 
 ![Jupyter next page]({{ site.urlimg }}jupyter00.tiff)
 
-Now select **dds-notebooks**, and on the following page select **notebooks**.
+Now select **dds-notebooks**, and on the following page select **notebooks**. The next page should look like this:
+
+![Notebooks]({{ site.urlimg }}upload.tiff)
+
+Note the **Upload** button at top right corner. This allows you to upload files (e.g. datasets) to your JupyterHub directory.
+
 
 ## A Bit More
 
