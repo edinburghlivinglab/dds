@@ -1,5 +1,5 @@
 % Data, Design and Society
-% Ewan Klein
+% Ewan Klein and Alyssa Alcorn
 % 2 March 2016
 
 
@@ -29,9 +29,10 @@ I need to be more explicit about what should be in the report!
 *What data did you collect for the Fast Hack? What methods did you use to collect it, and how are you dealing with data management?*
 
 * Try to put *all* the relevant information about the data collection in the *Data* section. E.g.:
-	* What questions were on your survey? (If too many, list these in an appendix.)
 	* How many respondents were there for each data collection?
 	* What categories of people provided data?
+	* Where did you collect the data?
+	* What questions were on your survey? (If too many, list these in an appendix.)
 
 
 ## Data isn't Neutral
@@ -44,6 +45,9 @@ I need to be more explicit about what should be in the report!
 * In general, having tables and graphics will make your reports more interesting and thought-provoking.
 * But not if the image quality is terrible. Prepare well in advance.
 
+---
+
+<h1>![Unreadable Charts](https://edinburghlivinglab.github.io/dds/images/how_not.pdf)</h1>
 
 # Data Visualisation
 
