@@ -49,6 +49,7 @@ I need to be more explicit about what should be in the report!
 
 <h1>![Unreadable Charts](https://edinburghlivinglab.github.io/dds/images/how_not.pdf)</h1>
 
+
 # Data Visualisation
 
 ## Why
