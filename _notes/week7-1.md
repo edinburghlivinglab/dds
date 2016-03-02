@@ -1,5 +1,5 @@
 % Data, Design and Society
-% Ewan Klein and Alyssa Alcorn
+% Ewan Klein &amp; Alyssa Alcorn
 % 2 March 2016
 
 
@@ -66,13 +66,12 @@ Dome Cafe        3       1
 Brew Lab         0       6
 Starbucks        5       0
 
-## Why
+## Tufte
 
 <h1><img src="https://edinburghlivinglab.github.io/dds/images/tufte.jpg" style="width: 700px;"></h1>
 
 ---
 
-Tufte: 
 
 > Graphical excellence consists of complex ideas communicated with clarity, precision and efficiency
 
