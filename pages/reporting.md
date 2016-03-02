@@ -23,7 +23,7 @@ The “reporting” part of this phase includes a team presentation and an indiv
 
 ## Design critique, peer feedback team mini-presentations
 
-To help teams work on their data interpretation and their explanations of their project, we will have an in-class design critique and feedback session. Each team will briefly present some of their Slow Hack findings and data to the rest of the class, and have a chance to discuss these. This activity is **not graded** and is not expected to be “finished” in any way. It is about discussing, more than presenting. Having fresh input can also be very valuable, as members of other teams may suggest new, previously unseen connections and implications. An overall idea&mdash;or the explanation of an idea&mdash;can be substantially strengthened after outside input. Professional researchers and designers definitely engage in this type of critique and peer feedback and find it very valuable, which is why we are doing it here. 
+To help teams work on their data interpretation and their explanations of their project, we will have an in-class design critique and feedback session. Each team will briefly present some of their Slow Hack findings and data to the rest of the class, and have a chance to discuss these. This activity is **not graded** and is not expected to be “finished” in any way. It is about discussing, more than presenting. Having fresh input can also be very valuable, as members of other teams may suggest new, previously unseen connections and implications. An overall idea &mdash; or the explanation of an idea &mdash; can be substantially strengthened after outside input. Professional researchers and designers definitely engage in this type of critique and peer feedback and find it very valuable, which is why we are doing it here. 
 
 ## Your Presentation
 
@@ -39,7 +39,7 @@ We're expecting your presentation to address the following three broad questions
 
 In the presentation, your team needs to explain what data you collected (and/or retrieved from in existing datasets) and what kind of data it is. If asked, be ready to give details on how, where, and when it was collected. The answer to each broad question needs to clearly and explicitly state how the team’s actions and decisions were informed by data.
 
-You are encouraged to make your presentations very visual &mdash; use photos, drawings, videos, animations, graphs, visualisations, maps (etc) to help communicate about the data you collected, and your design ideas. You are also welcome to use physical objects, apps/websites, or to “role play” how your idea would work. It is up to your team how best to communicate your problem, your data, and the proof-of-concept solution.
+You are encouraged to make your presentations very visual  &mdash;  use photos, drawings, videos, animations, graphs, visualisations, maps (etc) to help communicate about the data you collected, and your design ideas. You are also welcome to use physical objects, apps/websites, or to “role play” how your idea would work. It is up to your team how best to communicate your problem, your data, and the proof-of-concept solution.
 
 
 ## By the End of this Phase
