@@ -7,8 +7,8 @@
 
 ## Today's Prompts
 
-1. 
-2. 
+1. The priorities this week for my DDS team are ...
+2. The things that I really want to do this week are ...
 
 # Feedback on Reports
 
@@ -83,9 +83,9 @@ Graphical excellence gives the viewer:
 * in the smallest space
 
 
-## Data-Ink
+<!-- ## Data-Ink
 
-Data-ink is non-erasible core of a graphic
+Data-ink is non-erasible core of a graphic -->
 
 
 
