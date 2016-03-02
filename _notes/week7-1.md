@@ -47,12 +47,24 @@ I need to be more explicit about what should be in the report!
 
 ---
 
-![Unreadable Charts](../images/how_not.tiff)
 
-<h1>![Unreadable Charts](https://edinburghlivinglab.github.io/dds/images/how_not.png)</h1>
+<h1>![Unreadable Charts](https://edinburghlivinglab.github.io/dds/images/how_not.tiff)</h1>
 
 
-# Data Visualisation
+# Communicating Data
+
+---
+
+Ann never goes to Baristo, but goes to Starbucks 5 times a week. By contrast Bob never goes to Starbucks, but goes to Baristo twice a week. He also goes to Brew Lab 6 times a week, where Ann never goes. He goes to Dome Cafe once a week, while Ann goes there 3 times a week.
+
+--- 
+
+ &nbsp;        Ann     Bob
+----------    ----    ----
+Baristo          0       2
+Dome Cafe        3       1
+Brew Lab         0       6
+Starbucks        5       0
 
 ## Why
 
