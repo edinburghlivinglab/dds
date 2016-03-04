@@ -156,7 +156,7 @@ permalink: "/syllabus/"
             <tr>
                 <td>12-Feb-2016</td>
                 <td>Focus group findings</td>
-                <td><a href="{{ site.baseurl }}/course_docs/FocusGroup_Analysis_slides.pdf" target="_blank">Slides</a><br/>
+                <td><a href="{{ site.baseurl }}/course_docs/FocusGroup_Analysis_slides.pdf" target="_blank">    Slides</a><br/>
                 <a href="{{ site.baseurl }}/course_docs/analysis_session_instructions.pdf" target="_blank">FG Analysis Guide</a>
                 </td>
                 <td>&nbsp;</td>
@@ -196,7 +196,8 @@ permalink: "/syllabus/"
                 <td>4-Mar-2016</td>
                 <td>Tutorials / Data surgeries</td>
                 <td>&nbsp;</td>
-                <td>&nbsp;</td>
+                <td><a href="{{ site.baseurl }}/course_docs/PD_methods_table_final.pdf" target="_blank">PD Methods</a><br/>
+                <a href="{{ site.baseurl }}/course_docs/PD_prep_questions.pdf" target="_blank">PD Prep Questions</a></td>
             </tr>
             <tr>
                 <td rowspan="2">8</td>
