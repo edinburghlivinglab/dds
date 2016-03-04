@@ -195,7 +195,7 @@ permalink: "/syllabus/"
             <tr>
                 <td>4-Mar-2016</td>
                 <td>Tutorials / Data surgeries</td>
-                <td>&nbsp;</td>
+                <td><a href="{{ site.baseurl }}/slides/week7-2.html" target="_blank">Slides</a></td>
                 <td><a href="{{ site.baseurl }}/course_docs/PD_methods_table_final.pdf" target="_blank">PD Methods</a><br/>
                 <a href="{{ site.baseurl }}/course_docs/PD_prep_questions.pdf" target="_blank">PD Prep Questions</a></td>
             </tr>
