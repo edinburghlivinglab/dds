@@ -204,7 +204,7 @@ permalink: "/syllabus/"
                 <td>09-Mar-2016</td>
                 <td>Data and narrative</td>
                 <td>&nbsp;</td>
-                <td>&nbsp;</td>
+                <td><a href="https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_small.pdf">Visualising Information for Advocacy</a></td>
             </tr>
             <tr>
                 <td>11-Mar-2016</td>
