@@ -47,6 +47,8 @@
 
 ![Drone Shadow (James Bridle 2012)](https://farm9.staticflickr.com/8464/8075642816_8db62e0779_h.jpg)
 
+
+
 ## Get the Picture
 
 * Visual 'executive summary'
@@ -54,6 +56,7 @@
 * Illustrate a complex point
 * Provide novel perspectives
 
+<!--
 
 # Image Credits
 
@@ -61,3 +64,4 @@
 * Children's Map: <http://srsg.violenceagainstchildren.org/page/children_world_map>
 * Drone Shadow: <http://shorttermmemoryloss.com/portfolio/project/drone-shadows/>
 * Water Footprint: <https://www.good.is/infographics/transparency-how-much-water-do-you-use>
+ -->
