@@ -203,7 +203,7 @@ permalink: "/syllabus/"
                 <td rowspan="2">8</td>
                 <td>09-Mar-2016</td>
                 <td>Data and narrative</td>
-                <td>&nbsp;</td>
+                <td><a href="{{ site.baseurl }}/slides/week8-1.html" target="_blank">Slides</a></td>
                 <td><a href="https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_small.pdf">Visualising Information for Advocacy</a></td>
             </tr>
             <tr>
