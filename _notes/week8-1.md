@@ -56,6 +56,10 @@
 * Illustrate a complex point
 * Provide novel perspectives
 
+---
+
+<img src="https://edinburghlivinglab.github.io/dds/images/water_footprint.tiff">
+
 <!--
 
 # Image Credits
