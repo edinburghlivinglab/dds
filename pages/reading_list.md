@@ -11,7 +11,7 @@ permalink: "/reading_list/"
 
 These short documents are essential reading to get you started.
 
-* University of Edinburgh (2014) [Towards a Sustainable Food Policy]({{ site.baseurl }}/course_docs/sustainable_food_policy_sept_2014.pdf).
+* University of Edinburgh *Sustainable Food Systems Policy [2014 Draft]({{ site.baseurl }}/course_docs/sustainable_food_policy_sept_2014.pdf), [2016 Draft]({{ site.baseurl }}/course_docs/sustainable_food_policy_jan_2016.pdf)
 * Nesta/Uscreates (2014) [Food Stakeholder Research Report](https://drive.google.com/file/d/0B7Nn3uWf9qCINjFFUDFibE45blU/edit?pref=2&pli=1).
 
 
