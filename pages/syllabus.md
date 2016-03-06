@@ -38,6 +38,10 @@ permalink: "/syllabus/"
                 <td>Friday, 15th January 2016</td>
                 <td>7 Bristo Square, Lecture Theatre 1</td>
             </tr>
+             <tr>
+                <td>Wednesday, 23rd March 2016</td>
+                <td>7 Bristo Square, Lecture Theatre 4 (G.15)</td>
+            </tr>
             <tr>
                 <td>All other class meetings</td>
                 <td>7 Bristo Square, Room 1.203</td>
