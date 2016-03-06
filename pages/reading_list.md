@@ -33,6 +33,7 @@ You should definitely read and use some of the following documents, but the part
 * Muller, M J (2003) [Participatory design: the third space in HCI]({{ site.baseurl }}/course_docs/Muller2003.pdf), 
   chapter in *Human-computer interaction: Development process*, 4235.
 * Spinzzi, C (2005) [The methodology of participatory design](https://repositories.lib.utexas.edu/bitstream/handle/2152/28277/SpinuzziTheMethodologyOfParticipatoryDesign.pdf), *Technical Communication*, 52(2), 163-174.
+* Druin, A. (2002) [The role of children in the design of new technology](http://hcil2.cs.umd.edu/trs/99-23/99-23.pdf), Behaviour and information technology, 21(1), 1-25.
 
 #### Designing for Change
 
@@ -44,6 +45,17 @@ You should definitely read and use some of the following documents, but the part
 * Gray D E (2014) [Research Ethics](https://www.learn.ed.ac.uk/bbcswebdav/pid-1708410-dt-content-rid-3168707_1/xid-3168707_1), Chapter 4, *Doing research in the real world*. Los Angeles, SAGE.
 * Alcorn A M (2015) [Research Ethics: Orientation]({{ site.baseurl }}/course_docs/Research-ethics_D4I_2015_final.pdf). Course slides for *Design for Informatics*.
 * Information Commissioner's Office (2012) [Anonymisation Code of Practice](https://ico.org.uk/media/for-organisations/documents/1061/anonymisation-code.pdf)
+
+### Data Visualisation
+
+* Makulec A (ND) [Anatomy of a Graphic](https://infoactive.co/data-design/ch14.html), chapter 14 of [Data + Design](https://infoactive.co/data-design/)
+* Few S (2009) *Now You See It*, Analytics Press, Calif.
+* Tufte E R (1983) *The Visual Display of Quantitative Information*, Graphics Press, Cheshire CT
+* Underwood J (2013) [Data Visualization Best Practices](http://www.slideshare.net/idigdata/data-visualization-best-practices-2013)
+* School of Data [From Data to Diagrams](http://schoolofdata.org/handbook/courses/data-to-diagrams/)
+* GOOD [Infographics](https://www.good.is/infographics)
+* Visualisations that make no sense: [WTF Visualizations](http://viz.wtf)
+* Resources for [Data Driven Journalism](http://datadrivenjournalism.net/resources)
 
 #### Food Climate Research Network (FCRN) Library
 
