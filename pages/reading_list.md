@@ -48,10 +48,10 @@ You should definitely read and use some of the following documents, but the part
 
 ### Data Visualisation
 
+* Few S (2009) *Now You See It*, Analytics Press
+* Tufte E R (1983) *The Visual Display of Quantitative Information*, Graphics Press
 * Makulec A (ND) [Anatomy of a Graphic](https://infoactive.co/data-design/ch14.html), chapter 14 of [Data + Design](https://infoactive.co/data-design/)
-* Few S (2009) *Now You See It*, Analytics Press, Calif.
-* Tufte E R (1983) *The Visual Display of Quantitative Information*, Graphics Press, Cheshire CT
-* Underwood J (2013) [Data Visualization Best Practices](http://www.slideshare.net/idigdata/data-visualization-best-practices-2013)
+* Underwood J (2013) [Data Visualization Best Practices](http://www.slideshare.net/idigdata/data-visualization-best-practices-2013) (on Slideshare)
 * School of Data [From Data to Diagrams](http://schoolofdata.org/handbook/courses/data-to-diagrams/)
 * GOOD [Infographics](https://www.good.is/infographics)
 * Visualisations that make no sense: [WTF Visualizations](http://viz.wtf)
