@@ -196,7 +196,9 @@ permalink: "/syllabus/"
                 <td rowspan="2">7</td>
                 <td>2-Mar-2016</td>
                 <td>Data visualisation</td>
-                <td><a href="{{ site.baseurl }}/slides/week7-1.html" target="_blank">Slides</a></td>
+                <td><a href="{{ site.baseurl }}/slides/week7-1.html" target="_blank">Slides</a><br/>
+                    <a href="https://infoactive.co/data-design/ch14.html">Anatomy of a Graphic</a>
+                </td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
