@@ -10,7 +10,7 @@
 1. The priorities this week for my DDS team are ...
 2. The things that I really want to do this week are ...
 
-# Visualisation <br/>&amp; Advocacy
+# Visualisation <br/>and Advocacy
 
 ---
 
@@ -36,6 +36,7 @@
 	* implied justification for change
 
 
+# 3 Levels 
 
 ## 1. Get the Idea
 
@@ -109,7 +110,7 @@
 <figcaption>UK Food Products from <a href="http://openfoodfacts.org">http://openfoodfacts.org</a></figcaption>
 </figure>
 
-## Putting it into Practice
+# Putting it into Practice
 
 1. What is the problem you are trying to solve?
 2. What goal are you trying to achieve?
@@ -132,4 +133,5 @@
 * Water Footprint: <https://www.good.is/infographics/transparency-how-much-water-do-you-use>
 * Palestine Travel Documents: <http://arenaofspeculation.org/2011/05/28/subjective-atlas-of-palestine/>
 * Flocking Diplomats: <http://www.catalogtree.net/images/FlockinDiplomats_06.jpg?w=933>
+* Abused Goddesses Campaign: <http://bodyofwork.in/2013/09/20/just-another-article-about-the-abused-goddesses-campaign/>
  -->
