@@ -10,14 +10,13 @@
 1. The priorities this week for my DDS team are ...
 2. The things that I really want to do this week are ...
 
-# Visualisation &amp; Advocacy
+# Visualisation <br/>&amp; Advocacy
 
 ---
 
-
 <figure>
-<img src="https://edinburghlivinglab.github.io/dds/images/vifa_cover.tiff" style="width: 700px;">
-<figcaption>Dactical Tech <https://tacticaltech.org></figcaption>
+<img src="https://edinburghlivinglab.github.io/dds/images/vifa_cover.tiff" style="height: 600px;">
+<figcaption>Tactical Tech <a href="https://tacticaltech.org">https://tacticaltech.org</a></figcaption>
 </figure>
 
 ## Overview
@@ -47,13 +46,13 @@
 ---
 
 
-![Children's World Map](http://srsg.violenceagainstchildren.org/sites/default/files/maps/children_map/children_map_2014.jpg)
+![Violence against Children](http://srsg.violenceagainstchildren.org/sites/default/files/maps/children_map/children_map_2014.jpg)
 
 ---
 
 <figure>
-<img src="https://farm9.staticflickr.com/8464/8075642816_8db62e0779_h.jpg" style="width: 700px;">
-<figcaption>Drone Shadow (James Bridle 2012</figcaption>
+<img src="https://farm9.staticflickr.com/8464/8075642816_8db62e0779_h.jpg" style="width: 800px;">
+<figcaption>Drone Shadow (James Bridle 2012)</figcaption>
 </figure>
 <!-- ![Drone Shadow (James Bridle 2012)](https://farm9.staticflickr.com/8464/8075642816_8db62e0779_h.jpg) -->
 
@@ -89,8 +88,14 @@
 <figcaption>Travel documents I needed to travel outside Palestine</figcaption>
 </figure>
 
-<!-- http://www.catalogtree.net/images/FlockinDiplomats_06.jpg?w=933
- -->
+---
+
+<figure>
+<img src="http://www.catalogtree.net/images/FlockinDiplomats_06.jpg?w=933">
+<figcaption>Poster of NYC Parking Violations by Diplomats</figcaption>
+</figure>
+
+
 
 ## 3. Get the Idea
 
@@ -101,11 +106,18 @@
 
 <figure>
 <img src="https://edinburghlivinglab.github.io/dds/images/open_food_facts.tiff">
-<figcaption>UK Products from <http://openfoodfacts.org> </figcaption>
+<figcaption>UK Food Products from <a href="http://openfoodfacts.org">http://openfoodfacts.org</a></figcaption>
 </figure>
 
+## Putting it into Practice
 
-* Making data meaningful 
+1. What is the problem you are trying to solve?
+2. What goal are you trying to achieve?
+3. Who is your audience and how do you want them to change?
+4. Will you use emotional, rational or moral appeals to their values? What is the role of the information you have?
+5. What networks and technologies will you use for your campaign?
+
+
 
 
 
