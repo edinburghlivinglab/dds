@@ -1,6 +1,6 @@
 % Data, Design and Society
 % Ewan Klein
-% 9  March 2016
+% 9 March 2016
 
 
 # Just Writing
@@ -118,6 +118,13 @@
 <figcaption>UK Food Products from <a href="http://openfoodfacts.org">http://openfoodfacts.org</a></figcaption>
 </figure>
 
+---
+
+<figure>
+<img src="https://edinburghlivinglab.github.io/dds/images/sourcemap.tiff">
+<figcaption>Map created on Sourcemap <a href="http://free.sourcemap.com">http://free.sourcemap.com</a></figcaption>
+</figure>
+
 ## Putting it into Practice
 
 1. What is the problem you are trying to solve?
@@ -132,12 +139,12 @@
 
 <small>
 
-
 * Children's Map: <http://srsg.violenceagainstchildren.org/page/children_world_map>
 * Drone Shadow: <http://shorttermmemoryloss.com/portfolio/project/drone-shadows/>
 * Water Footprint: <https://www.good.is/infographics/transparency-how-much-water-do-you-use>
 * Palestine Travel Documents: <http://arenaofspeculation.org/2011/05/28/subjective-atlas-of-palestine/>
 * Flocking Diplomats: <http://www.catalogtree.net/images/FlockinDiplomats_06.jpg?w=933>
 * Abused Goddesses Campaign: <http://bodyofwork.in/2013/09/20/just-another-article-about-the-abused-goddesses-campaign/>
+* Starbucks From Cradle to Grave: <http://free.sourcemap.com/view/10541>
 
 </smalk>
