@@ -195,7 +195,7 @@ permalink: "/syllabus/"
             <tr>
                 <td rowspan="2">7</td>
                 <td>2-Mar-2016</td>
-                <td>Data visualisation</td>
+                <td>Data Visualisation</td>
                 <td><a href="{{ site.baseurl }}/slides/week7-1.html" target="_blank">Slides</a><br/>
                     <a href="https://infoactive.co/data-design/ch14.html">Anatomy of a Graphic</a>
                 </td>
@@ -211,7 +211,7 @@ permalink: "/syllabus/"
             <tr>
                 <td rowspan="2">8</td>
                 <td>09-Mar-2016</td>
-                <td>Data and narrative</td>
+                <td>Data Visualisation and Advocacy</td>
                 <td><a href="{{ site.baseurl }}/slides/week8-1.html" target="_blank">Slides</a></td>
                 <td><a href="https://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_small.pdf">Visualising Information for Advocacy</a></td>
             </tr>

@@ -55,6 +55,7 @@ You should definitely read and use some of the following documents, but the part
 * School of Data [From Data to Diagrams](http://schoolofdata.org/handbook/courses/data-to-diagrams/)
 * GOOD [Infographics](https://www.good.is/infographics)
 * Visualisations that make no sense: [WTF Visualizations](http://viz.wtf)
+* Tactical Tech [Guide to Visualisation Tools](https://visualisingadvocacy.org/resources/visualisationtools)
 * Resources for [Data Driven Journalism](http://datadrivenjournalism.net/resources)
 
 #### Food Climate Research Network (FCRN) Library
