@@ -36,7 +36,7 @@
 	* implied justification for change
 
 
-# 3 Levels 
+## 3 Levels 
 
 ## 1. Get the Idea
 
@@ -55,7 +55,13 @@
 <img src="https://farm9.staticflickr.com/8464/8075642816_8db62e0779_h.jpg" style="width: 800px;">
 <figcaption>Drone Shadow (James Bridle 2012)</figcaption>
 </figure>
-<!-- ![Drone Shadow (James Bridle 2012)](https://farm9.staticflickr.com/8464/8075642816_8db62e0779_h.jpg) -->
+
+---
+
+<figure>
+<img src="https://edinburghlivinglab.github.io/dds/images/abused_goddess.jpg" style="width: 800px;">
+<figcaption>Abused Goddesses Campaign (Taproot)</figcaption>
+</figure>
 
 
 
@@ -73,7 +79,7 @@
 <figcaption>Portion of "Walk this Way" Infographic</figcaption>
 </figure>
 
-## Walk this Way
+---
 
 * Portrays two kinds of water consumption:
 	* Direct (e.g. washing up)
@@ -81,6 +87,8 @@
 * Mapped over a typical day (cf. user journey)
 * For each water consumption type, an alternative is presented
 
+
+## Implied Narratives
 
 ---
 
@@ -92,7 +100,7 @@
 ---
 
 <figure>
-<img src="https://edinburghlivinglab.github.io/dds/images/flocking_diplomats.tiff">
+<img src="https://edinburghlivinglab.github.io/dds/images/flocking_diplomats.tiff" style="height: 600px;">
 <figcaption>Poster of NYC Parking Violations by Diplomats</figcaption>
 </figure>
 
@@ -110,7 +118,7 @@
 <figcaption>UK Food Products from <a href="http://openfoodfacts.org">http://openfoodfacts.org</a></figcaption>
 </figure>
 
-# Putting it into Practice
+## Putting it into Practice
 
 1. What is the problem you are trying to solve?
 2. What goal are you trying to achieve?
@@ -120,12 +128,9 @@
 
 
 
+## Image Credits
 
-
-
-<!--
-
-# Image Credits
+<small>
 
 
 * Children's Map: <http://srsg.violenceagainstchildren.org/page/children_world_map>
@@ -134,4 +139,5 @@
 * Palestine Travel Documents: <http://arenaofspeculation.org/2011/05/28/subjective-atlas-of-palestine/>
 * Flocking Diplomats: <http://www.catalogtree.net/images/FlockinDiplomats_06.jpg?w=933>
 * Abused Goddesses Campaign: <http://bodyofwork.in/2013/09/20/just-another-article-about-the-abused-goddesses-campaign/>
- -->
+
+</smalk>
