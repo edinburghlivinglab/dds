@@ -1,5 +1,5 @@
 % Data, Design and Society
-% Ewan Klein &amp; Alyssa Alcorn
+% Ewan Klein
 % 9  March 2016
 
 
@@ -10,7 +10,20 @@
 1. The priorities this week for my DDS team are ...
 2. The things that I really want to do this week are ...
 
-# Visualisation and Advocacy
+# Visualisation &amp; Advocacy
+
+---
+
+<table border="1">
+<tr>
+	<td>Tactical Tech <https://tacticaltech.org></td>	
+</tr>
+<tr>
+	<td><img src="https://edinburghlivinglab.github.io/dds/images/vifa_cover.tiff"></td>	
+</tr>
+</table>
+
+
 
 ## Overview
 
@@ -30,9 +43,7 @@
 
 
 
-# Visual Techniques
-
-## Get the Idea
+## 1. Get the Idea
 
 * Use images to raise awareness about an issue or campaign
 * Often emotive, using shock, humour, subversion, metaphor
@@ -41,15 +52,19 @@
 ---
 
 
-![Children's Map](http://srsg.violenceagainstchildren.org/sites/default/files/maps/children_map/children_map_2014.jpg)
+![Children's World Map](http://srsg.violenceagainstchildren.org/sites/default/files/maps/children_map/children_map_2014.jpg)
 
 ---
 
-![Drone Shadow (James Bridle 2012)](https://farm9.staticflickr.com/8464/8075642816_8db62e0779_h.jpg)
+<figure>
+<img src="https://farm9.staticflickr.com/8464/8075642816_8db62e0779_h.jpg" style="width: 700px;">
+<figcaption>Drone Shadow (James Bridle 2012</figcaption>
+</figure>
+<!-- ![Drone Shadow (James Bridle 2012)](https://farm9.staticflickr.com/8464/8075642816_8db62e0779_h.jpg) -->
 
 
 
-## Get the Picture
+## 2. Get the Picture
 
 * Visual 'executive summary'
 * Provide information about context / scale / urgency
@@ -58,7 +73,35 @@
 
 ---
 
+<figure>
 <img src="https://edinburghlivinglab.github.io/dds/images/water_footprint.tiff">
+<figcaption>Portion of "Walk this Way" Infographic</figcaption>
+</figure>
+
+## Walk this Way
+
+* Portrays two kinds of water consumption:
+	* Direct (e.g. washing up)
+	* Indirect (e.g., beef production)
+* Mapped over a typical day (cf. user journey)
+* For each water consumption type, an alternative is presented
+
+
+---
+
+<figure>
+<img src="http://arenaofspeculation.org/wp-content/uploads/2011/05/DocumentsThatINeeded.jpg">
+<figcaption>Travel documents I needed to travel outside Palestine</figcaption>
+</figure>
+
+
+## 3. Get the Idea
+
+* Go deeper by providing people with an open evidence base
+* Empower your audience to explore the information and create their own stories
+
+
+
 
 <!--
 
@@ -68,4 +111,5 @@
 * Children's Map: <http://srsg.violenceagainstchildren.org/page/children_world_map>
 * Drone Shadow: <http://shorttermmemoryloss.com/portfolio/project/drone-shadows/>
 * Water Footprint: <https://www.good.is/infographics/transparency-how-much-water-do-you-use>
+* Palestine Travel Documents: <http://arenaofspeculation.org/2011/05/28/subjective-atlas-of-palestine/>
  -->
