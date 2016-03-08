@@ -14,16 +14,11 @@
 
 ---
 
-<table border="1">
-<tr>
-	<td>Tactical Tech <https://tacticaltech.org></td>	
-</tr>
-<tr>
-	<td><img src="https://edinburghlivinglab.github.io/dds/images/vifa_cover.tiff"></td>	
-</tr>
-</table>
 
-
+<figure>
+<img src="https://edinburghlivinglab.github.io/dds/images/vifa_cover.tiff" style="width: 700px;">
+<figcaption>Dactical Tech <https://tacticaltech.org></figcaption>
+</figure>
 
 ## Overview
 
@@ -94,11 +89,23 @@
 <figcaption>Travel documents I needed to travel outside Palestine</figcaption>
 </figure>
 
+<!-- http://www.catalogtree.net/images/FlockinDiplomats_06.jpg?w=933
+ -->
 
 ## 3. Get the Idea
 
 * Go deeper by providing people with an open evidence base
 * Empower your audience to explore the information and create their own stories
+
+---
+
+<figure>
+<img src="https://edinburghlivinglab.github.io/dds/images/open_food_facts.tiff">
+<figcaption>UK Products from <http://openfoodfacts.org> </figcaption>
+</figure>
+
+
+* Making data meaningful 
 
 
 
