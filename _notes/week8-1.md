@@ -91,7 +91,7 @@
 ---
 
 <figure>
-<img src="http://www.catalogtree.net/images/FlockinDiplomats_06.jpg?w=933">
+<img src="https://edinburghlivinglab.github.io/dds/images/flocking_diplomats.tiff">
 <figcaption>Poster of NYC Parking Violations by Diplomats</figcaption>
 </figure>
 
@@ -131,4 +131,5 @@
 * Drone Shadow: <http://shorttermmemoryloss.com/portfolio/project/drone-shadows/>
 * Water Footprint: <https://www.good.is/infographics/transparency-how-much-water-do-you-use>
 * Palestine Travel Documents: <http://arenaofspeculation.org/2011/05/28/subjective-atlas-of-palestine/>
+* Flocking Diplomats: <http://www.catalogtree.net/images/FlockinDiplomats_06.jpg?w=933>
  -->
