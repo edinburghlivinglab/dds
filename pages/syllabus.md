@@ -218,7 +218,7 @@ permalink: "/syllabus/"
             <tr>
                 <td>11-Mar-2016</td>
                 <td>Tutorials / Data surgeries</td>
-                <td>&nbsp;</td>
+                <td><a href="{{ site.baseurl }}/slides/week8-2.html" target="_blank">Slides</a></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
