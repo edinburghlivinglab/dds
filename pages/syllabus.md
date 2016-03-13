@@ -99,7 +99,9 @@ permalink: "/syllabus/"
                 <td rowspan="2">2</td>
                 <td>20-Jan-2016</td>
                 <td>Design thinking in the field</td>
-                <td><a href="{{ site.baseurl }}/slides/week2-1.html" target="_blank">Slides</a></td>
+                <td><a href="{{ site.baseurl }}/slides/week2-1.html" target="_blank">Slides</a><br/>
+                    <a href="{{ site.baseurl }}/course_docs/cat_magill_field.pdf" target="_blank">Magill Slides</a>
+                </td>
                 <td><a href="https://youtu.be/JF2xaxjrQ7g">Design Video</a><br/>
                 <a href="http://www.thecreativeindustries.co.uk/uk-creative-overview/news-and-views/view-what-is-design-and-why-it-matters">Double Diamond overview</a>
                 </td>
@@ -143,7 +145,7 @@ permalink: "/syllabus/"
             </tr>
             <tr>
                 <td>05-Feb-2016</td>
-                <td>Data management + team tutorials</td>
+                <td>Data management with DataStore &amp; team tutorials</td>
                 <td>
                 <a href="{{ site.baseurl }}/slides/week4-2.html" target="_blank">Slides</a><br/>
                 <a href="{{ site.baseurl }}/form_templates#focus_group_templates">Form Templates</a><br/>
@@ -154,7 +156,7 @@ permalink: "/syllabus/"
             <tr>
                 <td rowspan="2">5</td>
                 <td>10-Feb-2016</td>
-                <td>Preparing for the Slow Hack</td>
+                <td>Preparing for the Slow Hack; ISM and Models of Social Change</td>
                 <td><a href="{{ site.baseurl }}/slides/week5-1.html" target="_blank">Slides</a><br/>
                     <a href="{{ site.baseurl }}/course_docs/journeys.pdf" target="_blank">Journey Slides</a><br/>
                 </td>
@@ -183,7 +185,7 @@ permalink: "/syllabus/"
                 </td>
                 <td>24-Feb-2016</td>
                 <td>Participatory Design</td>
-                <td>&nbsp;</td>
+                <td><a href="{{ site.baseurl }}/course_docs/PD_class_activity_handout.pdf">Class PD Activity</td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
