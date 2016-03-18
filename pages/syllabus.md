@@ -171,8 +171,8 @@ permalink: "/syllabus/"
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td>6</td>
-                <td></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
                 <td>19-Feb-2016</td>
                 <td>Innovative Learning Week</td>
                 <td>&nbsp;</td>
@@ -248,7 +248,7 @@ permalink: "/syllabus/"
             </tr>
             <tr>
                 <td>25-Mar-2016</td>
-                <td>TBD</td>
+                <td>Briefing on Final Report</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
             </tr>
