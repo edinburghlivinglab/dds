@@ -169,8 +169,8 @@ permalink: "/syllabus/"
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td>6</td>
-                <td></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
                 <td>19-Feb-2016</td>
                 <td>Innovative Learning Week</td>
                 <td>&nbsp;</td>
