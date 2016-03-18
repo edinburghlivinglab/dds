@@ -6,25 +6,19 @@ permalink: "/assignment_gp2/"
 ---
 
 This assignment is an in-class group presentation to be made by your team. Each team member should participate actively in both the preparation and the presentation itself.
-The presentation should last 15 minutes, so please rehearse in advance and make sure you don't go over time.
+The presentation should last no more than **10 minutes**. 
 
-The presentation should address three questions, using as many forms of
-information as you can reasonably collect during the [Slow Hack]({{ site.baseurl }}/slow_hack/):
+The presentation should address the following questions:
 
-1. What is the existing situation in the University as regards to your Food and Sustainability sub-theme? Where are we starting from &mdash; what is happening (or not
-happening) right now?
+1. What specific problem are you focussing on?
+2. Given the information you have collected, what is the current situation with respect to this problem?
+3. What is your proposed proof-of-concept design idea?
+4. What evidence do you have that this idea could help solve the problem?
 
-2. What are some of the specific Food and Sustainability problems you might be
-able to address within this sub-theme?
+### Guidance
 
-3. What are some possible interventions for changing the existing situation into a preferred one (i.e. improving some aspect of food-related sustainability)?
-
-In the presentation, your team needs to be able to explain what data and other
-information you collected or found, what kind of information it is, and how
-the answers to your three questions (current state, possible problems,
-possible interventions) are based on your Fast Hack information. Be ready to
-explain how, where, and when you collected this information.
-
-You are encouraged to make your presentations visual&mdash;use photos,
-drawings, videos, animations, graphs, maps, etc. to help communicate about the
-information you collected, and your design ideas.
+1. As a rule of thumb, have 1 slide for each minute of presentation.
+2. Slides are meant to engage the interest of the audience, and present information in a transparent way. Good graphics and images are often an effective way of doing this. Keep bullet points to a minimum.
+3. Make sure that each presenter knows what they want to say. Do **not** read your slides to the audience. The 
+    - y
+    - 
