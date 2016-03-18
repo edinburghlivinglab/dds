@@ -6,7 +6,7 @@ permalink: "/assignment_gp2/"
 ---
 
 This assignment is an in-class group presentation to be made by your team. Each team member should participate actively in preparing and giving the presentation itself.
-The presentation should last no more than **10 minutes**. 
+Your presentation should last no more than **10 minutes**. We will allow some additional time for questions.
 
 The presentation should address the following questions:
 
@@ -14,6 +14,8 @@ The presentation should address the following questions:
 2. Given the information you have collected, what is the current situation with respect to this problem?
 3. What is your proposed proof-of-concept design idea?
 4. What evidence do you have that this idea could help solve the problem?
+
+In your presentation, you should use tables, charts, photos, diagrams, etc. to communicate your design idea and the information you collected which motivates and justifies your idea.
 
 The presentation will be assessed primarily in terms of how effectively you communicate the essential content of your project and how well you work together as a team. 
 
