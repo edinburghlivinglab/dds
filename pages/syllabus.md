@@ -233,20 +233,20 @@ permalink: "/syllabus/"
             </tr>
             <tr>
                 <td>18-Mar-2016</td>
-                <td>Tutorials / Data surgeries</td>
+                <td>Dry-run presentations, peer feedback</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td rowspan="2">10</td>
                 <td>23-Mar-2016</td>
-                <td>Team Presentations</td>
+                <td>Final Team Presentations</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td>25-Mar-2016</td>
-                <td>TBD</td>
+                <td>Briefing on Final Report</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
             </tr>
