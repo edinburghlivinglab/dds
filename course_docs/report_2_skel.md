@@ -18,18 +18,15 @@ Describe the primary design idea that you developed. Justify **why** you develop
 NB You can draw on any research or design exercises carried out within your team, not just information that you collected by yourself.
 
 # 4. Evaluation and Next Steps
-[10% - LO2]
-What do you think needs to be done next in order to further develop your idea and perhaps bring about actual change? What additional evidence would you like to collect or what further user testing? It's possible that you think that the primary idea that you pursued should **not** be pursued further -- if so, explain your conclusions.
+What do you think needs to be done next in order to further develop your team's primary idea?  What additional evidence would you like to collect or what further user testing? Are there other design ideas from your project that you have not explored as fully as you wish, and that you think merit more attention? Are there other stakeholders or key individuals in the University who would have to be influenced in order to fully realise the potential of your idea? 
 
 # 5. Reflections
-[15% - LO4]
-What has been your personal experience of working on this project? What was your personal contribution to the team effort during the Slow Hack?
+How have you dealt with challenges of engaging with people in the University community? What has been your experience of working within an interdisciplinary team and sharing out work, responsibilities and roles? What was your personal contribution to the team effort during the project, both in terms of your expertise and knowledge, and also in terms of the tasks you carried out?
 
 # 6. Conclusions
-[5%]
 Summarise overall what you personally, and your team, have accomplished in
-your project.  This part of your report should draw together the main threads
-of your report. Try to emphasise four key 'take home' points for the reader.
+your project. This part of your report should draw together the main threads
+of your report. 
 
 
 
