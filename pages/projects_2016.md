@@ -27,6 +27,9 @@ permalink: "/projects_2016/"
     <li>Eunsun Cho</li>
     <li>Thomas Zwagerman</li>
   </ul>
+
+  <a class="button small" href="{{ site.baseurl }}/course_docs/1_Meal_Deals.pdf" target="_blank">Project Slides</a>
+
 </div>
 
 
@@ -41,6 +44,7 @@ permalink: "/projects_2016/"
     <li>Morgane Sepot</li>
     <li>Annie Zhang</li>
   </ul>
+  <a class="button small" href="{{ site.baseurl }}/course_docs/2_Food_Hub.pdf" target="_blank">Project Slides</a>
 </div>
 
 
@@ -55,6 +59,8 @@ permalink: "/projects_2016/"
     <li>Rory McClish</li>
     <li>Minhui Xu</li>
   </ul>
+
+  <a class="button small" href="{{ site.baseurl }}/course_docs/3_The_RA_Connection.pdf" target="_blank">Project Slides</a>
 </div>
 
 
@@ -68,6 +74,8 @@ permalink: "/projects_2016/"
     <li>David Mynors</li>
     <li>Michelle Wong</li>
   </ul>
+
+ <a class="button small" href="{{ site.baseurl }}/course_docs/4_Pimp_My_Pollock.pdf" target="_blank">Project Slides</a> 
 </div>
 
 
@@ -81,6 +89,8 @@ permalink: "/projects_2016/"
     <li>Luke Fletcher</li>
     <li>Helena Mcelroy</li>
   </ul>
+
+ <a class="button small" href="{{ site.baseurl }}/course_docs/5_Trayless_Dining.pdf" target="_blank">Project Slides</a>
 </div>
 
 
@@ -94,6 +104,8 @@ permalink: "/projects_2016/"
     <li>Qinqin Xu</li>
     <li>Anna Zorinmawii</li>
   </ul>
+
+  <a class="button small" href="{{ site.baseurl }}/course_docs/6_Save_the_Cups.pdf" target="_blank">Project Slides</a>
 </div>
 
 
@@ -105,6 +117,8 @@ permalink: "/projects_2016/"
     <li>Madison Weigand (Coordinator)</li>
     <li>Madeleine Boyle</li>
     <li>Akshay Chandiramani</li>
-    <li>Ajda Remskar</li>
+    <li>Ajda Remškar</li>
   </ul>
+
+  <a class="button small" href="{{ site.baseurl }}/course_docs/7_Good_Eats.pdf" target="_blank">Project Slides</a>
 </div>
