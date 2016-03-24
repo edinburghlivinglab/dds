@@ -22,7 +22,7 @@
   url: "/syllabus/"
   side: right
 
-- title: "Projects"
+- title: "Phases"
   url: "/project_overview/"
   side: right
   dropdown:
@@ -40,6 +40,25 @@
     url: "/reporting/"
   - title: "Success Criteria"
     url: "/project_success/"
+
+- title: "Projects"
+  url: "/projects_2016/"
+  side: right
+ # dropdown:
+ #  - title: "Meal Deals"
+ #    url: "/meal_deals/"
+ #  - title: "Preparation"
+ #    url: "/preparation/"
+ #  - title: "Fast Hack"
+ #    url: "/fast_hack/"
+ #  - title: "Digging Deeper"
+ #    url: "/digging_deeper/"
+ #  - title: "Slow Hack"
+ #    url: "/slow_hack/"
+ #  - title: "Reporting"
+ #    url: "/reporting/"
+ #  - title: "Success Criteria"
+ #    url: "/project_success/" 
 
 - title: "Assessment"
   url: "/assessment_overview/"
