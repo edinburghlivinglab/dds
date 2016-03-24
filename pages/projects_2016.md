@@ -84,13 +84,17 @@ permalink: "/projects_2016/"
 <div class="panel">
   <h5>Team Members</h5>
   <ul>
-    <li>Julia Joseph (Coordinator)</li>
+    <li><a href="http://juljoseph33.github.io">Julia Joseph</a> (Coordinator) <a href="https://twitter.com/JuliaRJoseph"><i class="icon-twitter"></i></a>
+         <a href="https://www.linkedin.com/pub/julia-joseph/83/a35/293"><i class="icon-linkedin"></i></a>
+         <a href="https://github.com/juljoseph33"><i class="icon-github"></i></a>
+    </li>
     <li>Isy Introna</li>
     <li>Luke Fletcher</li>
     <li>Helena McElroy</li>
   </ul>
 
  <a class="button small" href="{{ site.baseurl }}/course_docs/5_Trayless_Dining.pdf" target="_blank">Project Slides</a>
+ <a class="button small" href="http://juljoseph33.github.io/DDS/" target="_blank">Project Website</a>
 </div>
 
 
