@@ -84,10 +84,10 @@ permalink: "/projects_2016/"
 <div class="panel">
   <h5>Team Members</h5>
   <ul>
-    <li>Julia Josephs (Coordinator)</li>
+    <li>Julia Joseph (Coordinator)</li>
     <li>Isy Introna</li>
     <li>Luke Fletcher</li>
-    <li>Helena Mcelroy</li>
+    <li>Helena McElroy</li>
   </ul>
 
  <a class="button small" href="{{ site.baseurl }}/course_docs/5_Trayless_Dining.pdf" target="_blank">Project Slides</a>
