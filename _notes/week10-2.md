@@ -1,30 +1,39 @@
 % Data, Design and Society
 % Ewan Klein
-% 11 March 2016
+% 25 March 2016
 
 
 # Just Writing
 
 ## Today's Prompts
 
-1. My DDS team is ...
-2. The 'unique selling point' of our DDS project is ...
+1. What is distinctive about my 'personal brand' and how do I strengthen it?
+2. Transformation: individual? social? material?
 
-# Final Phase of DDS
+# Wrap Up
 
-## Reporting
+## Making Things Public
 
- * Tell a clear, convincing, easy-to-understand story about how your proof-of-concept design idea has the potential to solve your DDS problem. 
- * Analyse and make sense of the data you already have 
-    * through qualitative description, statistics, visualisations, connection to policy documents and other data sets, etc
+ * New DDS *Projects* page
+     - Teams
+     - Slides
+     - Images
+     - ...
+    
+* SRS: Alexis has asked for 1-page 'executive summary' of each project --- to help argue for real change
+* Individual Reports?
 
-## Next week:'design critiques'
+## Archiving
 
-* Each team briefly presents some findings, data, proposals to rest of class
-* **Not** expected to be 'finished'
-* Opportunity for everyone to contribute ideas, questions, suggestions
-* Change from syllabus: distribute presentations over both Wednesday and Friday
+* Audit all the data you collected: file names, data format, when collected. brief description of contents
+* Record this in a 'README' (plaintext) file 
+* Put the README file and *all* data files onto your team's folder on DataStore
+* It's possible that some of your --- de-identified --- datasets will be made public
 
-## Next week
+## Individual Report (Coursework R2)
 
-* Also briefing on Final Presentations and Final Reports
+* Deadline: Submit on Learn by 16:00 Friday 1 April
+* 2,500 -- 3,000 words
+* Use the section headings in the [guidance]({{ site.baseurl }}/assignment_r2)
+
+## 
