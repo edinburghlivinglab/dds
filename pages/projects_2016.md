@@ -17,6 +17,8 @@ permalink: "/projects_2016/"
 
 <div class="medium-8 medium-pull-4 columns" markdown="1"> 
 
+The DDS teams gave presentations on their projects on 23 March 2016. You can read all about the event in [Data, Design and Society &mdash; Final Presentions](http://nicolaosborne.blogs.edina.ac.uk/2016/03/23/data-design-society-final-presentations/) by [Nicola Osborne](http://nicolaosborne.blogs.edina.ac.uk/about/).
+
 ## Team 1: Meal Deals
 
 <div class="panel">
