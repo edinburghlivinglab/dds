@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Student Projects"
 subheadline: "Spring 2016"
 teaser: ""
@@ -114,6 +114,7 @@ The DDS teams gave presentations on their projects on 23 March 2016. You can rea
   <a class="button small" href="{{ site.baseurl }}/course_docs/6_Save_the_Cups.pdf" target="_blank">Project Slides</a>
 </div>
 
+<a href="{{ site.urlimg }}savethecups_final_poster.jpg"><img src="{{ site.urlimg }}savethecups_final_poster-1000x1400.jpg" alt="Save the Cups Final Poster"></a>
 
 ## Team 7: Good Eats
 
