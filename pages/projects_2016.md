@@ -105,7 +105,7 @@ The DDS teams gave presentations on their projects on 23 March 2016. You can rea
 <div class="panel">
   <h5>Team Members</h5>
   <ul>
-    <li>Paul Hofma (Coordinator)</li>
+    <li>Paul Hofma (Coordinator) <a href="https://www.linkedin.com/in/paul-hofma-8607aa7b"><i class="icon-linkedin"></i></a></li>
     <li>Chloe Austin</li>
     <li>Qinqin Xu</li>
     <li>Anna Zorinmawii</li>
