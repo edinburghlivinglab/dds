@@ -114,7 +114,12 @@ The DDS teams gave presentations on their projects on 23 March 2016. You can rea
   <a class="button small" href="{{ site.baseurl }}/course_docs/6_Save_the_Cups.pdf" target="_blank">Project Slides</a>
 </div>
 
-<a href="{{ site.urlimg }}savethecups_final_poster.jpg"><img src="{{ site.urlimg }}savethecups_final_poster-1000x1400.jpg" alt="Save the Cups Final Poster"></a>
+<img src="{{ site.urlimg }}savethecups2-thumbnail.jpg" alt="Save the Cups PD Workshop 1">
+<img src="{{ site.urlimg }}savethecups3-thumbnail.jpg" alt="Save the Cups PD Workshop 2">
+
+<a href="{{ site.urlimg }}savethecups_final_poster.jpg"><img src="{{ site.urlimg }}savethecups_final_poster-thumbnail.jpg" alt="Save the Cups Final Poster"></a>
+
+<hr/>
 
 ## Team 7: Good Eats
 
