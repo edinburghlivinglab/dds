@@ -102,6 +102,8 @@ The DDS teams gave presentations on their projects on 23 March 2016. You can rea
 
 ## Team 6: Save the Cups!
 
+At the University of Edinburgh, an estimated 1 million coffee cups are going to landfill every year: a staggering number. In our project, we looked for ways to reduce the amount of waste caused this way. We decided to design posters that would boost the University’s current Keepcup scheme –-- if you bring a University of Edinburgh-branded Keepcup to one of the University Cafés, you receive a 20p discount on your coffee. <a href="{{ site.baseurl }}/team6_summary"><strong>Read More &gt;</strong></a>
+
 <div class="panel">
   <h5>Team Members</h5>
   <ul>
@@ -114,10 +116,10 @@ The DDS teams gave presentations on their projects on 23 March 2016. You can rea
   <a class="button small" href="{{ site.baseurl }}/course_docs/6_Save_the_Cups.pdf" target="_blank">Project Slides</a>
 </div>
 
-<img src="{{ site.urlimg }}savethecups2-thumbnail.jpg" alt="Save the Cups PD Workshop 1">
-<img src="{{ site.urlimg }}savethecups3-thumbnail.jpg" alt="Save the Cups PD Workshop 2">
+<img src="{{ site.urlimg }}savethecups2-medium.jpg" alt="Save the Cups PD Workshop 1">
+<img src="{{ site.urlimg }}savethecups3-medium.jpg" alt="Save the Cups PD Workshop 2">
 
-<a href="{{ site.urlimg }}savethecups_final_poster.jpg"><img src="{{ site.urlimg }}savethecups_final_poster-thumbnail.jpg" alt="Save the Cups Final Poster"></a>
+<a href="{{ site.urlimg }}savethecups_final_poster.jpg"><img src="{{ site.urlimg }}savethecups_final_poster-medium.jpg" alt="Save the Cups Final Poster"></a>
 
 <hr/>
 
