@@ -26,7 +26,7 @@ permalink: "/syllabus/"
                 <td>10:00&ndash;12:00</td>
             </tr>
         </table>
-    </div>
+    </div>   
     <div class="small-12 large-6 text-center columns">
         <table>
             <caption>Class Locations</caption>
@@ -48,6 +48,7 @@ permalink: "/syllabus/"
             </tr>
         </table>
     </div>
+</div>
 
 
 
@@ -56,10 +57,9 @@ permalink: "/syllabus/"
 <h2><a name="weekbyweek"></a>Course Schedule</h2>
  <p>
  Unlike many standard pre-Honours courses at the University, <i>Data, Design and Society</i> (DDS) will be organised around team-based projects. The project work will be broken down into five <b>phases</b>, which are indicated in the table below. 
- The structure of the projects is described in more detail in the <a href="{{ site.baseurl }}/project_overview/">Project Overview</a>.
+ The structure of the projects is 
+ described in more detail in the <a href="{{ site.baseurl }}/project_overview/">Project Overview</a>.
 </p>
-
-
 </div>
 
 <div class="t30">
@@ -72,7 +72,6 @@ permalink: "/syllabus/"
                 <th>Topic</th>
                 <th>Materials</th>
                 <th>Do before</th>
-
             </tr>
         </thead>
         <tbody>
@@ -185,7 +184,7 @@ permalink: "/syllabus/"
                 </td>
                 <td>24-Feb-2016</td>
                 <td>Participatory Design</td>
-                <td><a href="{{ site.baseurl }}/course_docs/PD_class_activity_handout.pdf">Class PD Activity</td>
+                <td><a href="{{ site.baseurl }}/course_docs/PD_class_activity_handout.pdf">Class PD Activity</a></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
@@ -254,6 +253,9 @@ permalink: "/syllabus/"
             </tr>
         </tbody>
     </table>
+
+
+
 </div>
 
 

@@ -46,7 +46,7 @@ logo: dds-logo.png
 
 
 # Paginates all X entries
-paginate: 5
+# paginate: 5
 
 
 # Pagination path › Important for blog page in /blog/ to work
@@ -57,7 +57,13 @@ paginate_path: "blog/page:num"
 markdown: kramdown
 permalink: /:categories/:title/
 highlight: rouge
-plugins: [jekyll-paginate]
+
+plugins: [jekyll-admin]
+jekyll_admin:
+  hidden_links:
+    - posts
+
+
 excerpt_separator: "<!--more-->"
 include: ['.htaccess']
 

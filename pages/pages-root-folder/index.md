@@ -6,7 +6,7 @@
 #
 layout: page
 header:
-    title: Data, Design and the City
+    title: Data, Design and Society
     image_fullwidth: header-bg.jpg
     # caption: This is a caption for the header image with link
     # caption_url: https://unsplash.com/
