@@ -1,5 +1,7 @@
 include Makefile.defs
 
+PORT := 4020
+
 PAGESDIR := pages
 DOCSDIR := course_docs
 BUILDIR := _build
@@ -16,7 +18,7 @@ PANDOC := /usr/local/bin/pandoc
 # build local Jekyll pages
 
 local:
-	bundle exec jekyll serve --config _config.yml,_config_dev.yml
+	bundle exec jekyll serve --port $(PORT) --config _config.yml,_config_dev.yml
 
 ####### build pdf version of course handbook
 
