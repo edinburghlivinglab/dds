@@ -48,7 +48,7 @@ permalink: /index.html
 
 **Data, Design and Society** is a new sort of course that combines
 interdisciplinary teamwork with practice-based challenges. It is a
-collaboration between the Schools of Informatics, Social and Political
+collaboration between the School of Informatics, Social and Political
 Studies, and Design Informatics.
 
 In today’s economy, students need the skills to work together with
